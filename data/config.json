@@ -7,8 +7,7 @@
     "throttle_sec":0.06,
     "languages": ["zh"]
   },
-  "sources": "${SOURCES}"
-  },
+  "sources": "${SOURCES}",
   "filtering": {
     "ai_score_threshold": 5.0,
     "time_window_hours": 6
