@@ -31,6 +31,7 @@ jobs:
           # Map secrets to environment variables expected by config.json
           # Modify these based on your config.json provider settings
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SOURCES: ${{secrets.SOURCES}}
         run: uv run horizon --hours 24
 
       - name: Set current date as environment variable
