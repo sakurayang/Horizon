@@ -30,7 +30,7 @@ jobs:
         run: curl https://fx.wtf/install.sh | sh
         
       - name: conifg sources
-        run: fx data/config.json '.sources=${{secrets.SOURCES}}, x' save
+        run: fx data/config.json '.sources=${{secrets.SOURCES}}, x' save && cat data/config.json
 
       - name: Run Horizon
         env:
