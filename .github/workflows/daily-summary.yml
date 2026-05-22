@@ -27,7 +27,9 @@ jobs:
         run: uv sync
         
       - name: conifg sources
-        run: npx fx data/config.json '{...x,sources=${{ secrets.SOURCES }} }' > data/config.json && cat data/config.json
+        run: |
+           npx fx data/config.json '{...x,sources=${{ secrets.SOURCES }} }' save 
+           cat data/config.json
 
       - name: Run Horizon
         env:
