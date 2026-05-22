@@ -25,12 +25,9 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
-
-      - name: Install fx
-        run: curl https://fx.wtf/install.sh | sh
         
       - name: conifg sources
-        run: fx data/config.json '.sources=${{secrets.SOURCES}}, x' save && cat data/config.json
+        run: npx fx data/config.json '{...x,sources=${{ secrets.SOURCES }} }' > data/config.json && cat data/config.json
 
       - name: Run Horizon
         env:
