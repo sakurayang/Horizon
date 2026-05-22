@@ -25,11 +25,14 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+
+      - name: Install fx
+        run: curl https://fx.wtf/install.sh | sh
         
       - name: conifg sources
         env: 
           SOURCES: ${{secrets.SOURCES}}
-        run: sed -i -n -e "s#@SOURCES#${{secrets.SOURCES}}#ig" data/config.json 
+        run: fx data/config.json '.sources=${{secrets.SOURCES}},x' save
 
       - name: Run Horizon
         env:
