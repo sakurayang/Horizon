@@ -28,8 +28,9 @@ jobs:
         
       - name: conifg sources
         run: |
-           npx fx data/config.json '{...x,sources=${{ secrets.SOURCES }} }' save 
-           cat data/config.json
+          npm install fx -g
+          fx data/config.json '{...x,sources=${{ secrets.SOURCES }} }' save 
+          cat data/config.json
 
       - name: Run Horizon
         env:
