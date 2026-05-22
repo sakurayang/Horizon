@@ -25,6 +25,11 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+        
+      - name: conifg sources
+        env: 
+          SOURCES: ${{secrets.SOURCES}}
+        run: sed -i -n -e "s#@SOURCES#${{secrets.SOURCES}}#ig" data/config.json 
 
       - name: Run Horizon
         env:
