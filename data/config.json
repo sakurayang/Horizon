@@ -7,12 +7,7 @@
     "throttle_sec":0.06,
     "languages": ["zh"]
   },
-  "sources": {
-    "hackernews": {
-      "enabled": true,
-      "fetch_top_stories": 1,
-      "min_score": 100
-    }
+  "sources": "${SOURCES}"
   },
   "filtering": {
     "ai_score_threshold": 5.0,
