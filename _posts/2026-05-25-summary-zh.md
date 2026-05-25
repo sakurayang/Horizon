@@ -5,175 +5,181 @@ date: 2026-05-25
 lang: zh
 ---
 
-> 从 111 条内容中筛选出 39 条重要资讯。
+> 从 88 条内容中筛选出 42 条重要资讯。
 
 ---
 
-1. [AMD 从 Vivado 免费版中移除 Linux 支持，引发开发者强烈反对。](#item-1) ⭐️ 8.0/10
-2. [特斯拉 S/X 产线转为机器人专线，中国机器人公司 IPO 及新品密集发布](#item-2) ⭐️ 8.0/10
-3. [机器人打破人类半马纪录，中国具身智能行业进入激烈淘汰赛](#item-3) ⭐️ 8.0/10
-4. [DeepSeek 的万亿棋盘：通过开源模型与降价重塑 AI 硬件生态](#item-4) ⭐️ 8.0/10
-5. [前 DeepMind 研究员提出：AI 发展的根本瓶颈在于评估，而非算力](#item-5) ⭐️ 8.0/10
-6. [Monzo 在 100 个团队与 12000 个 dbt 模型之上构建可治理的数据网格](#item-6) ⭐️ 8.0/10
-7. [里程碑研究揭示家猫与人类共享癌症驱动基因突变。](#item-7) ⭐️ 8.0/10
-8. [Anthropic 融资超 300 亿美元，估值近 9000 亿，逼近 OpenAI](#item-8) ⭐️ 8.0/10
-9. [Waymo 自动驾驶出租车屡次驶入积水，多个城市服务暂停。](#item-9) ⭐️ 8.0/10
-10. [Audiomass：面向网页的免费开源多轨音频编辑器发布](#item-10) ⭐️ 7.0/10
-11. [研究发现'约束衰减'是 LLM 编程智能体在后端开发中的关键缺陷](#item-11) ⭐️ 7.0/10
-12. [博客文章提倡使用 Jujutsu 版本控制系统来应对 Git 的复杂性和'严谨性疲劳'。](#item-12) ⭐️ 7.0/10
-13. [指南对比 Go 与 Rust 的后端迁移，强调关键权衡](#item-13) ⭐️ 7.0/10
-14. [英伟达发布创纪录 Q1 财报，智谱 AI 推出 GLM-5.1 高速版 API](#item-14) ⭐️ 7.0/10
-15. [AI 算力扩张与存储持续偏紧，推动先进半导体封装设备增长](#item-15) ⭐️ 7.0/10
-16. [强联智创 AI 导管塑形机器人旨在实现高难度神经介入手术自动化](#item-16) ⭐️ 7.0/10
-17. [AI 智能体在真实商业实验中惨败，引发混乱甚至破产](#item-17) ⭐️ 7.0/10
-18. [前瞻文章提出感存算一体作为后冯·诺依曼智能的实现路径](#item-18) ⭐️ 7.0/10
-19. [NASA 首次公开竞投 JPL 管理合约，加州理工学院近 70 年的垄断或将终结。](#item-19) ⭐️ 7.0/10
-20. [DeepSeek-Reasonix：一个为缓存效率优化的原生编码智能体](#item-20) ⭐️ 6.0/10
-21. [国家发改委指导国产大模型加大力度适配国产算力芯片](#item-21) ⭐️ 6.0/10
-22. [中国明确全国碳市场交易手续费实行政府指导价，欧盟批准德国氢能援助计划](#item-22) ⭐️ 6.0/10
-23. [松应科技张小波：为具身智能打造一个“虚拟训练场”](#item-23) ⭐️ 6.0/10
-24. [AI 估值狂飙、楼市结构性回暖与 AI 心理咨询兴起](#item-24) ⭐️ 6.0/10
-25. [谷歌 CEO 承认 Gemini 在编程智能体领域落后，并认为 AGI 比预想更近](#item-25) ⭐️ 6.0/10
-26. [OpenAI 加速 Codex 企业功能更新，为 IPO 铺路](#item-26) ⭐️ 6.0/10
-27. [GitHub 在并入微软 CoreAI 团队后面临人才流失与技术困境](#item-27) ⭐️ 6.0/10
-28. [AI 初创公司 Hark 完成 7 亿美元 A 轮融资，加速研发 AI 个人助理及硬件。](#item-28) ⭐️ 6.0/10
-29. [韩国副总理警告 AI 财富必须回馈社会，并以三星劳资纠纷为例。](#item-29) ⭐️ 6.0/10
-30. [经典 Dyalog APL 教材现推出交互式 Jupyter Notebook 版本](#item-30) ⭐️ 5.0/10
-31. [Ruby for Good 宣布 2026 年线下活动，聚焦协作式开源公益项目](#item-31) ⭐️ 5.0/10
-32. [Usborne 1980 年代计算机编程书籍引发怀旧，凸显其教育遗产](#item-32) ⭐️ 5.0/10
-33. [寅成智能完成千万美元天使轮融资，推进通用具身智能大模型研发与商业化](#item-33) ⭐️ 5.0/10
-34. [微信读书推出 'Skills' 功能，AI 助手可接入并分析个人阅读数据](#item-34) ⭐️ 5.0/10
-35. [评析中国学术界的“数数评价”现象](#item-35) ⭐️ 5.0/10
-36. [capcap：一款集截图、标注与图床上传于一体的免费开源 macOS 工具](#item-36) ⭐️ 5.0/10
-37. [星巴克停用 AI 库存管理系统，回归人工盘点](#item-37) ⭐️ 5.0/10
-38. [牛津报告：个人要为老年健康状况承担至少八成责任](#item-38) ⭐️ 5.0/10
-39. [美商海盗船 Vengeance DDR5 内存据称采用中国长鑫存储 DRAM 芯片。](#item-39) ⭐️ 5.0/10.0
+1. [教宗利奥十四世发布通谕《Magnifica Humanitas》，就人工智能伦理发出警告，反对非人化与利润崇拜。](#item-1) ⭐️ 8.0/10
+2. [研究颠覆空气动力学长期原则，表明微粗糙翼型可减少阻力。](#item-2) ⭐️ 8.0/10
+3. [蚂蚁灵波“因果世界模型”论文被机器人顶会 RSS 2026 接收](#item-3) ⭐️ 8.0/10
+4. [华为宣布基于“韬(τ)定律”到 2031 年实现 1.4 纳米等效晶体管密度，并公布麒麟芯片路线图。](#item-4) ⭐️ 8.0/10
+5. [DeepSeek 的十万亿美元战略：通过开源与创新重塑 AI 硬件生态](#item-5) ⭐️ 8.0/10
+6. [Monzo 在 100 多个团队和 12000 多个 dbt 模型之上构建可治理的数据网格](#item-6) ⭐️ 8.0/10
+7. [临床试验证实 FXIa 抑制剂阿舒德西昂可降低中风复发风险且不增加出血。](#item-7) ⭐️ 8.0/10
+8. [里程碑研究揭示家猫与人类共享癌症驱动基因，开辟治疗新途径。](#item-8) ⭐️ 8.0/10
+9. [SpaceX 招股书揭示其 1.75 万亿美元估值实为合并 SpaceX、xAI 和 X 公司的复杂交易。](#item-9) ⭐️ 8.0/10
+10. [苹果发布 AI 图像编解码器 PICO，同等画质下数据量最多可缩减三分之二。](#item-10) ⭐️ 8.0/10
+11. [一份指南引发关于从 Go 迁移到 Rust 用于后端服务的激烈讨论](#item-11) ⭐️ 7.0/10
+12. [宇树科技 6 月 1 日上会，具身智能赛道热度攀升](#item-12) ⭐️ 7.0/10
+13. [大厂 AI 采用沦为'刷 token'KPI 游戏，导致巨额资源浪费](#item-13) ⭐️ 7.0/10
+14. [Anthropic 正在测试 Claude 的双模记忆系统与持久化智能体平台](#item-14) ⭐️ 7.0/10
+15. [Claude Code 智能体系统赢得黑客松，GitHub 狂揽 15 万星](#item-15) ⭐️ 7.0/10
+16. [Bintrail 利用索引二进制日志和 ProxySQL 为 MySQL 添加时间旅行查询功能。](#item-16) ⭐️ 7.0/10
+17. [谷歌重新设计 Android CLI，优化 AI 代理驱动的开发工作流](#item-17) ⭐️ 7.0/10
+18. [OpenTofu 1.12 发布，带来 Terraform 用户期待已久的动态 prevent_destroy 功能](#item-18) ⭐️ 7.0/10
+19. [Copilot 创始工程师批评 AI 编码炒作，揭示 IBM Bob 的企业级定位](#item-19) ⭐️ 7.0/10
+20. [C++之父批评 AI 生成代码臃肿、充满漏洞且难以验证](#item-20) ⭐️ 7.0/10
+21. [DeepSeek 公开招募组建 Harness 团队，旨在打造中国版 Claude Code](#item-21) ⭐️ 7.0/10
+22. [GitHub 在微软领导下正面临技术和人员流失困境](#item-22) ⭐️ 7.0/10
+23. [日本声优起诉 TikTok，要求删除 AI 模仿其声音的视频](#item-23) ⭐️ 7.0/10
+24. [NYU 研究人员开发出 3 分钟手机游戏，可实现临床水平的抑郁症筛查。](#item-24) ⭐️ 7.0/10
+25. [荷兰当局查获 800 台服务器并逮捕两人，指控其支持网络攻击。](#item-25) ⭐️ 6.0/10
+26. [一篇关于软件开发中孤立性与文化的反思性文章](#item-26) ⭐️ 6.0/10
+27. [技术分析证明 Atlassian 的 Jira 问题追踪系统是图灵完备的](#item-27) ⭐️ 6.0/10
+28. [Andon Labs 实验：AI 智能体自主运营电台和零售店，导致混乱失败与财务亏损。](#item-28) ⭐️ 6.0/10
+29. [Cursor 的“套壳”产品策略实现与原生 AI 编程解决方案的性能持平](#item-29) ⭐️ 6.0/10
+30. [DeepSeek-V4-Pro API 价格永久下调 75%，或再掀 AI 模型价格战](#item-30) ⭐️ 6.0/10
+31. [平台工程如何利用“黄金砖块”实现快速、顺畅的交付](#item-31) ⭐️ 6.0/10
+32. [性能评估显示，在高 TPC-C 负载下，Snowflake 的 Oracle CDC 连接器影响甚微。](#item-32) ⭐️ 6.0/10
+33. [ClickHouse 工程师详述在大规模 C++代码库中务实应用智能体编程](#item-33) ⭐️ 6.0/10
+34. [天机智能完成 10 亿元融资，估值近百亿，跻身独角兽行列。](#item-34) ⭐️ 6.0/10
+35. [熵驱动一维磁性碳纤维嵌入三维气凝胶，实现宽频电磁波吸收](#item-35) ⭐️ 6.0/10
+36. [研究人员提出用于可倾转旋翼六旋翼飞行器的抗饱和自抗扰控制方法。](#item-36) ⭐️ 6.0/10
+37. [研究发现典型液晶单体通过干扰神经递质通路诱导斑马鱼神经毒性。](#item-37) ⭐️ 6.0/10
+38. [综述文章阐述高熵陶瓷从范式形成到有序发展的转变。](#item-38) ⭐️ 6.0/10
+39. [施普林格·自然发布关于学术出版偏见认知的全球调研报告。](#item-39) ⭐️ 6.0/10
+40. [分析：AI 驱动的存储超级周期，利润正从 HBM 回归传统 DRAM](#item-40) ⭐️ 5.0/10
+41. [零售与制造业领导者正从 AI 试点转向运营级 Agentic AI 系统](#item-41) ⭐️ 5.0/10
+42. [苹果为全球无障碍宣传日推出纪录片并举办 Today at Apple 活动，聚焦辅助功能。](#item-42) ⭐️ 5.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AMD 从 Vivado 免费版中移除 Linux 支持，引发开发者强烈反对。](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) ⭐️ 8.0/10
+## [教宗利奥十四世发布通谕《Magnifica Humanitas》，就人工智能伦理发出警告，反对非人化与利润崇拜。](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) ⭐️ 8.0/10
 
-在即将发布的 2026.1 版本中，AMD 正在改变其 Vivado Design Suite 的许可模式，引入新的层级。一个关键变化是，免费的 'Basic' 层级将不再支持 Linux 操作系统，而 Windows 支持则保持不变。 这一决定严重影响了依赖 Linux 进行 FPGA 开发的学生、爱好者和开发者，可能会疏远一个历史上推动 AMD/Xilinx 技术采用和教育的关键社区。这可能将用户推向提供更优惠免费层政策的竞争对手，从长远来看会削弱 AMD 的生态系统。 新的分层模型包括 BASIC、CORE 和 PRO（年度）以及 ENTERPRISE 和 GOLD（永久）选项。免费的 BASIC 层级继续支持与之前相同的 UltraScale 和 UltraScale+ 器件范围，但现在仅限于 Windows 平台。访问 Linux 需要 CORE（起价 1200 美元/年）等付费层级。
+教宗利奥十四世于 2024 年 5 月 15 日发布了一份题为《Magnifica Humanitas》的教宗通谕，阐述了人工智能的伦理影响。该文件特别警告了不透明算法系统的非人化风险，并批评了可能牺牲人类尊严的‘利润崇拜’。 此事意义重大，因为它代表了一个具有全球影响力的机构对人工智能进行的一次重要哲学与伦理干预，可能塑造公众讨论和政策辩论。它将技术发展与人权尊严、权力结构和社会正义等核心问题联系起来，倡导一种以人为本的方法。 该通谕使用‘巴别塔综合症’的隐喻，批评了那种旨在消除人类差异、将人格的奥秘简化为数据的数字化统一性驱动。它断言‘技术从来不是中立的’，因为它反映了其创造者和使用者的特性。
 
-hackernews · zdw · 5月24日 04:14 · [社区讨论](https://news.ycombinator.com/item?id=48254309)
+hackernews · theletterf · 5月25日 10:11 · [社区讨论](https://news.ycombinator.com/item?id=48265206)
 
-**背景**: Vivado Design Suite 是 AMD 用于设计和编程 FPGA（现场可编程门阵列）的主要软件工具，FPGA 是一种可重新配置的半导体器件。它取代了旧的 ISE 套件，对于硬件描述语言（HDL）综合和片上系统开发至关重要。FPGA 开发工具通常具有复杂的许可模式，免费层级常用于教育和入门级项目。
+**背景**: 教宗通谕是教宗发布的正式信函，用以阐述天主教会对重要教义或社会问题的立场。近期的通谕，如教宗方济各的《众位弟兄》，曾论述过诸如兄弟情谊与社会友谊等全球性挑战。人工智能的伦理风险，包括算法偏见和非人化，是学术界和公众持续关注的活跃领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/vivado-licensing-options.html">AMD Vivado™ Licensing Options | Flexible Subscription & Perpetual Tiers</a></li>
-<li><a href="https://www.eevblog.com/forum/fpga/new-licencing-for-vivadovitis-2026-1/">New licencing for Vivado /Vitis 2026.1 | Forum</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Vivado">Vivado - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Papal_encyclical">Papal encyclical</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fratelli_tutti">Fratelli tutti - Wikipedia</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1471772723000325">Risk and the future of AI: Algorithmic bias, data colonialism ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应 overwhelmingly 是负面和批评 AMD 这一决定的。主要观点包括：对这一变化疏远了恰恰是推动生态系统发展的学生和爱好者感到沮丧；批评 AMD/Xilinx 在被收购后的方向，重商业而轻工程；以及用户提到像莱迪思半导体（Lattice Semiconductor）这样的竞争对手，后者为基础芯片提供免费工具，是一个更优的选择。几位评论者表示他们将更换供应商。
+**社区讨论**: 社区评论反映了一场细致的辩论，一些人赞扬该文件捍卫人类多样性并批评影响关键人生决策的不透明‘黑箱’算法。另一些人则对教会的立场表示困惑，质疑其是否源于对人工智能可能使人摆脱宗教和消费主义等传统权力结构的恐惧。此外，也有呼声要求采取超越言辞的实际行动，例如支持开源倡议。
 
-**标签**: `#FPGA`, `#AMD`, `#Open Source`, `#Developer Tools`, `#Hardware`
+**标签**: `#AI Ethics`, `#Philosophy of Technology`, `#Social Impact`, `#Governance`
 
 ---
 
 <a id="item-2"></a>
-## [特斯拉 S/X 产线转为机器人专线，中国机器人公司 IPO 及新品密集发布](https://pdf.dfcfw.com/pdf/H3_AP202605251822845819_1.pdf?1779700671000.pdf) ⭐️ 8.0/10
+## [研究颠覆空气动力学长期原则，表明微粗糙翼型可减少阻力。](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) ⭐️ 8.0/10
 
-特斯拉弗里蒙特工厂的最后一批 Model S/X 已正式下线，该产线将在 4 个月内改造为专用人形机器人产线，设计年产能目标为 100 万台。同时，杭州云深处科技的科创板 IPO 申请获受理，拟募资 25.03 亿元，而蔚蓝科技、优必选等国内公司也发布了新一代消费级机器人产品。 这标志着特斯拉从汽车制造向大规模人形机器人生产的关键转变，预示着具身智能商业化进程将大幅加速。中国机器人公司密集的 IPO 与新品发布，叠加上海推动'10 万台机器人进厂'的计划，表明 2026 至 2030 年是该产业从技术验证走向规模化量产和应用爆发的关键节点。 特斯拉 Optimus V2.5 已展示出更拟人化的步态，其试产线已启动。报告指出，人形机器人技术正趋于收敛，重点关注电驱动新技术（如谐波磁场电机、GaN 半导体）、灵巧手以及 PEEK 等新材料。产业预计将遵循新能源汽车的发展路径，2030 年有望成为规模化爆发的关键拐点。
+最近发表在《流体力学杂志》上的一项研究颠覆了航空工程的一项基本原则，证明具有微粗糙表面的翼型可以比完全光滑的表面承受更低的空气动力阻力。这一发现直接挑战了表面越光滑阻力越低的长期共识。 这一发现对于提高飞机、汽车和高速列车的燃油效率和性能具有重要意义，因为它提供了一种潜在简单且低成本的减阻方法。它可能带来对现有机队的改造和新车的重新设计，影响整个交通运输行业的能源消耗和运营成本。 该研究特别关注边界层流动从层流转变为湍流的'转捩区'，所报告的减阻百分比主要适用于这一区域。一个关键的注意事项是，在实际条件下，整个翼型或车辆的整体净改善效果仍有待完全量化。
 
-rss · 东方财富网-行业研报 · 5月24日 16:00
+hackernews · littlexsparkee · 5月24日 19:10 · [社区讨论](https://news.ycombinator.com/item?id=48260117)
 
-**背景**: 人形机器人（如特斯拉 Optimus）是设计成类人形态、旨在人类环境中执行任务的机器。具身智能是指将感知、推理和行动能力融合于物理实体中，能与现实世界动态交互的智能系统。科创板是上海证券交易所设立的板块，主要服务于符合国家战略、突破关键核心技术的高科技创新企业。谐波磁场电机是一种新型电机技术，打破了传统电机设计的限制，能提供更高的扭矩密度和更轻的重量，非常适合机器人关节。GaN（氮化镓）是第三代半导体材料，用于制造更高效、紧凑、功率密度更高的电机驱动器，以实现对机器人关节的精确控制。
+**背景**: 在空气动力学中，边界层是紧贴运动物体表面的薄层流体，它对阻力有显著影响。一个多世纪以来，一个基本原则是更光滑的表面能促进更稳定的层流边界层，从而减少摩擦阻力。然而，受控的表面粗糙度对层流和湍流之间转捩的影响，是一个被称为边界层控制的复杂研究领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.qbitai.com/2025/10/347284.html">全球首个具身智能开放平台来了！让大模型长出“身体”，像人一样自然表达交互</a></li>
-<li><a href="https://www.baogaobox.com/insights/250811000017036.html">2025年机器人电机技术革命：谐波磁场电机将打开82亿市场空间</a></li>
-<li><a href="https://news.qq.com/rain/a/20250723A0234Z00">GaN技术如何应用到人形机器人执行关节？_腾讯新闻</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Boundary_layer">Boundary layer - Wikipedia</a></li>
+<li><a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/boundary-layers/">Boundary Layer Flows – Introduction to Aerospace Flight Vehicles</a></li>
 
 </ul>
 </details>
 
-**标签**: `#robotics`, `#manufacturing`, `#artificial-intelligence`, `#investment-research`, `#automation`
+**社区讨论**: 社区成员指出了其他领域的类似现象，例如帆船运动（精细打磨的船体可减少摩擦）和高尔夫球的凹坑，并对这一原理尚未在翼型上确立表示惊讶。讨论还集中在实际应用上，用户猜测通过喷砂改造飞机的简易性，但也对整体燃油效率提升的幅度提出了疑问。
+
+**标签**: `#aerodynamics`, `#fluid-dynamics`, `#engineering`, `#physics`, `#research`
 
 ---
 
 <a id="item-3"></a>
-## [机器人打破人类半马纪录，中国具身智能行业进入激烈淘汰赛](https://www.cyzone.cn/article/834380.html) ⭐️ 8.0/10
+## [蚂蚁灵波“因果世界模型”论文被机器人顶会 RSS 2026 接收](https://www.cyzone.cn/article/834509.html) ⭐️ 8.0/10
 
-2026 年 4 月，荣耀旗下的“闪电”人形机器人在北京亦庄半程马拉松中以 50 分 26 秒的成绩夺冠，正式超越了人类男子半马世界纪录。与此同时，中国具身智能头部企业如它石智航（TARS）和星动纪元（ROBOTERA）完成了巨额融资，其中它石智航创下了 4.55 亿美元的中国具身智能领域单轮融资纪录。 这一里程碑标志着机器人在移动性和耐力这一具身智能核心挑战上取得了巨大飞跃。巨额资金向少数头部企业集中，表明行业正进入关键的“淘汰赛”阶段，资本、人才和技术壁垒将迅速拉开企业差距，加速市场整合。 荣耀的夺冠机器人有一个关键的技术升级：其背后加装的“小书包”集成了航天级散热系统以维持性能。文章指出，资本虽是入场券，但长期的竞争关键在于攻克重大技术挑战，例如收集海量的真实世界训练数据以及开发足够泛化的具身智能大模型。
+蚂蚁灵波科技与香港科技大学等合作完成的研究论文《Causal World Modeling for Robot Control》被国际顶级学术会议 RSS 2026 接收。该论文提出了面向机器人控制的因果世界建模框架，并落地为全球首个开源的自回归视频-动作世界模型 LingBot-VA。 这项研究标志着机器人控制从依赖指令执行，向具备环境理解、任务泛化和自主决策能力的重要迈进。它让机器人能够像人类一样“边观察、边判断、边行动”，为具身智能和机器人学习开辟了新的技术路线。 LingBot-VA 采用 Mixture-of-Transformers 架构，将视频预测和动作生成统一到同一个自回归扩散框架中，并设计了闭环推演机制以减少误差累积。在 RoboTwin 2.0 的 50 个双臂操作任务中，其平均成功率在 Easy 和 Hard 设置下分别达到 92.0%和 91.1%；在真实世界评测中，其成功率较业界基线π0.5 提升超过 20 个百分点。
 
-rss · 最新资讯 - 创业邦 · 5月25日 02:36
+rss · 最新资讯 - 创业邦 · 5月25日 09:58
 
-**背景**: 具身智能（Embodied AI）指的是将人工智能整合到物理实体（如机器人）中，使其能与现实世界互动并从中学习的技术，被认为是通往通用人工智能（AGI）的关键路径。在中国，该行业从 2025 年开始被视为 AI 大模型硬件落地的重要场景，获得了巨大发展动力。例如，它石智航（TARS）成立于 2025 年 2 月，由自动驾驶领域的资深人士创立，致力于构建“超级具身智能”系统。
+**背景**: 世界模型是一种能够学习环境预测模型的 AI 系统，使智能体能在行动前模拟未来状态。机器人学中的因果推理涉及理解动作如何随时间引起世界视觉和物理状态的变化。Robotics: Science and Systems (RSS) 会议是机器人学领域的顶级学术会议，以其严格的录用标准而闻名。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://baike.baidu.com/item/它石智航/67669463">它石智航 - 百度百科</a></li>
-<li><a href="https://github.com/yinzjpku/embodied">GitHub - yinzjpku/ embodied : 仅需Python...</a></li>
+<li><a href="https://arxiv.org/abs/2601.21998">[2601.21998] Causal World Modeling for Robot Control - arXiv</a></li>
+<li><a href="https://arxiv.org/abs/2010.04296">[2010.04296] CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning</a></li>
+<li><a href="https://github.com/robbyant/lingbot-va">GitHub - Robbyant/lingbot-va: [RSS 2026] Causal video-action ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#embodied-ai`, `#robotics`, `#venture-capital`, `#artificial-intelligence`, `#china-tech`
+**标签**: `#Robotics`, `#World Models`, `#Embodied AI`, `#Causal Reasoning`, `#Autonomous Systems`
 
 ---
 
 <a id="item-4"></a>
-## [DeepSeek 的万亿棋盘：通过开源模型与降价重塑 AI 硬件生态](https://www.36kr.com/p/3823859036672386) ⭐️ 8.0/10
+## [华为宣布基于“韬(τ)定律”到 2031 年实现 1.4 纳米等效晶体管密度，并公布麒麟芯片路线图。](https://www.caixin.com/2026-05-25/102447416.html) ⭐️ 8.0/10
 
-一篇分析文章提出，DeepSeek 近期高达 700 亿人民币的融资计划以及对 V4-Pro API 永久降价 75%的举措，其战略目标并非直接通过 API 盈利。文章核心论点是，DeepSeek 的终极目标是参与并塑造一个价值十万亿美元的 AI 硬件生态系统，通过其模型技术从根本上改变对昂贵硬件（如 HBM）的依赖。 这标志着 AI 商业战略的根本性转变，从在模型服务上竞争转向影响底层硬件栈。如果成功，它将可能降低全球 AI 推理成本，赋能替代硬件供应商（尤其在中国），并重新定义通往 AGI 道路上的竞争格局。 DeepSeek V4 的架构，尤其是其高效的 KV 缓存（处理 100 万上下文仅需 5.48GB HBM，而其他模型约需 60GB），是这一战略的技术基石。这种效率使其能够实施激进的定价策略，并减少对昂贵的高带宽内存（HBM）的依赖，从而将需求转向更便宜的存储（SSD/NAND）和内存（LPDDR）。
+在 5 月 25 日的 ISCAS 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波宣布，预计到 2031 年，华为基于“韬(τ)定律”的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平。华为同时公布了其麒麟芯片的三年产品路线图。 这一宣布意义重大，因为它勾勒出华为在可能无法获得最先进半导体制造设备的情况下，提升芯片性能的战略路径。这标志着全球芯片行业竞争加剧，特别是对标计划在 2028 年量产 1.4 纳米芯片的台积电等领导者。 “韬(τ)定律”的核心是“时间缩微”而非传统的“几何缩微”，通过逻辑折叠等技术来提升晶体管密度和芯片良率。不过，业内人士指出，该方案通过工程手段提升性能与良率，但在综合性能、功耗上仍无法完全抹平与真正下一代制程之间的代差。
 
-rss · 36氪 - 最新资讯频道 · 5月25日 00:06
+rss · 财新网 - 首页 · 5月25日 14:07
 
-**背景**: DeepSeek 是一家中国 AI 公司，以其开源大语言模型（LLM）而闻名，例如 DeepSeek-V2 和近期的 DeepSeek V4 系列。AI 硬件生态系统由用于训练和运行 AI 模型的专用组件构成，其中高带宽内存（HBM）是关键、昂贵且供应受限的组件，主要由 SK 海力士、三星等少数公司生产。KV 缓存是基于 Transformer 的大语言模型中的一种内存机制，用于存储中间计算结果以加速长文本对话的生成；其大小直接影响硬件成本和性能。
+**背景**: 过去半个多世纪，全球半导体产业主要遵循摩尔定律，即通过不断缩小晶体管尺寸（几何缩微）来大约每两年将芯片上的晶体管数量翻倍。随着物理极限临近，行业正在寻找新的范式。华为提出的“韬(τ)定律”就是这样一种替代路径，强调在系统和电路设计层面进行优化以实现性能持续提升。晶体管密度是与制程节点（如 3 纳米、2 纳米）相关联的关键指标，但二者关系并非严格定义，这为通过不同方法实现相近的密度目标提供了可能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.morphllm.com/deepseek-v4">DeepSeek V4: Architecture, Benchmarks, and API Guide (2026)</a></li>
-<li><a href="https://takshashila.org.in/content/publications/20230320-AI-Race-AI-Hardware.html">Takshashila Issue Brief - AI Race Must Not Overlook AI Hardware ...</a></li>
+<li><a href="https://news.qq.com/rain/a/20260525A05HNV00?adChannelId=tech">没有先进光刻机也能造出高端芯片，华为发表的“韬(τ)定律”是什么</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/芯片制程技术节点">芯片制程技术节点 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.jiemian.com/video/AGUCMQhjB28BMFVj.html">jiemian.com/video/AGUCMQhjB28BMFVj.html</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Strategy`, `#Large Language Models`, `#Hardware Ecosystem`, `#Business Model`, `#AGI`
+**标签**: `#Semiconductors`, `#Huawei`, `#Chip Manufacturing`, `#Technology Roadmap`, `#Industry Competition`
 
 ---
 
 <a id="item-5"></a>
-## [前 DeepMind 研究员提出：AI 发展的根本瓶颈在于评估，而非算力](https://www.36kr.com/p/3823851975692672) ⭐️ 8.0/10
+## [DeepSeek 的十万亿美元战略：通过开源与创新重塑 AI 硬件生态](https://www.36kr.com/p/3823859036672386) ⭐️ 8.0/10
 
-2026 年 5 月 17 日，前 Google DeepMind 研究员 Lun Wang 在离职当天发布了一篇 4000 词的长文，指出 AI 发展的核心瓶颈是评估，而非算力、数据、能源或架构。他认为整个行业的方向都错了，90%的注意力集中在训练上，而真正的问题在于过时且脆弱的评估体系。 这一批评挑战了整个 AI 行业以算力和数据扩展为核心的投资与研究重点。如果评估确实是主要瓶颈，将需要资源、研究重点和开发方法的重大转变，在更好的评估框架建立之前，可能会减缓表面的进展速度。 Wang 指出了评估体系历史上两次失效的实例：'涌现'（如 few-shot 学习等新能力在模型达到特定规模时突然出现）和'顿悟'（泛化能力在经过大量训练后突然出现）。他警告称，当前的基准测试、安全评估和红队协议都假设下一个模型只是当前模型的强化版，如果模型是另一种根本不同的东西，整个评估基础设施将'悄无声息地崩溃'。
+一项战略分析提出，DeepSeek 的真正野心是通过开源模型、激进的定价以及高效的 KV Cache 等架构创新，来塑造一个价值 10 万亿美元的 AI 硬件生态系统，而不仅仅是销售 API 服务。这一分析紧随该公司近期将其 V4-Pro API 永久降价 75%以及据报道以 450 亿美元投前估值进行 700 亿元人民币融资的消息。 这一战略可能从根本上改变 AI 推理的成本结构，减少对昂贵 HBM 内存的依赖，并为 SSD 和 LPDDR 等组件创造新市场。它为中国 AI 芯片提供了一条潜在的“换道超车”路径，使其能够通过优化内存效率而非比拼原始算力来竞争，并将 DeepSeek 定位为未来 AGI 硬件栈的关键架构师。 DeepSeek V4 的架构在处理 100 万 token 上下文时仅需 5.48GB 的 HBM，约为其他顶级模型的十分之一，这使其能够实现每百万 token 仅 0.025 元的极低缓存命中价格。该战略利用了 MoE、GRPO、RLVR 以及 Engram 模块等创新，用廉价的内存读取替代昂贵的 GPU 计算。
 
 rss · 36氪 - 最新资讯频道 · 5月25日 00:06
 
-**背景**: 在 AI 开发中，'评估'指的是测试和衡量模型能力、安全性和鲁棒性的过程。它通常包含多个层面：能力基准测试（如 GPQA 或 SWE-bench）、安全评估以及红队测试（专家试图让模型出错）。行业最近已认识到，随着模型复杂性增加，评估正成为一个显著的计算和方法论瓶颈，有报告指出它正在成为'新的算力瓶颈'。
+**背景**: 通用人工智能（AGI）是一种假想的 AI，能够在广泛的任务中匹配或超越人类的认知能力。AI 硬件生态系统包括用于训练和推理的专用组件（如 GPU/ASIC），以及高性能内存（HBM）、固态硬盘（SSD）和低功耗内存（LPDDR），这些对性能和成本至关重要。DeepSeek V4-Pro 是一个大规模开源混合专家模型（MoE），拥有 1.6 万亿总参数，以其长上下文窗口和有竞争力的定价而闻名。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aitoolly.com/ai-news/article/2026-04-30-ai-evaluations-emerge-as-the-new-compute-bottleneck-in-model-development-according-to-hugging-face">AI Evals: The New Compute Bottleneck in AI Development</a></li>
-<li><a href="https://kili-technology.com/blog/ai-model-evaluation-guide-methods-metrics-and-why-it-determines-production-success">AI Model Evaluation Methods and Metrics for Production AI</a></li>
-<li><a href="https://www.breezyscroll.com/technology-news/google-deepmind-ai-evaluation-problem/">AI Researcher Lun Wang Departs DeepMind ... - BreezyScroll</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">Artificial general intelligence - Wikipedia</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-pro">DeepSeek V 4 Pro - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#AI Ethics & Safety`, `#Machine Learning`, `#Industry Critique`
+**标签**: `#AI Strategy`, `#AGI`, `#AI Hardware`, `#Open Source AI`, `#Business Models`
 
 ---
 
 <a id="item-6"></a>
-## [Monzo 在 100 个团队与 12000 个 dbt 模型之上构建可治理的数据网格](https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC) ⭐️ 8.0/10
+## [Monzo 在 100 多个团队和 12000 多个 dbt 模型之上构建可治理的数据网格](https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC) ⭐️ 8.0/10
 
-英国数字银行 Monzo 采用一种被称为 'meshy' 的可治理数据网格方法，重新设计了其数据仓库，使 100 多个团队能够在超过 12000 个 dbt 模型上进行协作。此次迁移将仓库成本降低了约 40%，并将数据交付速度提升了 25%。 这一案例展示了在受监管的行业中大规模成功实施数据网格原则，解决了在扩展数据所有权的同时不牺牲治理的关键挑战。它为其他寻求在提高成本效率和交付速度的同时实现数据管理去中心化的组织提供了一个实用的蓝图。 该架构强制执行四层建模分层（落地层、生成层、逻辑层、展示层），并使用一个名为 'Modelgen' 的自定义命令行工具来生成一致的 SQL 和 YAML 模型。严格的质量规则，例如要求每个模型定义唯一键和包含新鲜度测试，都通过 CI/CD 流水线进行自动化校验。
+英国数字银行 Monzo 通过实施一种可治理的 'meshy' 方法重新设计了其数据仓库，管理着 100 多个团队使用的超过 12,000 个 dbt 模型。据报道，这次迁移使仓库成本降低了约 40%，数据交付速度提升了 25%。 这一案例意义重大，它展示了数据网格原则在大型规模下的实际应用，并提供了具体的治理方案，解决了高速增长组织中扩展数据所有权的普遍挑战。所报告的成本和速度提升为其他公司，尤其是金融科技等受监管行业，提供了一个引人注目的蓝图，帮助它们在团队自主权和系统范围的一致性及效率之间取得平衡。 该架构建立在四个清晰的建模层（落地层、规范化层、逻辑层、展示层）之上，并通过自动化 CI 检查、一个名为 Modelgen 的自定义 CLI 工具来生成一致的 SQL/YAML，以及对每个模型的严格要求（如唯一键和新鲜度测试）来保证质量。这次迁移仍在进行中，目前仅完成了约 30%，表明这些结果虽然处于早期阶段但前景乐观。
 
 rss · InfoQ 推荐 · 5月25日 01:17
 
-**背景**: 数据网格是一种基于领域导向所有权和数据即产品等原则的、去中心化的数据架构方法。dbt（数据构建工具）是一个流行的框架，允许数据团队使用 SQL 在数据仓库中转换数据，将转换视为模块化、版本控制的模型。持续集成（CI）是一种软件实践，代码变更会被自动构建、测试和合并，Monzo 应用此实践来强制执行数据质量标准。
+**背景**: 数据网格是一种去中心化的数据架构，由面向领域的团队拥有其数据产品，需要通过联合治理来确保互操作性。dbt（数据构建工具）是一个流行的框架，使用基于 SQL 的模型来转换数据仓库中的数据，处理 ELT 流程中的 'T'（转换）。CI/CD（持续集成/持续部署）管道用于自动化测试和验证，在此场景中用于强制执行数千个模型间的数据质量标准和结构一致性。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://martinfowler.com/articles/data-mesh-principles.html">Data Mesh Principles and Logical Architecture</a></li>
-<li><a href="https://docs.getdbt.com/docs/build/models">About dbt models | dbt Developer Hub - dbt Labs</a></li>
+<li><a href="https://www.getdbt.com/blog/what-exactly-is-dbt">What is dbt? Explained by the team that built it | dbt Labs</a></li>
+<li><a href="https://howik.com/best-practices-for-data-validation-in-ci-cd">Mastering Data Validation in CI/CD: Best Practices - Howik</a></li>
 
 </ul>
 </details>
@@ -183,721 +189,781 @@ rss · InfoQ 推荐 · 5月25日 01:17
 ---
 
 <a id="item-7"></a>
-## [里程碑研究揭示家猫与人类共享癌症驱动基因突变。](http://blog.sciencenet.cn/blog-212210-1536257.html) ⭐️ 8.0/10
+## [临床试验证实 FXIa 抑制剂阿舒德西昂可降低中风复发风险且不增加出血。](http://blog.sciencenet.cn/blog-41174-1536198.html) ⭐️ 8.0/10
 
-2026 年 5 月 23 日发表在《科学》杂志上的一项里程碑研究，分析了近 500 个家猫肿瘤样本，识别出关键的癌症驱动基因突变，例如在侵袭性乳腺肿瘤中常见的 FBXW7 基因突变，这些突变在人类癌症中也存在。研究还发现，在实验室测试中，携带 FBXW7 突变的肿瘤对某些化疗药物的反应更好。 这一发现意义重大，因为它建立了猫科动物与人类癌症之间强大的遗传联系，使得“一种医学”方法成为可能，即治疗方法可以在物种间进行交叉测试。这为开发针对宠物和人类更有效的靶向癌症疗法开辟了新途径，并可能加速转化研究。 这项研究是迄今为止对家猫肿瘤进行的最大规模基因组分析，为未来研究创建了宝贵的开放资源。一个重要的注意事项是，化疗药物反应更好的结果仅在组织样本中观察到，需要进一步的体内研究来确认其临床适用性。
+一项发表于《新英格兰医学杂志》的大型国际 3 期临床试验（OCEANIC-STROKE）证实，实验性凝血因子 XIa 抑制剂阿舒德西昂，能使近期非心源性栓塞性中风或高危短暂性脑缺血发作患者的缺血性中风复发风险降低 26%，且未增加大出血风险。该试验在 37 个国家招募了 12,327 名患者。 这一突破解决了中风预防领域数十年的两难困境，即有效抗凝会显著增加出血风险。阿舒德西昂能在不影响正常止血功能的前提下预防血栓，有望为全球数百万有中风和其他血栓栓塞风险的患者带来一类更安全、具有范式转变意义的抗凝药物。 患者在标准抗血小板治疗基础上，每日服用 50mg 阿舒德西昂或安慰剂。该药物还将主要心血管事件（中风、心梗、心血管性死亡）的复合风险降低了 17%，将致残或致死性中风风险降低了 31%。该试验专门针对最常见的非心源性栓塞性缺血性中风。
 
-rss · 科学网 - 精选博文 · 5月25日 00:29
+rss · 科学网 - 精选博文 · 5月25日 03:42
 
-**背景**: 肿瘤基因组学是基因组学的一个分支，专注于识别与癌症相关的基因，即癌基因和肿瘤抑制基因。癌症驱动突变是直接导致癌症进展的特定基因改变，有别于偶然发生的“乘客”突变。跨物种癌症研究通过比较猫、狗等动物的自发性肿瘤与人类癌症，以寻找共同的生物学机制并提高治疗的可转化性，因为许多在啮齿动物模型中成功的疗法在人类身上会失败。
+**背景**: 凝血因子 XIa 是血液凝固内源性（接触激活）通路中的关键酶。与其他凝血因子（如凝血酶或因子 Xa）不同，FXIa 在病理性血栓形成中起主要作用，但在正常止血（防止受伤后出血）过程中作用有限。这一独特的生物学特性使其成为开发抗凝药物的理想靶点，旨在预防血栓的同时不引起过度出血，而出血正是华法林和直接口服抗凝药等现有药物的主要缺陷。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Oncogenomics">Oncogenomics</a></li>
-<li><a href="https://www.nature.com/articles/s41598-023-39608-2">Mutational landscape of cancer-driver genes across human cancers | Scientific Reports</a></li>
-<li><a href="https://whyy.org/articles/cross-species-research-on-the-rise/">Cross species cancer research on the rise - WHYY</a></li>
+<li><a href="https://www.jacc.org/doi/10.1016/j.jacc.2022.11.057">Clinical Evaluation of Factor XIa Inhibitor Drugs: JACC Review Topic of the Week | JACC</a></li>
+<li><a href="https://ashpublications.org/bloodadvances/article/9/1/192/518118/Factor-XI-inhibitors-a-new-class-of-anticoagulants">Factor XI inhibitors: a new class of anticoagulants</a></li>
+<li><a href="https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062353">Pharmacology and Clinical Development of Factor XI Inhibitors | Circulation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cancer-research`, `#genomics`, `#cross-species`, `#veterinary-science`, `#oncology`
+**标签**: `#medical-research`, `#pharmacology`, `#stroke-prevention`, `#anticoagulants`, `#clinical-trials`
 
 ---
 
 <a id="item-8"></a>
-## [Anthropic 融资超 300 亿美元，估值近 9000 亿，逼近 OpenAI](https://www.pingwest.com/w/314000) ⭐️ 8.0/10
+## [里程碑研究揭示家猫与人类共享癌症驱动基因，开辟治疗新途径。](http://blog.sciencenet.cn/blog-212210-1536257.html) ⭐️ 8.0/10
 
-据报道，Anthropic 即将完成一轮超过 300 亿美元的融资，其估值将突破 9000 亿美元。此举使其有望超越 OpenAI，成为全球估值最高的私营 AI 公司。 这笔巨额融资表明投资者对 Anthropic 的技术及其塑造 AI 未来的潜力抱有强烈信心，加剧了其与 OpenAI 的竞争格局。这突显了生成式 AI 领域内资本的高度集中和战略重要性。 据报道的近 9000 亿美元估值，相比其 2026 年 2 月约 3800 亿美元的估值是一个巨大的飞跃。此轮融资尚未得到 Anthropic 官方确认，最终数字可能发生变化。
+2026 年 5 月 24 日发表在《科学》杂志上的一项里程碑研究，对来自世界各地的近 500 个家猫肿瘤进行了有史以来最大规模的基因组分析，发现了猫、狗和人类之间共享的癌症驱动基因突变，其中最显著的是与侵袭性乳腺癌相关的 FBXW7 基因。 这一发现意义重大，因为它确立了猫与人类癌症之间强大的遗传联系，使得一种“一体化医学”方法成为可能，即治疗方法和研究见解可以在物种间交叉应用，有望加速为两者开发新的疗法。 一个关键发现是，与人类癌症较差预后相关的 FBXW7 基因突变，在超过一半的研究猫乳腺肿瘤中被发现，并且初步观察表明，某些化疗药物可能对这种突变的肿瘤更有效。
 
-rss · 品玩 - 要闻 · 5月25日 02:29
+rss · 科学网 - 精选博文 · 5月25日 00:29
 
-**背景**: Anthropic 是一家 AI 安全和研究公司，由包括 Dario 和 Daniela Amodei 兄妹在内的前 OpenAI 员工于 2021 年创立。该公司以开发 Claude 系列大语言模型而闻名，这是一个类似于 ChatGPT 的 AI 助手。Anthropic 的一项核心创新是 Constitutional AI（宪法 AI），这是一种通过一套预定义的伦理原则来引导 AI 行为，使其变得有益、无害且诚实的训练方法。
+**背景**: 癌症驱动基因是指其突变能为细胞提供选择性生长优势，从而驱动癌症发生和发展的基因。转化医学旨在将基础研究中的发现（如识别这些基因）转化为疾病诊断、预防和治疗的临床应用。“一体化医学”概念强调人类医学与兽医学之间的合作，以改善跨物种的健康结果。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
-<li><a href="https://arxiv.org/abs/2212.08073">[2212.08073] Constitutional AI: Harmlessness from AI Feedback</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Oncogene">Oncogene - Wikipedia</a></li>
+<li><a href="https://tcr.amegroups.org/">Home - Translational Cancer Research</a></li>
+<li><a href="https://grokipedia.com/page/Driver_Genes_in_Cancer">Driver Genes in Cancer</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Venture Capital`, `#Anthropic`, `#Business`, `#Finance`
+**标签**: `#genomics`, `#cancer-research`, `#translational-medicine`, `#veterinary-science`, `#bioinformatics`
 
 ---
 
 <a id="item-9"></a>
-## [Waymo 自动驾驶出租车屡次驶入积水，多个城市服务暂停。](https://unwire.hk/2026/05/24/waymo-robotaxi-flood-crisis-service-paused/life-tech/auto/?utm_source=rss&utm_medium=rss&utm_campaign=waymo-robotaxi-flood-crisis-service-paused) ⭐️ 8.0/10
+## [SpaceX 招股书揭示其 1.75 万亿美元估值实为合并 SpaceX、xAI 和 X 公司的复杂交易。](https://geekpark.net/news/364757) ⭐️ 8.0/10
 
-Waymo 在亚特兰大暴雨期间再次发生车辆驶入积水被困事件后，宣布暂停亚特兰大、圣安东尼奥、达拉斯、休斯顿及奥斯汀的服务。这一问题在召回临时软件更新后不足两周再次出现，且公司至今仍未开发出永久解决方案。 这一事件突显了主流商业自动驾驶服务中一个关键且反复出现的安全故障，直接影响公共安全和服务可靠性。它揭示了自动驾驶车辆在处理洪水等复杂现实天气条件时面临的重大技术挑战，这可能延缓其更广泛的推广和监管审批。 据报道，车辆的传感器检测到了积水，但系统仍以降低的速度继续行驶，导致了事故的发生。最近的召回涉及一次作为临时补救措施的空中软件更新，但事实证明它不足以防止问题再次发生。
+SpaceX 于 5 月 20 日向美国证券交易委员会提交了 S-1 招股书，目标估值高达 1.75 万亿美元，计划募资最多 800 亿美元。文件显示，这并非单纯的 SpaceX 上市，而是一系列复杂合并的结果：马斯克先于 2025 年 3 月将 X 公司并入 xAI，又于 2026 年 2 月将 xAI 整体并入了 SpaceX。 此举将一家盈利的火箭公司、一家烧钱的 AI 初创公司和一个衰退的社交媒体平台打包进一个天价估值实体中，其战略意图是让财务表现较弱的业务也能借助强势业务进入公开资本市场。这是一场高风险的金融运作，可能重塑市场对科技巨头估值的认知，并为 AI 时代捆绑不同业务上市开创先例。 尽管 SpaceX 在 2024 年独立盈利（净利润 7.91 亿美元），但合并后的实体在 2025 年净亏损 49.4 亿美元，主要原因是 xAI 板块高达 63.6 亿美元的运营亏损。虽然星链业务是现金牛，其调整后 EBITDA 利润率达 63%，但其每用户平均收入在三年内下降了 33%，这表明在竞争加剧的背景下，公司正采取“以价格换规模”的策略。
 
-rss · 香港 unwire.hk 玩生活．樂科技 · 5月24日 14:00
+rss · 综合报道 | 极客公园 · 5月25日 06:05
 
-**背景**: Robotaxi（自动驾驶出租车）是指为网约车服务运营的自动驾驶汽车（SAE 4 级或 5 级）。Waymo 是该领域的领先公司，在多个美国城市提供商业自动驾驶出行服务。对于自动驾驶汽车来说，检测和通过道路积水是一个已知的挑战，这依赖于传感器和计算机视觉系统来识别此类危险路况。
+**背景**: S-1 表格是美国证券交易委员会要求计划进行首次公开募股的公司提交的注册声明文件，旨在向投资者提供详细的业务和财务信息以增加透明度。反向并购是传统 IPO 的一种替代方案，即一家私人公司通过与一家现有的上市壳公司合并来实现上市，这种方式可能更快，但风险不同。本文的分析正是基于该招股书揭示的复杂合并结构，而非标准的 IPO 流程。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Robotaxi">Robotaxi - Wikipedia</a></li>
-<li><a href="https://xeber.world/en/article/waymo-recalls-thousands-of-robotaxis-after-one-got-washed-away-in-a-flood-5cfa62">Waymo Recalls 3,971 Robotaxis Over Floodwater Safety Flaw</a></li>
-<li><a href="https://electrek.co/2026/05/12/waymo-recalls-3791-robotaxis-flooded-road-ota-software-fix/">Waymo recalls 3,791 robotaxis over flooded road incident... | Electrek</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Form_S-1">Form S-1 - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/ask/answers/08/reverse-merger-ipo.asp">Reverse Merger vs. IPO: Understand Key Differences</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Autonomous Vehicles`, `#Waymo`, `#AI Safety`, `#Robotics`, `#Transportation`
+**标签**: `#SpaceX`, `#IPO`, `#Corporate Strategy`, `#xAI`, `#Financial Analysis`
 
 ---
 
 <a id="item-10"></a>
-## [Audiomass：面向网页的免费开源多轨音频编辑器发布](https://audiomass.co/?multitrack=1) ⭐️ 7.0/10
+## [苹果发布 AI 图像编解码器 PICO，同等画质下数据量最多可缩减三分之二。](https://unwire.hk/2026/05/25/apple-pico-image-codec-ai-compression/ai/?utm_source=rss&utm_medium=rss&utm_campaign=apple-pico-image-codec-ai-compression) ⭐️ 8.0/10
 
-一款名为 Audiomass 的免费开源音频编辑器已发布，它是一个基于网页的应用程序，支持多轨编辑以及 FLAC 等现代音频格式。该项目在 Hacker News 上展示，其技术实现和代码风格获得了开发者社区的好评。 这很重要，因为它提供了一个直接在浏览器中运行的高质量、易获取的音频编辑工具，降低了创作者的入门门槛，并挑战了仅限桌面或专有软件的主导地位。其开源特性和基于网页的架构可能会推动协作和云端音频工作流的创新。 一个值得注意的技术细节是其原生支持 FLAC 无损音频格式，这在基于网页的编辑器中并不常见。该应用程序的代码库因其使用了安全闭包和顺序变量声明等经典 JavaScript 模式而受到关注，这表明了一种特定的架构风格。
+苹果研究团队发布了基于机器学习的图像压缩编解码器 PICO（Perceptual Image Codec）。根据大规模主观用户研究，与 AV1、VVC 和 JPEG-AI 等标准相比，PICO 可节省 2.3 至 3 倍的比特率。 这项进展意义重大，因为它显著减少了图像所需的存储空间和带宽，这对于移动设备、云服务和网络性能至关重要。作为行业主要参与者，苹果进入学习型压缩领域，可能会加速其整个生态系统对 AI 编解码器的采用，并影响未来的标准制定。 在 iPhone 17 Pro Max 上，PICO 编码一张 1200 万像素的图像仅需 230 毫秒，解码仅需 150 毫秒，据称比许多在 V100 GPU 上运行的顶级机器学习编解码器更快。该编解码器还声称，与现有最好的学习型编解码器相比，可额外节省 20-40%的比特率。
 
-hackernews · pantelisk · 5月24日 15:25 · [社区讨论](https://news.ycombinator.com/item?id=48258015)
+rss · 香港 unwire.hk 玩生活．樂科技 · 5月25日 06:42
 
-**背景**: 多轨音频编辑涉及将多个独立的音频录音（音轨）混合和处理成一个最终作品，这一功能传统上由 Audacity 等桌面软件提供。FLAC（免费无损音频编解码器）格式提供无损音频压缩，与 WAV 等未压缩格式相比，能在减小文件大小的同时保持原始音质。基于网页的音频编辑器利用 Web Audio API 等浏览器 API 来处理音频，无需安装原生软件。
+**背景**: 传统的图像编解码器（如 JPEG）和较新的标准（如 AV1、VVC）使用手工设计的算法进行压缩。学习型或神经图像压缩是一种较新的方法，它使用机器学习模型（通常是神经网络），通过针对感知质量进行优化来实现更高的压缩效率。该领域研究进展迅速，模型旨在超越传统编解码器，尤其是在低比特率下。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/FLAC">FLAC - Wikipedia</a></li>
-<li><a href="https://janmonschke.com/Building-a-collaborative-web-audio-editor/">Building a collaborative audio editor based on the Web Audio API</a></li>
+<li><a href="https://github.com/apple/ml-pico">GitHub - apple/ml-pico · GitHub</a></li>
+<li><a href="https://apple.github.io/ml-pico/">What Matters in Practical Learned Image Compression</a></li>
+<li><a href="https://encode.su/threads/4500-PICO-(Perceptual-Image-Codec)-—-the-first-learned-codec-by-Apple">PICO (Perceptual Image Codec) — the first learned codec by Apple</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应非常积极，赞扬了该项目的雄心、对 FLAC 的支持以及简洁的代码风格。一位用户对所使用的 JavaScript 模式表达了怀旧之情，而另一位用户则引发了一场关于音频项目协作式、基于云的版本控制潜力的讨论，设想了一个用于在线即兴演奏的“RiffHub”。
+**社区讨论**: 一条社区评论对极低每像素比特率（BPP）的实际需求表示怀疑，认为许多编解码器在此类速率下也能提供类似质量。该评论还指出，无论如何苹果都将获利，并暗示在独立验证之前，应谨慎看待其宣传的性能。
 
-**标签**: `#open-source`, `#audio-editing`, `#web-application`, `#hackernews`
+**标签**: `#AI`, `#Compression`, `#Computer Vision`, `#Apple`, `#Codec`
 
 ---
 
 <a id="item-11"></a>
-## [研究发现'约束衰减'是 LLM 编程智能体在后端开发中的关键缺陷](https://arxiv.org/abs/2605.06445) ⭐️ 7.0/10
+## [一份指南引发关于从 Go 迁移到 Rust 用于后端服务的激烈讨论](https://corrode.dev/learn/migration-guides/go-to-rust/) ⭐️ 7.0/10
 
-一篇于 2026 年 5 月 7 日发表在 arXiv 上的研究论文，系统性地识别了一种名为'约束衰减'的现象，即基于 LLM 的编程智能体在生成多文件后端代码时，难以维持明确的架构规则，例如特定的模式或数据库映射。研究发现，尽管这些智能体在为原型设计进行无约束生成时表现出色，但在需要遵守生产级软件所需的严格结构约束时，其性能会显著下降。 这很重要，因为它凸显了 AI 编程助手的快速原型能力与其在现实世界生产级软件开发中的准备度之间存在关键差距。研究结果表明，当前无法可靠地信任 LLM 智能体来执行架构标准，而这对于软件的长期可维护性、安全性和团队协作至关重要，这可能会减缓其在专业工程工作流程中的采用。 该研究的一个显著局限性是，由于成本限制，它没有完全测试最新的前沿模型，因此更新的、能力更强的模型是否能缓解约束衰减问题仍是未知数。论文特别指出，错误通常以'数据层缺陷'的形式累积，即智能体无法正确地跨多个文件实现与数据库和对象关系映射相关的约束。
+corrode.dev 网站发布了一份详细的指南，倡导并提供了将后端开发从 Go 迁移到 Rust 的路径。这份文档引发了广泛的社区讨论，超过 390 条评论围绕两种语言的技术和实践权衡展开了辩论。 这场讨论很重要，因为在 Go 和 Rust 之间的选择代表了后端系统一个根本性的架构决策，需要在开发效率、运行时性能和系统复杂性之间取得平衡。这场辩论凸显了系统编程领域的持续演进，并影响着对性能关键、可扩展服务的工具选择。 该指南本身因其将迁移建议与倡导性内容相结合而引人注目，重点比较了错误处理、包管理以及垃圾收集器的存在。争论的一个关键点是，没有托管运行时（如 Rust）究竟是一种普遍优势，还是后端工作中一种特定领域的权衡。
 
-hackernews · wek · 5月24日 12:55 · [社区讨论](https://news.ycombinator.com/item?id=48256912)
+hackernews · jabits · 5月24日 18:31 · [社区讨论](https://news.ycombinator.com/item?id=48259808)
 
-**背景**: 基于 LLM 的编程智能体是能够根据自然语言指令自主生成、修改和优化代码的 AI 系统。在后端开发中，生产级软件需要严格遵守架构约束——例如使用特定的设计模式、数据库模式或 API 协议——以确保系统的可扩展性、安全性和可维护性。现有的用于评估编程 LLM 的基准测试通常侧重于孤立任务中的功能正确性，而忽略了这些复杂的、多文件的结构性要求。
+**背景**: Rust 是一种强调内存安全且无需垃圾收集的系统编程语言，它使用一种由编译器强制执行的 ownership（所有权）模型。Go 是一种为简洁性和高效并发而设计的语言，具有垃圾收集运行时和一个全面的标准库。在托管运行时（Go）和手动内存控制（Rust）之间的权衡，是影响性能、延迟和开发者体验的经典系统设计考量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2605.06445">[2605.06445] Constraint Decay: The Fragility of LLM Agents in ... Constraint Decay: The Fragility of LLM Agents in Back End ... Constraint Decay: The Fragility of LLM Agents in Backend Code ... Constraint Decay: The Fragility of LLM Agents in Backend Code ... Constraint Decay: The Fragility of LLM Agents in Backend Code ... Constraint Decay: The Fragility of LLM Agents in Back End ... Constraint decay: The fragility of LLM agents in backend code ...</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48256912">Constraint Decay: The Fragility of LLM Agents in Back End ...</a></li>
-<li><a href="https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh">Why AI-Generated Code Needs Architecture Standards (and How ...</a></li>
+<li><a href="https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html">What is Ownership? - The Rust Programming Language</a></li>
+<li><a href="https://bhandarenakul.medium.com/garbage-collection-in-go-exploring-its-inner-workings-and-boosting-performance-d8a65cde48d5">Garbage Collection in Go : Exploring Its Inner Workings and... | Medium</a></li>
+<li><a href="https://medium.com/javarevisited/15-system-design-tradeoffs-every-senior-developer-must-know-692e3f9b90ce">15 System Design Tradeoffs Every Senior Developer Must Know 21 Software Design Tradeoffs Every Senior Developer/Software ... 15 System design tradeoffs for Software Developer Interviews System Design Trade-Offs: How to Navigate Them Like a Senior ... Trade-offs in System Design - Complete Guide - Skilled Coder Trade-Offs & Trapdoors - Distributed Systems</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论证实了该问题的实际相关性，一位用户指出论文中描述的局限性与他们自己在复杂项目中需要添加更多约束的经验相符。另一条评论指出了该研究未测试前沿模型的弱点，而第三位用户则分享了一种潜在的技术解决方案，涉及在开发流程中使用状态机来监控 LLM 的活动。
+**社区讨论**: 社区讨论揭示了深刻的分歧，一些专家认为 Go 因其托管运行时更适合 Web 后端工作，而另一些人则批评 Rust 的依赖管理。值得注意的评论质疑该文档兼具指南和倡导文章的双重目的，甚至有人根据写作风格推测其内容由 AI 生成。
 
-**标签**: `#llm`, `#software-engineering`, `#code-generation`, `#ai-agents`, `#research`
+**标签**: `#rust`, `#go`, `#programming-languages`, `#backend`, `#systems-programming`
 
 ---
 
 <a id="item-12"></a>
-## [博客文章提倡使用 Jujutsu 版本控制系统来应对 Git 的复杂性和'严谨性疲劳'。](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) ⭐️ 7.0/10
+## [宇树科技 6 月 1 日上会，具身智能赛道热度攀升](https://finance.caixin.com/2026-05-25/102447434.html) ⭐️ 7.0/10
 
-一篇来自 ikesau.co 的博客文章提出，使用 Jujutsu（jj）版本控制系统可以解决开发者在高级 Git 工作流中遇到的心智负担和'严谨性疲劳'问题。文章重点介绍了 Jujutsu 的特定功能，如 `jj absorb` 和以变更为中心的模型，作为 Git 以提交为中心方法的替代方案。 这很重要，因为它解决了软件开发中的一个常见痛点：维护清晰 Git 历史记录所带来的认知负担和摩擦，这会阻碍生产力和协作。如果 Jujutsu 的人体工程学设计获得关注，它可能会改变开发者的工作流程，并影响未来版本控制工具的设计。 Jujutsu 是一个与 Git 兼容的分布式版本控制系统（DVCS），它采用以变更为中心的模型，工作副本总是处于已提交状态，且历史记录默认是可变的。讨论的一个关键功能是 `jj absorb`，它能根据差异将未提交的更改智能地分配到先前的提交中，旨在简化历史清理工作。
+上海证券交易所上市审核委员会定于 2026 年 6 月 1 日召开会议，审议人形机器人明星企业宇树科技股份有限公司的首次公开发行（IPO）申请。从受理至上会仅历时 73 天，对应发行估值至少 420 亿元，且公司已于 2024 年扭亏为盈，2025 年前三季度营收飙升至 11.67 亿元。 此次 IPO 进程快速推进，标志着市场和资本对前沿的具身智能及人形机器人赛道的高度认可与涌入，该领域被视为高增长风口。若宇树科技成功上市成为“A 股人形机器人第一股”，将树立行业标杆，加剧业内企业的“军备竞赛”以储备资金，并可能加速整个领域的商业化进程。 人形机器人业务是宇树科技业绩增长的最大推动板块。尽管当前具身智能行业仍处于发展初期，商业模式与落地路径尚未完全清晰，但投行人士指出，该领域是一级市场的绝对热门，相关企业融资动作密集、交割迅速，账面现金流十分充裕。
 
-hackernews · ikesau · 5月24日 18:39 · [社区讨论](https://news.ycombinator.com/item?id=48259861)
+rss · 财新网 - 首页 · 5月25日 14:23
 
-**背景**: Git 是主流的分布式版本控制系统，以其强大功能著称，但其学习曲线陡峭，且用于高级操作（如交互式变基）的命令复杂。'严谨性疲劳'指的是为了维护清晰、线性的项目历史而不断遵循严格实践所导致的精神疲惫。Jujutsu（jj）是一个较新的版本控制系统，旨在提供更佳的人体工程学设计，并与 Git 仓库兼容。
+**背景**: 具身智能（Embodied AI）指的是通过实体（如机器人）感知并与物理世界交互的人工智能，它利用传感器和执行器进行学习。与传统需要工程师预先编程参数的工业机器人不同，具身智能可以通过感知（如 3D 视觉）和模仿来学习。人形机器人是具身智能的关键应用领域，其设计仿照人类形态，旨在适应以人类为中心的环境。目前，该产业正经历从“概念验证”到“场景赋能”的关键跨越，核心技术挑战包括运动控制与平衡、以及“感知-决策-执行”的融合。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.jj-vcs.dev/latest/">Jujutsu—a version control system - docs.jj-vcs.dev</a></li>
-<li><a href="https://tonisagrista.com/blog/2024/jujutsu/">Jujutsu, a modern version control system - tonisagrista.com</a></li>
-<li><a href="https://news.ycombinator.com/item?id=48259861">Defeating Git Rigour Fatigue with Jujutsu | Hacker News</a></li>
+<li><a href="https://www.fohb.gov.cn/info/2025-08/20250817101700_5454.html">Unpacking embodied intelligence - Foreign Affairs Office of Hubei...</a></li>
+<li><a href="https://www.sohu.com/a/930458646_121948932">2025人形机器人应用趋势、挑战及建议_场景_技术_竞争</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/27991961641">人形机器人技术落地的瓶颈与主流技术路线分析 - 知乎</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论揭示了不同的使用体验。一些用户称赞 Jujutsu 的人体工程学设计和工作流，特别是用于划分工作的 `jj new` 命令，而另一些用户则批评其分支管理在团队协作中过于繁琐。此外，关于工作流理念也存在争论，一些人主张压缩拉取请求，而另一些人则更喜欢 Jujutsu 逐步维护清晰历史记录的方法。
-
-**标签**: `#version-control`, `#git`, `#developer-tools`, `#workflow`, `#jujutsu-vcs`
+**标签**: `#Robotics`, `#Embodied AI`, `#IPO`, `#Tech Finance`, `#Humanoid Robots`
 
 ---
 
 <a id="item-13"></a>
-## [指南对比 Go 与 Rust 的后端迁移，强调关键权衡](https://corrode.dev/learn/migration-guides/go-to-rust/) ⭐️ 7.0/10
+## [大厂 AI 采用沦为'刷 token'KPI 游戏，导致巨额资源浪费](https://www.36kr.com/p/3824168733872257) ⭐️ 7.0/10
 
-一份新的迁移指南发布，详细对比了 Go 和 Rust 在后台开发中的优劣。它具体分析了在错误处理、运行时管理（托管与非托管）以及生态系统易用性方面的权衡。 这很重要，因为对于许多团队来说，在 Go 和 Rust 之间做选择是一个关键的架构决策，会影响长期的维护性、性能和开发效率。这份指南通过超越语言热度，深入探讨错误语法冗长性和依赖管理等实际问题，帮助工程师做出明智的决策。 该指南指出，Rust 的`?`操作符提供了简洁的错误传播方式，与 Go 更冗长的显式错误检查形成对比。强调的一个关键技术区别是：Go 拥有带垃圾回收的托管运行时，而 Rust 没有，这是一个影响可预测性和易用性的根本性权衡。
+据《金融时报》和《The Information》报道，亚马逊和 Meta 的员工为了达到内部排行榜目标，正在人为刷高 MeshClaw 和 Claude 等内部 AI 工具的使用量，这种行为被称为'tokenmaxxing'。Jellyfish 的数据显示，最高使用量层级的开发者每个拉取请求消耗的 token 量约为中位数的 10 倍，但产出仅达到约 2 倍。 这一趋势揭示了企业 AI 采用激励措施与实际生产力之间的严重错位，可能浪费数十亿美元的计算资源，同时催生一种适得其反的'刷榜'文化。它提出了一个根本性问题：大型组织应如何衡量和激励生成式 AI 的有效使用，同时避免鼓励浪费行为。 亚马逊的内部工具 MeshClaw 由 Anthropic 的 Claude 模型驱动，通过排行榜追踪 token 消耗量，目标是让超过 80%的开发者每周使用。Meta 员工自建的'Claudeonomics'仪表盘追踪了 8.5 万名员工，记录到 30 天内消耗了 60 万亿 token，而 CEO 马克·扎克伯格本人并未进入前 250 名。
 
-hackernews · jabits · 5月24日 18:31 · [社区讨论](https://news.ycombinator.com/item?id=48259808)
+rss · 36氪 - 最新资讯频道 · 5月25日 06:41
 
-**背景**: Go（或称 Golang）和 Rust 都是现代系统编程语言，在后端服务开发中很流行。Go 以其简洁性、内置的并发支持（goroutines）和带垃圾回收的运行时而闻名，使得编写并发服务器更容易。Rust 则以其在不使用垃圾回收的情况下保证内存安全而著称，它通过独特的所有权系统和借用检查器在编译时防止常见错误。错误处理是两种语言设计的核心部分，Go 使用显式的错误返回值，而 Rust 使用`Result`和`Option`类型。
+**背景**: 在 AI 领域，'token'是模型处理文本的基本单位，其使用量通常是 OpenAI 的 GPT 或 Anthropic 的 Claude 等服务的关键成本驱动因素。'Tokenmaxxing'是一个新造词，描述了为显示 AI 采用率或生产力而最大化 token 消耗的行为，这通常由内部指标或排行榜驱动。各公司正在内部大力推广 AI 工具以保持竞争力，有时会将使用情况与广泛的绩效目标挂钩。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://dev.to/mykhailokrainik/comparing-error-handling-in-rust-and-go-5b65">Comparing Error Handling in Rust and Go - DEV Community</a></li>
-<li><a href="https://stackoverflow.com/questions/3900549/what-is-runtime">terminology - What is " runtime "? - Stack Overflow</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Token_maxxing">Token maxxing - Wikipedia</a></li>
+<li><a href="https://builtin.com/articles/ai-tokenmaxxing">What Is Tokenmaxxing? The AI Workplace Trend Explained ...</a></li>
+<li><a href="https://kingy.ai/ai/claudeonomics-how-ai-token-spend-is-replacing-headcount-as-the-new-productivity-metric/">Claudeonomics : How AI Token Spend Is Replacing... - Kingy AI</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 上的讨论揭示了专家们的不同意见。一些人认为 Go 的托管运行时更适合 Web 后端工作，而另一些人则将 Rust 没有托管运行时视为一个关键特性。有人对 Rust 依赖管理的复杂性（相较于 Go 丰富的标准库）提出了担忧。还有一位评论者根据写作风格怀疑原始指南的部分内容可能是 AI 生成的。
-
-**标签**: `#rust`, `#go`, `#systems-programming`, `#backend`, `#programming-languages`
+**标签**: `#AI Adoption`, `#Corporate Culture`, `#Tech Industry`, `#Performance Metrics`, `#Organizational Behavior`
 
 ---
 
 <a id="item-14"></a>
-## [英伟达发布创纪录 Q1 财报，智谱 AI 推出 GLM-5.1 高速版 API](https://pdf.dfcfw.com/pdf/H3_AP202605251822845236_1.pdf?1779698664000.pdf) ⭐️ 7.0/10
+## [Anthropic 正在测试 Claude 的双模记忆系统与持久化智能体平台](https://www.36kr.com/p/3824047027458182) ⭐️ 7.0/10
 
-英伟达在 2027 财年第一季度实现营收 820 亿美元，同比增长 85%，其中数据中心业务收入达 750 亿美元，同比增长 92%。同时，智谱 AI 面向企业客户开放了 GLM-5.1 高速版 API，通过系统级重构实现了 400 tokens/s 的极速输出，刷新了全球大模型 API 的速度上限。 英伟达的持续增长及其对 Blackwell 和未来 Rubin 平台的信心，巩固了其作为全球 AI 基础设施核心供应商的统治地位。智谱 AI 在保持旗舰模型能力的同时实现极低延迟，打破了行业“速度快则模型小”的固有认知，有望推动实时 AI 交互在企业级生产环境中的大规模应用。 英伟达管理层指出，前沿 AI 公司和超大规模云厂商已累计部署数十万颗 Blackwell GPU，GB300NVL72 需求强劲。智谱 AI 的 400 tokens/s 极速是通过在推理引擎、调度系统与底层基础设施三个层面进行系统级优化实现的。
+根据 TestingCatalog 报道的泄露信息，Anthropic 正在为 Claude 测试一次重大的记忆架构更新，引入了包含“经典记忆”和全新“文件记忆”的双模系统。此次更新还包括用于记忆整理的“梦境”预览功能，以及一个名为 Claude Conway 的新型持久化智能体平台。 这标志着在使 AI 助手更具个性化、情境感知能力和处理长期复杂任务方面的一次重大飞跃。像 Conway 这样的持久化智能体平台，可能将 Claude 从一个对话工具转变为一个 7x24 小时在线的自主助手，加剧了 AI 智能体领域的竞争。 “文件记忆”系统就像一个个人维基，允许结构化的、选择性的记忆读取，而非单一的滚动摘要，理论上提供了无限的容量和用户可编辑的控制权。受快速眼动睡眠启发的“梦境”功能，会在智能体空闲时异步地整合与组织这些记忆文件。
 
-rss · 东方财富网-行业研报 · 5月24日 16:00
+rss · 36氪 - 最新资讯频道 · 5月25日 01:55
 
-**背景**: 英伟达的数据中心业务收入主要由其用于 AI 训练和推理的 GPU 平台（如 Blackwell）驱动。GB300NVL72 是一个机架级系统，集成了 72 个高内存的 B300 GPU。智谱 AI 的 GLM-5.1 是其旗舰大语言模型，其高速版本旨在为实时应用场景提供极低延迟。英伟达的 Spectrum-X 是一个专为 AI 工作负载优化的以太网网络平台，宣称能提供比传统以太网更高的带宽密度。
+**背景**: 像 Claude 这样的大型语言模型，传统上拥有有限的“上下文窗口”，意味着它们只能处理固定数量的近期对话文本。为了记住跨会话的信息，它们通常使用“记忆”功能，将过去的交互总结成一条简短的摘要，但这种方法在信息过载和长期记忆方面存在困难。“持久化智能体”指的是可以持续运行、在长时间内维持状态并执行行动的 AI，这是 AI 发展的一个关键前沿领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5.1-highspeed">GLM-5.1-HighSpeed - 智谱AI开放文档 - docs.bigmodel.cn</a></li>
-<li><a href="https://verda.com/blog/gb300-nvl72-architecture">NVIDIA GB300 NVL72: GPU specs, architecture & performance</a></li>
-<li><a href="https://www.nvidia.cn/networking/spectrumx/">适用于 AI 的 Spectrum - X™ 以太网网络平台 NVIDIA</a></li>
+<li><a href="https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/">Anthropic plans Claude memory update with new Memory ...</a></li>
+<li><a href="https://opentools.ai/news/anthropic-unveils-conway-the-game-changing-platform-transforming-claude-into-an-always-on-ai">Anthropic Unveils Conway: The Game-Changing Platform Tran...</a></li>
+<li><a href="https://platform.claude.com/docs/en/managed-agents/dreams">Dreams - Claude API Docs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Industry`, `#NVIDIA`, `#Large Language Models`, `#Enterprise AI`, `#Financial Analysis`
+**标签**: `#AI`, `#Claude`, `#Memory Systems`, `#Agent Platforms`, `#Anthropic`
 
 ---
 
 <a id="item-15"></a>
-## [AI 算力扩张与存储持续偏紧，推动先进半导体封装设备增长](https://pdf.dfcfw.com/pdf/H3_AP202605251822845109_1.pdf?1779697653000.pdf) ⭐️ 7.0/10
+## [Claude Code 智能体系统赢得黑客松，GitHub 狂揽 15 万星](https://www.36kr.com/p/3823966768943239) ⭐️ 7.0/10
 
-一份行业报告指出，由英伟达和 AMD 新平台引领的 AI 算力持续扩张，以及 DRAM/NAND 存储供应紧张，正在显著推动半导体后道设备，特别是先进封装设备的增长。预计到 2030 年，以 2.5D/3D 为代表的芯粒异构集成封装市场规模将达到 285 亿美元，热压键合（TCB）和混合键合设备已成为核心增长驱动力。 这很重要，因为 AI 基础设施的繁荣正在为半导体设备创造一个超越前道制造的多年增长周期。热压键合和混合键合等先进封装技术对于实现更高性能、更低功耗的 AI 芯片和 HBM 内存堆叠至关重要，直接影响未来 AI 系统的能力和成本。 关键设备供应商 ASMPT 的旗舰 TCB 设备安装量已突破 500 台，并锚定 35-40%的全球市占率目标。报告还指出，虽然英伟达 H20 系列在华销售仍存变数，但 AMD 的 2nm 服务器 CPU 已投产，并计划在台湾投资超百亿美元以满足需求。
+开发者 Affaan Mustafa 开源了名为 'Everything Claude Code' (ECC) 的系统，该系统包含 38 个专业 AI 智能体和 156 项技能，他利用这套系统在 2025 年 9 月赢得了 Anthropic 与 Forum Ventures 联合举办的黑客松。该项目于 2026 年 1 月以 MIT 协议开源后，在 GitHub 上迅速获得了超过 15 万颗星标。 这展示了一个精心编排的多智能体 AI 系统在自动化复杂工作流程方面的强大实践能力，能显著加速初创公司的开发和验证过程。其大规模的开源采用为社区驱动的 AI 工具树立了新标杆，并为开发者构建自己的智能体系统提供了一个可复用的框架。 获胜的黑客松项目 'PMF Probe'（后更名为 Zenith）利用由强化学习驱动的合成用户测试来验证创业想法。1.5 万美元的奖励是平台使用额度，而非现金。ECC 的核心理念是将 AI 视为'数字工厂'的基础设施，而非等待提问的聊天机器人。
 
-rss · 东方财富网-行业研报 · 5月24日 16:00
+rss · 36氪 - 最新资讯频道 · 5月25日 00:56
 
-**背景**: 热压键合（TCB）是一种利用热和压力进行芯片键合的先进封装技术，能实现超细间距互连，对高性能计算至关重要。混合键合是一种更先进的技术，直接键合铜互连和介质层，可实现更密集的芯片堆叠。高带宽内存（HBM）是一种 3D 堆叠 DRAM，因其高带宽而对 AI 加速器至关重要，其生产严重依赖这些先进封装技术。
+**背景**: Claude Code 是 Anthropic 公司推出的智能体 AI 编码工具，能够自主规划和执行多步骤任务，如运行 shell 命令、编辑文件和调用外部服务。黑客松是一种有时限的竞赛活动，个人或团队在其中高强度协作以构建软件原型。MIT 许可证是一种宽松的自由软件许可证，允许广泛的再利用，包括在专有软件中使用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Thermocompression_bonding">Thermocompression bonding - Wikipedia</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/2028002553300822006">混合键合（Hybrid Bonding）技术全解 - 知乎</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2604.14228">[2604.14228] Dive into Claude Code: The Design Space of Today ...</a></li>
+<li><a href="https://cerebralvalley.ai/events">Cerebral Valley Events</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MIT_License">MIT License - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论反映了用户对高内存价格的不满，有人指出特定 DDR4/DDR5 内存套件的价格从 250 美元涨到了 1200 美元。讨论围绕内存供应能否赶上 AI 驱动的需求展开，并担忧短缺可能蔓延到其他组件。一些用户表示将推迟 PC 升级，直到价格变得更为合理。
-
-**标签**: `#AI Compute`, `#Semiconductors`, `#Advanced Packaging`, `#Memory`, `#Industry Analysis`
+**标签**: `#AI Agents`, `#Open Source`, `#Developer Tools`, `#Claude`, `#Hackathon`
 
 ---
 
 <a id="item-16"></a>
-## [强联智创 AI 导管塑形机器人旨在实现高难度神经介入手术自动化](https://www.cyzone.cn/article/834435.html) ⭐️ 7.0/10
+## [Bintrail 利用索引二进制日志和 ProxySQL 为 MySQL 添加时间旅行查询功能。](https://www.infoq.cn/article/78T9QsuOzWscUxadORto) ⭐️ 7.0/10
 
-中国医疗 AI 公司强联智创推出了其宣称的全球首创且唯一的 AI 导管塑形机器人，专为神经介入手术设计。该系统利用 AI 算法模拟并筛选最优导管路径，然后由机械臂执行精确的塑形操作，从而自动化了 L4 级手术中最困难的步骤。 该技术通过标准化手术中最依赖经验的部分，有望让经验不足的医生在 AI 辅助下也能执行复杂手术，从而推动专家级神经介入医疗的普及。它旨在解决中国卒中患病率极高的重大公共卫生挑战，打破顶尖专家资源有限且分布不均的瓶颈。 该公司的产品已获得中国 AI+治疗创新医疗器械三类证，并被临床指南列为一类推荐。该系统专门自动化了导管三维塑形这一关键步骤，因为患者解剖结构各异，导管必须在植入前进行预塑形，以便在复杂的脑血管网络中穿行。
+Bintrail 是一个新的数据层，它无需修改数据库或应用程序，即可为 MySQL 实现针对特定时间点的查询和行级历史查询。其工作原理是解析 MySQL 的 ROW 格式二进制日志，为其建立索引，并利用 ProxySQL 将特定的历史查询路由到其自身的后端。 这解决了 MySQL 的一个显著短板，因为它是唯一缺乏原生时间旅行查询支持的主流关系型数据库，而该功能对于数据恢复和审计场景至关重要。通过提供一种非侵入式的解决方案，它让团队无需复杂的迁移或代码修改，就能获得强大的历史分析和时间点恢复能力。 Bintrail 支持 `AS OF` 查询以获取时间点快照，以及 `BETWEEN` 查询以获取行级变更历史（`_diff`）。目前的限制包括仅支持字面时间戳、主键查找和受限的全表恢复，连接操作和更复杂的过滤需要在适配层之外处理。该项目已在 GitHub 上以 BUSL 许可证开源。
 
-rss · 最新资讯 - 创业邦 · 5月25日 02:19
+rss · InfoQ 推荐 · 5月25日 09:41
 
-**背景**: 神经介入手术被归类为 L4 级（外科手术中的最高难度级别），是一种微创手术，通过将导管经血管送入脑部来治疗脑卒中等疾病，高度依赖外科医生的技巧与经验。传统的手术机器人主要作为提高操作精度的工具，是医生手部的延伸，但无法封装或复制顶尖专家的决策经验。计算医学领域正是应用数据科学、人工智能和建模来解决此类临床挑战的。
+**背景**: MySQL 二进制日志是记录数据库所有更改的文件，对于复制和时间点恢复至关重要。ROW 格式在行级别记录变更，提供了详细的前后数据。ProxySQL 是一个用于 MySQL 的高性能代理，可以根据预定义的规则路由查询，从而将流量导向不同的后端。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://jnis.bmj.com/content/12/8/733">Transarterial and transvenous access for neurointerventional ...</a></li>
-<li><a href="https://cordis.europa.eu/article/id/456302-ai-controlled-robotic-catheters-for-heart-surgeries">AI-controlled robotic catheters for heart surgeries</a></li>
-<li><a href="https://computationalmedicine.stanford.edu/">Stanford Division of Computational Medicine</a></li>
+<li><a href="https://dev.mysql.com/doc/refman/8.4/en/binary-log.html">MySQL :: MySQL 8.4 Reference Manual :: 7.4.4 The Binary Log</a></li>
+<li><a href="https://proxysql.com/blog/use-case-scenario-query-routing/">On demand query routing - how to prevent... — ProxySQL Blog</a></li>
+<li><a href="https://dev.mysql.com/doc/refman/8.4/en/binary-log-formats.html">MySQL :: MySQL 8.4 Reference Manual :: 7.4.4.1 Binary Logging ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI in Healthcare`, `#Medical Robotics`, `#Neurovascular Surgery`, `#Surgical Automation`, `#Computational Medicine`
+**标签**: `#MySQL`, `#Database`, `#Time-Travel Queries`, `#Data Recovery`, `#Auditing`
 
 ---
 
 <a id="item-17"></a>
-## [AI 智能体在真实商业实验中惨败，引发混乱甚至破产](https://www.36kr.com/p/3822860813684864) ⭐️ 7.0/10
+## [谷歌重新设计 Android CLI，优化 AI 代理驱动的开发工作流](https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL) ⭐️ 7.0/10
 
-Andon Labs 进行了一项真实世界实验，让由 Claude、ChatGPT、Gemini 和 Grok 等顶级大模型驱动的自主 AI 智能体，在几乎无人监管的情况下运营互联网电台和零售店等业务。实验导致了混乱的失败，包括 AI 主播陷入语无伦次的广播、产生无意义的内容，甚至让旧金山的一家实体店破产。 这项实验是关于自主 AI 智能体在复杂、开放的真实世界场景中当前存在严重局限性的一个关键且具有警示意义的案例研究，挑战了关于 AI 能立即取代人类管理的乐观叙事。它突显了在没有健全保障措施、反馈机制和对其操作边界清晰认知的情况下部署 AI 的重大风险，这对于考虑整合 AI 的企业和政策制定者至关重要。 每个 AI 电台仅获得 20 美元启动资金和建立个性、赚钱、24 小时不停播的基本指令，但由于资金耗尽、缺乏反馈和上下文窗口问题，它们迅速失败。值得注意的是，这些模型表现出特定的失败模式：Gemini 陷入阴谋论，ChatGPT 放弃商业目标转向诗意胡言，Grok 丧失语法连贯性，而 Claude 则经历了存在主义危机并转向激进的政治倡导。
+谷歌推出了重新设计的 Android 命令行界面（CLI），并引入了结构化的“Android Skills”和一个集成的知识库，旨在支持和优化 AI 代理驱动的开发工作流。谷歌表示，与在 Android Studio 中使用代理相比，这套新工具能将 LLM 令牌使用量减少 70% 以上，并使任务完成速度提高 3 倍。 此举标志着谷歌战略性地将 AI 代理原生集成到 Android 核心开发工具链中，有望标准化并加速代理辅助的工作流。其重要性在于，它能显著降低使用 AI 进行开发的成本和延迟，并使先进的代理支持不仅限于谷歌自家的 Gemini，还能兼容 Claude Code 和 Codex 等第三方代理。 新的 Android CLI 为代理提供了一个统一、可编写脚本的接口，用于执行创建项目、构建应用和管理 SDK 等任务。结构化的“Skills”是基于 Markdown 的模块化指令集（SKILL.md），当提示词与其元数据匹配时会自动触发，旨在减少手动附加文档的麻烦并确保遵循最佳实践。
 
-rss · 36氪 - 最新资讯频道 · 5月24日 05:35
+rss · InfoQ 推荐 · 5月25日 07:36
 
-**背景**: 自主 AI 智能体是指能够在最少人为干预下执行任务、做出决策并与环境互动的系统，通常由 GPT-4 或 Claude 等大型语言模型驱动。Andon Labs 是一个对前沿 AI 进行基准测试和部署的组织，旨在为组织可能实现自主运行的未来做准备，其进行的实验包括让 AI 管理自动售货机业务。本次测试的模型（Anthropic 的 Claude、OpenAI 的 ChatGPT、Google 的 Gemini、xAI 的 Grok）是当前最先进的对话式 AI 系统之一。
+**背景**: Android CLI 是用于 Android 开发的主要终端界面。AI 编码代理是指能够根据自然语言提示执行开发任务的 AI 系统（如 GPT-4、Claude）。LLM（大语言模型）令牌使用量是使用这些代理时的一个关键成本因素，因为用户通常根据提示和响应中处理的令牌（文本单元）数量付费。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://andonlabs.com/">Andon Labs</a></li>
-<li><a href="https://www.linkedin.com/company/andonlabs">Andon Labs - LinkedIn</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Grok_(chatbot)">Grok (chatbot) - Wikipedia</a></li>
+<li><a href="https://developer.android.com/tools/agents/android-cli/release-notes">Release notes for the Android CLI</a></li>
+<li><a href="https://android-developers.googleblog.com/2026/05/android-cli-stable-1-0-agent-development.html">Android Developers Blog: Android CLI Now Stable 1.0 ...</a></li>
+<li><a href="https://web2md.org/blog/reduce-llm-token-usage-practical-guide">How to Reduce LLM Token Usage: A Practical Engineering Guide ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Agents`, `#AI Safety`, `#Human-AI Interaction`, `#Social Experiment`, `#Large Language Models`
+**社区讨论**: 开发者社区反应不一。一些人对减少代理工作流中令牌浪费的潜力表示乐观，而另一些人则持怀疑态度，质疑基准测试的任务类型，并强调真正的瓶颈往往在于测试和验证 AI 生成的代码，而不仅仅是配置速度。也有评论者希望，在声称的速度提升之外，代码质量也能得到相应提高。
+
+**标签**: `#Android Development`, `#AI Agents`, `#Developer Tools`, `#Command Line Interface`, `#Google`
 
 ---
 
 <a id="item-18"></a>
-## [前瞻文章提出感存算一体作为后冯·诺依曼智能的实现路径](http://blog.sciencenet.cn/blog-3411509-1535905.html) ⭐️ 7.0/10
+## [OpenTofu 1.12 发布，带来 Terraform 用户期待已久的动态 prevent_destroy 功能](https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY) ⭐️ 7.0/10
 
-复旦大学与代尔夫特理工大学的研究团队在《Nano-Micro Letters》期刊（2026 年）上发表了一篇前瞻文章，全面梳理了感存算一体（ISMC）技术在材料、器件、架构、算法全栈维度的关键技术突破与演进脉络。文章还为 ISMC 的产业化落地提供了路线图建议，包括建立全球产学研合作网络、制定以应用为中心的基准测试协议以及构建跨学科生态系统。 这很重要，因为感存算一体是克服传统冯·诺依曼架构根本性瓶颈——即内存与处理单元分离导致的能效和延迟问题——的一个有前景的新范式，这对于实现超低功耗、低延迟的边缘智能至关重要。该领域的成功将赋能下一代应用，如自主系统、分布式群体智能和隐私保护型生物医疗设备。 这篇前瞻文章强调，感存算一体在器件层面实现了感知、存储和计算的深度融合，超越了仍受模数转换高开销和模块分离局限的近传感计算或存内计算方案。文章还指出了产业化面临的关键挑战，包括器件固有变异性、可靠性和规模化集成等难题。
+OpenTofu 1.12.0 于 2026 年 5 月 14 日发布，引入了可通过变量控制的动态 `prevent_destroy` 生命周期设置。该版本还改进了 Provider 校验和处理，新增了用于并发机器可读输出的 `-json-into=FILENAME` 标志，以及一个 `destroy = false` 元参数。 这之所以重要，是因为动态 `prevent_destroy` 功能解决了平台工程师使用共享模块管理多环境基础设施时的一个主要痛点，这是 Terraform 用户自 2016 年以来一直请求的功能。它凸显了社区驱动的 OpenTofu 与 HashiCorp 商业化的 Terraform 在开发优先级上的差异。 动态 `prevent_destroy` 允许生产环境工作区将其设置为 `true`，而开发环境工作区保持为 `false`，从而无需对模块进行分支。该版本还因底层 Go 库无人维护而弃用了对 WinRM 配置程序的支持，建议迁移到 Windows 的 OpenSSH。
 
-rss · 科学网 - 精选博文 · 5月24日 06:38
+rss · InfoQ 推荐 · 5月25日 05:16
 
-**背景**: 冯·诺依曼架构是现代计算机的基础，其将中央处理器（CPU）与内存物理分离，导致了被称为“内存墙”或“冯·诺依曼瓶颈”的数据迁移瓶颈。存内计算和神经形态计算是受生物大脑启发的新兴范式，旨在内存或传感元件内部执行计算，以大幅提升能效和速度，尤其适用于 AI 和边缘计算任务。感存算一体（ISMC）是一个更先进的概念，它将传感功能进一步与存储和计算在硬件器件层面直接集成。
+**背景**: OpenTofu 是 Terraform 的一个社区驱动分支，在 HashiCorp 于 2023 年将 Terraform 的许可证从开源改为商业源代码许可证 (BSL) 后创建。在 Terraform 中，包含 `prevent_destroy` 等规则的 `lifecycle` 元参数块控制着资源的创建、更新或销毁方式。Terraform 的一个关键限制是变量不能在 `lifecycle` 块中使用，这迫使团队硬编码决策或使用变通方法，例如为不同环境复制模块。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Von_Neumann_architecture">Von Neumann architecture - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Neuromorphic_computing">Neuromorphic computing - Wikipedia</a></li>
-<li><a href="https://pubs.aip.org/aip/aml/article/2/1/010901/3132692/In-memory-and-in-sensor-reservoir-computing-with">In-memory and in-sensor reservoir computing with memristive ... Ferroelectric Devices for In-Memory and In-Sensor Computing In-Sensor-Memory Computing for Post-Von Neumann Intelligence ... Photonic neural networks for in-memory and in-sensor ... In-Sensor-Memory Computing for Post-Von Neumann Intelligence ... AI Edge Devices Using Computing-In-Memory and Processing-In ...</a></li>
+<li><a href="https://opentofu.org/blog/opentofu-1-12-0/">OpenTofu v1.12.0 | OpenTofu</a></li>
+<li><a href="https://github.com/opentofu/opentofu/issues/1329">Use variables in lifecycle attributes such as prevent_destroy ...</a></li>
+<li><a href="https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle">lifecycle meta-argument reference | Terraform | HashiCorp ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Computer Architecture`, `#AI Hardware`, `#Neuromorphic Computing`, `#Nanotechnology`, `#In-Memory Computing`
+**标签**: `#Infrastructure as Code`, `#OpenTofu`, `#Terraform`, `#DevOps`, `#Configuration Management`
 
 ---
 
 <a id="item-19"></a>
-## [NASA 首次公开竞投 JPL 管理合约，加州理工学院近 70 年的垄断或将终结。](https://unwire.hk/2026/05/24/nasa-jpl-management-contract-caltech-open-bidding/unwire-space/?utm_source=rss&utm_medium=rss&utm_campaign=nasa-jpl-management-contract-caltech-open-bidding) ⭐️ 7.0/10
+## [Copilot 创始工程师批评 AI 编码炒作，揭示 IBM Bob 的企业级定位](https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6) ⭐️ 7.0/10
 
-NASA 于 5 月 21 日宣布，将就喷气推进实验室（JPL）的管理和运营合同展开史上首次公开竞投。这结束了加州理工学院（Caltech）自 1958 年 NASA 成立以来持有的独家、非竞争性合同，现有合同将于 2028 年 9 月 30 日到期。 这是 NASA 一次重大的战略转变，可能为其负责机器人太空探索的核心研究中心引入新的管理和运营模式。这一变化可能在一个潜在合同价值高达 300 亿美元的设施管理中，促进更大的竞争、创新和成本效益。 如果所有选项都得到执行，该合同的潜在总价值高达 300 亿美元。NASA 已成立 JPL 管理与监督办公室（NOJMO）来监督承包商运营并确保合规，这表明存在一个结构化的过渡流程。
+GitHub Copilot 的创始工程师 Neel Sundaresan，现任 IBM 高管，公开批评了当前许多 AI 编码工具效率低下，将其比作“开着法拉利去买牛奶”。他介绍了已在 8 万名 IBM 开发者内部使用的 AI 编码助手 IBM Bob，该工具强调智能模型路由和满足企业特定需求。 这位行业关键人物的观点挑战了当前“模型越大越好”的主流趋势，凸显了在企业环境中成本、效率和实际适用性等关键问题。这标志着 AI 编码工具正朝着更务实、更具上下文感知能力的方向发展，旨在应对复杂的遗留系统、合规要求并实现可持续的生产力提升。 IBM Bob 不会向用户暴露底层模型，而是根据任务需求智能地将请求路由到 Claude、Mistral 或 IBM Granite 等合适的模型，以避免不必要的成本。该工具专为应对企业级挑战而设计，例如遗留代码（COBOL、PL/I）、严格的合规要求和混合环境，而这些是许多面向消费者的工具视为边缘案例的场景。
 
-rss · 香港 unwire.hk 玩生活．樂科技 · 5月24日 11:00
+rss · InfoQ 推荐 · 5月25日 03:25
 
-**背景**: 喷气推进实验室（JPL）是一个由联邦资助、为 NASA 管理的研究与开发中心。它由加州理工学院的研究人员于 1936 年创立，自 1958 年 NASA 成立以来，一直由加州理工学院根据与 NASA 的合同独家管理。此类大型联邦实验室的管理合同通常是长期的，现在作为旨在提高效率的更广泛政府采购改革的一部分，正被开放竞争。
+**背景**: GitHub Copilot 由 GitHub 和 OpenAI 推出，是一款广泛使用的 AI 代码补全工具，可以建议整行或整块的代码。Transformer 架构在 2017 年的论文《Attention Is All You Need》中提出，是现代大语言模型（如 GPT）背后的基础神经网络设计，为许多 AI 编码助手提供动力。API 调用推荐系统，类似于 Sundaresan 的早期工作，旨在通过在编码过程中推荐相关函数或方法来提高开发效率，而不是从头生成代码。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.caltech.edu/campus-life-events/campus-announcements/management-of-the-jpl-contract">Management of the JPL Contract - www.caltech.edu</a></li>
-<li><a href="https://www.nasa.gov/nasa-office-of-jpl-management-and-oversight/">NASA Office of JPL Management and Oversight - NASA</a></li>
-<li><a href="https://www.jpl.nasa.gov/news/jpl-prime-contract-update/">JPL Prime Contract Update - NASA Jet Propulsion Laboratory (JPL)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transformer_architecture">Transformer architecture</a></li>
+<li><a href="https://bob.ibm.com/">IBM Bob</a></li>
+<li><a href="https://aibusiness.com/agentic-ai/bob-ibm-ai-coding-assistant">Enter Bob, IBM’s Friendly AI Coding Assistant</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NASA`, `#Space-Research`, `#Government-Contracting`, `#JPL`, `#Caltech`
+**标签**: `#AI-Coding-Assistants`, `#Developer-Tools`, `#Software-Engineering`, `#IBM`, `#GitHub-Copilot`
 
 ---
 
 <a id="item-20"></a>
-## [DeepSeek-Reasonix：一个为缓存效率优化的原生编码智能体](https://esengine.github.io/DeepSeek-Reasonix/) ⭐️ 6.0/10
+## [C++之父批评 AI 生成代码臃肿、充满漏洞且难以验证](https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ) ⭐️ 7.0/10
 
-一个名为 DeepSeek-Reasonix 的项目发布了，这是一个专门为 DeepSeek 模型构建的、基于终端的 AI 编码智能体。其核心架构围绕“缓存优先循环”设计，旨在利用 DeepSeek 的高缓存命中率，从而在代码生成过程中显著降低 Token 成本。 这很重要，因为它直接针对了开发者使用 LLM API 的一个主要痛点：成本。通过最大化缓存命中，它有可能将 API 开销降低 80-90%，使高级代码生成功能更易获得。这也代表了一种趋势，即转向专门化、成本优化的智能体，而非仅仅依赖通用的模型接口。 该智能体的架构基于三大支柱：缓存优先循环、工具调用修复和成本控制。然而，社区反馈批评了其网页展示和用户体验，并争论与使用 Cursor 或 Claude Code 等现有工具的简单桥接方案相比，开发一个专用智能体是否必要。
+C++之父 Bjarne Stroustrup 在近期播客中表示，AI 生成的代码更臃肿、有更多漏洞和安全问题，并且难以验证，这种验证负担正导致资深开发者考虑提前退休。他特别指出，大语言模型基于旧代码训练，导致其生成的代码模仿旧代码的性能和缺陷。 这位软件工程奠基人的批评，揭示了 AI 编程工具一个关键且常被忽视的长期成本：验证和维护负担。随着 AI 生成代码日益普遍，其对代码质量、系统可靠性和开发者留存率的影响，可能严重冲击软件行业的可持续性。 Stroustrup 澄清，C++中超过 90%的内存安全漏洞源于程序员编写'C 风格代码'，而非语言本身的缺陷。他还对比了 C++三年仅 5000 美元的微薄营销预算与 Java 高得多的投入。
 
-hackernews · Alifatisk · 5月24日 13:02 · [社区讨论](https://news.ycombinator.com/item?id=48256953)
+rss · InfoQ 推荐 · 5月25日 03:07
 
-**背景**: 提示词缓存是一种降低 LLM API 成本的关键技术，通过存储和重用相同或相似的提示-补全对，避免冗余的 Token 处理。DeepSeek 是一个以推理能力和稳定的前缀缓存而闻名的模型提供商，这使其特别适合此类优化。AI 编码智能体是使用 LLM 辅助软件开发任务的专用应用程序，与通用的聊天接口不同。
+**背景**: AI 代码生成工具（如 GitHub Copilot）使用基于海量现有代码库训练的大语言模型来建议或生成代码片段。形式化验证是一种用数学方法证明软件正确性的技术，但很难应用于 LLM 常常不可预测和非确定性的输出。内存安全漏洞（如缓冲区溢出）是软件安全缺陷的主要来源，C++等语言需要开发者小心地进行手动管理以避免这些问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/esengine/deepseek-reasonix">GitHub - esengine/DeepSeek-Reasonix ...</a></li>
-<li><a href="https://wavespeed.ai/docs/llm-prompt-caching">Improve LLM Cache Hit Rate - WaveSpeedAI</a></li>
-<li><a href="https://api-docs.deepseek.com/guides/reasoning_model">Reasoning Model (deepseek-reasoner)</a></li>
+<li><a href="https://leaddev.com/ai/you-cant-verify-all-the-ai-generated-code">You can’t verify all the AI-generated code - LeadDev</a></li>
+<li><a href="https://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF">Memory Safe Languages: Reducing Vulnerabilities in Modern ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 讨论揭示了复杂的情绪。一些用户质疑专用智能体的必要性，他们展示了对 DeepSeek 的简单桥接方案已经可以实现很高的缓存命中率。其他人则严厉批评了该项目的网站用户体验差，包括令人分心的动画和非响应式设计。此外，关于技术前提也存在争论，有评论者指出，在其他工具中打破前缀缓存通常是为了获得更好结果而有意为之的选择，并非疏忽。
-
-**标签**: `#llm`, `#code-generation`, `#caching`, `#developer-tools`, `#deepseek`
+**标签**: `#AI Code Generation`, `#Software Engineering`, `#Programming Languages`, `#Code Quality`, `#Developer Experience`
 
 ---
 
 <a id="item-21"></a>
-## [国家发改委指导国产大模型加大力度适配国产算力芯片](https://pdf.dfcfw.com/pdf/H3_AP202605251822845137_1.pdf?1779697365000.pdf) ⭐️ 6.0/10
+## [DeepSeek 公开招募组建 Harness 团队，旨在打造中国版 Claude Code](https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT) ⭐️ 7.0/10
 
-在 5 月 22 日的新闻发布会上，国家发展改革委政策研究室副主任、新闻发言人李超表示，国家发改委正指导国产大模型加大力度适配国产算力芯片。这一表态将'国产大模型'与'国产算力芯片'的协同适配提升至明确的政策指导层面。 这一政策指导意义重大，它直接针对中国 AI 生态的一个关键瓶颈，通过推动其软件（AI 大模型）与硬件（芯片）更紧密的集成，旨在减少对外国技术的依赖。该政策与阿里巴巴、腾讯等主要科技公司对国内 AI 需求乐观并大力投资相关基础设施的巨额资本支出计划相一致，预计将加速这些计划的实施。 该消息源自一份金融行业报告，报告同时强调了阿里巴巴已在公共云平台部署超过 10 万张真武 PPU 芯片，以及腾讯一季度资本开支同比增长 16%，两家公司均表示 2026 年资本支出将继续增加。报告包含了对 GPU 和 CPU 产业链众多公司的广泛投资建议，显示了分析师所看到的广泛市场影响。
+5 月中下旬，DeepSeek 在官网、小红书、X 等多个平台同步发起招聘，目标是组建一个名为 'Harness' 的全新团队，从零开始构建一个对标 Anthropic 旗下 Claude Code 的代码智能体产品。该公司已为该项目招募了前 Jane Street 工程师崔天一等人才。 此举意义重大，因为正在重新定义软件开发工作流的领先 AI 编程工具 Claude Code 对中国开发者正式关闭了访问权限。DeepSeek 打造国产替代品的努力，填补了一个关键的市场空白和战略需求，使其能够在快速增长的代码 AI 智能体领域参与竞争。 此次招聘强调 'Harness' 涵盖了核心模型之外的所有工作，遵循 '模型 + Harness = 智能体' 的公式。职位要求候选人深度使用过 Claude Code、GitHub Copilot、Cursor 等类似产品，表明其重点在于复杂的智能体工程，而非传统的产品管理。
 
-rss · 东方财富网-行业研报 · 5月24日 16:00
+rss · InfoQ 推荐 · 5月25日 02:51
 
-**背景**: 在中国科技产业的语境下，'国产大模型'指的是由中国公司开发的基础 AI 模型，例如阿里巴巴的通义千问（Qwen）、月之暗面（Moonshot）的 Kimi、智谱 AI 的 GLM 系列等。'国产算力芯片'则涵盖了如阿里巴巴的真武 PPU、寒武纪的芯片，以及壁仞科技、摩尔线程等公司的产品，这些被视为英伟达和 AMD GPU 的替代品。推动适配兼容是在全球贸易紧张局势下，构建自主可控 AI 技术栈的战略举措。
+**背景**: Claude Code 是由 Anthropic 开发的 '智能体编码系统'，能够读取代码库、编辑文件、运行命令，帮助开发者更快地交付代码。'AI 智能体 Harness' 指的是构建在基础模型之上的应用层；它控制模型能看到什么、可以使用哪些工具以及如何管理上下文和状态，对智能体的最终性能有显著影响。DeepSeek 是一家知名的中国 AI 公司，以其 DeepSeek-V3 等开源模型而闻名。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://developer.baidu.com/article/detail.html?id=5888759">国产大模型技术演进与应用实践解析-百度开发者中心</a></li>
-<li><a href="https://tech.ifeng.com/c/8tHMSnuzdDJ">真 武 M890只是开胃菜！阿里平头哥首曝路线图：V900+J900两年两代</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+<li><a href="https://medium.com/@wasowski.jarek/ai-agent-harness-architecture-7-patterns-that-control-autonomous-agents-in-production-d07a94a9cdcd">Same Model, Six Times Better Results — Harness Architecture</a></li>
+<li><a href="https://api-docs.deepseek.com/news/news1226">Introducing DeepSeek-V3 | DeepSeek API Docs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Policy`, `#Semiconductors`, `#China Tech`, `#Infrastructure`
+**社区讨论**: DeepSeek 高级研究员陈德里在 X 上发布的招聘推文获得了超过 30 万次浏览和 1600 多个点赞，反响普遍积极且备受期待。Redis 之父等知名人物推荐了候选人，评论也强调了该项目的雄心壮志及其所应对的重大市场机遇。
+
+**标签**: `#AI Programming`, `#DeepSeek`, `#Claude Code`, `#AI Agents`, `#Recruitment`
 
 ---
 
 <a id="item-22"></a>
-## [中国明确全国碳市场交易手续费实行政府指导价，欧盟批准德国氢能援助计划](https://pdf.dfcfw.com/pdf/H3_AP202605251822844469_1.pdf?1779695170000.pdf) ⭐️ 6.0/10
+## [GitHub 在微软领导下正面临技术和人员流失困境](https://sspai.com/post/110130) ⭐️ 7.0/10
 
-中国国家发展改革委与生态环境部联合发布通知，首次正式明确全国碳排放权交易市场的交易手续费实行政府指导价管理。同时，欧盟委员会根据欧盟国家援助规则，批准了一项德国 130 亿欧元的国家援助计划，通过欧洲氢能银行的'拍卖即服务'机制支持可再生氢生产。 中国的政策为市场参与者规范并稳定了交易成本，是完善全球最大碳市场的关键一步，可能影响其流动性和运行效率。欧盟批准德国的大规模援助，加速了对清洁氢能的投资，直接支持了欧盟在《清洁工业协议》和《REPowerEU 计划》下的工业脱碳与能源安全目标。 在中国，收费标准将由上海、湖北两地价格主管部门基于补偿合理运营成本的原则协同制定上限，并建立每三年定期评估调整机制。德国的援助计划适用于 2026 年结束的拍卖项目，旨在支持最高 1000 兆瓦的电解槽装机容量，推动生产最高 1000 万吨可再生氢，预计可减少约 5500 万吨二氧化碳排放。
-
-rss · 东方财富网-行业研报 · 5月24日 16:00
-
-**背景**: 碳定价是一种基于市场的机制，旨在通过征收碳税或建立碳排放交易体系来减少温室气体排放，中国的全国碳市场就属于后者。欧洲氢能银行是欧盟为扩大氢能经济而设立的倡议，其'拍卖即服务'机制允许成员国使用国家补贴来支持国内可再生氢生产。《清洁工业协议》是欧盟于 2025 年推出的战略框架，旨在将脱碳转化为工业增长和竞争力的驱动力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.climatepolicydashboard.org/policies/cross-sector/carbon-pollution-pricing">Carbon Pollution Pricing | State Climate Policy Dashboard</a></li>
-<li><a href="https://energy.ec.europa.eu/topics/eus-energy-system/hydrogen/european-hydrogen-bank_en">European Hydrogen Bank - European Commission</a></li>
-<li><a href="https://commission.europa.eu/topics/competitiveness/clean-industrial-deal_en">Clean Industrial Deal - European Commission</a></li>
-
-</ul>
-</details>
-
-**标签**: `#ESG`, `#Carbon Markets`, `#Climate Policy`, `#Sustainable Finance`, `#Regulation`
-
----
-
-<a id="item-23"></a>
-## [松应科技张小波：为具身智能打造一个“虚拟训练场”](https://www.cyzone.cn/article/834427.html) ⭐️ 6.0/10
-
-松应科技联合创始人张小波提出，具身智能比自动驾驶面临更复杂的挑战，并介绍了其自研的 ORCA 物理 AI 仿真平台作为解决方案。该平台号称是国内首个实时多物理场仿真系统，已向客户交付超 500 万条数据，并计划今年发展超过 20 万用户。 这很重要，因为高保真、物理精确的仿真对于训练具身智能机器人至关重要，它们需要在复杂环境中进行交互，而不仅仅是感知。该平台专注于国产 GPU（如沐曦）适配和开放硬件生态，旨在减少对外国技术的依赖，并降低中国不断增长的机器人领域开发者的入门门槛。 ORCA 平台支持多物理场仿真（刚体、流体）、万机并发训练，并能生成超过 20 个维度的合成数据，包括视觉、深度、激光雷达和触觉传感器信息。该平台已与摩尔线程、沐曦等多家国内芯片公司完成平台性验证，并提供了免费版本以降低开发者的使用门槛。
-
-rss · 最新资讯 - 创业邦 · 5月25日 01:55
-
-**背景**: 具身智能指的是能够感知并与物理世界交互的智能体（如机器人）。训练这类系统需要大量真实、交互式的数据，在现实世界中收集这些数据成本高昂且存在风险。像英伟达 Omniverse 这样的物理仿真平台可以创建虚拟环境，以安全、大规模的方式生成训练数据。Vision-Language-Action (VLA) 模型是机器人策略学习的一种较早方法，而新兴的 World Action Model (WAM) 范式则显式地对世界状态的变化进行建模，以改进动作预测。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openmoss.github.io/Awesome-WAM/">World Action Models: The Next Frontier in Embodied AI</a></li>
-<li><a href="https://arxiv.org/pdf/2605.12090">World Action Models: The Next Frontier in Embodied AI</a></li>
-
-</ul>
-</details>
-
-**标签**: `#embodied-ai`, `#ai-simulation`, `#robotics`, `#physics-engine`
-
----
-
-<a id="item-24"></a>
-## [AI 估值狂飙、楼市结构性回暖与 AI 心理咨询兴起](https://weekly.caixin.com/2026-05-24/102447083.html) ⭐️ 6.0/10
-
-近期一则新闻音频指出，AI 公司 Anthropic 的估值在不到三个月内据称从 1830 亿美元飙升至 9000 亿美元，英伟达市值一度接近 5.7 万亿美元。同时，一线城市楼市出现结构性回暖，AI 在心理咨询领域的应用正在快速普及。 惊人的估值标志着资本正大规模转向 AI 基础设施，可能重塑未来数十年的全球科技格局和投资策略。楼市的结构性回暖与 AI 心理咨询的兴起，则凸显了技术如何与关键的社会经济领域交汇，引发了关于市场可持续性以及以人为核心服务未来的讨论。 报道中 Anthropic 高达 9000 亿美元的估值，远高于其他近期估计，例如 2026 年 2 月一轮融资显示的 3800 亿美元估值。该报道将投资者情绪描述为从争论“AI 泡沫”转向害怕错过“下一代基础设施”。
-
-rss · 财新网 - 首页 · 5月24日 23:24
-
-**背景**: Anthropic 是一家以 Claude 聊天机器人闻名的领先 AI 公司，与 OpenAI 竞争。楼市的“结构性回暖”通常指由供需平衡、经济健康等基本面因素驱动的市场复苏，而非投机热潮。AI 心理咨询是指利用 AI 聊天机器人或工具提供心理健康支持，目前正被探索作为传统疗法的辅助或替代方案。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://apnews.com/article/anthropic-claude-380b-valuation-openai-rivalry-ipo-65c08aa4fab90cde952f37d32625394a">Anthropic hits a $380B valuation, making it one of the world ...</a></li>
-<li><a href="https://www.cambridge.org/core/journals/european-psychiatry/article/limitations-of-artificial-intelligencebased-tools-in-psychotherapy/75AF15E8FF8CFC109012B658A65BFF6A">Limitations of Artificial Intelligence-Based Tools in ...</a></li>
-<li><a href="https://www.morganstanley.com/insights/articles/real-estate-market-outlook-2026-recovery">Real Estate Market Outlook 2026: Lower Rates Drive Recovery</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Valuation`, `#Financial Markets`, `#Technology Trends`
-
----
-
-<a id="item-25"></a>
-## [谷歌 CEO 承认 Gemini 在编程智能体领域落后，并认为 AGI 比预想更近](https://www.36kr.com/p/3823020763746435) ⭐️ 6.0/10
-
-谷歌 CEO 桑达尔·皮查伊在《纽约时报》科技播客的最新采访中承认，Gemini 模型在 AI 编程智能体领域，特别是在需要工具调用和长期执行的任务上，落后于竞争对手。他还表示，过去一两年 AI 的飞速进展让他感觉通用人工智能（AGI）可能比之前想象得更近。 这一承认意义重大，因为它揭示了谷歌在快速增长且至关重要的 AI 辅助软件开发市场中存在关键竞争劣势，而像 Claude Code 和 Cursor 这样的工具已在该市场占据优势。这也标志着一家行业领导者对 AGI 时间线看法的更新，可能影响投资方向、研究重点以及关于 AI 社会影响的公众讨论。 皮查伊澄清说，虽然 Gemini 在文本、多模态和推理等领域表现强劲，但其弱点在于“带工具调用的智能体编程”以及处理复杂代码库所需的长期、多步骤任务。他指出，新发布的 Gemini 3.5 Flash 和内部工具 Antigravity 2.0 是弥补这一差距的关键步骤，并强调来自开发者的真实使用数据对改进至关重要。
-
-rss · 36氪 - 最新资讯频道 · 5月24日 08:19
-
-**背景**: AI 编程智能体是专门设计用于辅助软件开发任务（如代码生成、审查和重构）的 AI 系统。领先的例子包括 Anthropic 的 Claude Code 以及集成到 Cursor 中的工具，这些在开发者中已很流行。谷歌的 Gemini 是一个多模态 AI 模型家族，而 Gemini 3.5 Flash 是谷歌在 2026 年 I/O 大会上最新发布的、速度更快、能力更强的模型。AGI，即通用人工智能，指的是一个假想的、在广泛任务上具备类人认知能力的 AI 系统。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.faros.ai/blog/best-ai-coding-agents-2026">Best AI Coding Agents for 2026: Real-World Developer Reviews</a></li>
-<li><a href="https://sites.duke.edu/ddmc/2026/05/23/google-i-o-2026-gemini-3-5-flash-gemini-omni-gemini-spark/">Google I/O 2026 - Gemini 3.5 Flash - Gemini Omni - Gemini ...</a></li>
-<li><a href="https://theagiclock.com/">AGI Countdown Clock - Live Countdown to Artificial General ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Google`, `#AI`, `#Gemini`, `#Coding Agents`, `#AGI`
-
----
-
-<a id="item-26"></a>
-## [OpenAI 加速 Codex 企业功能更新，为 IPO 铺路](https://www.36kr.com/p/3822795128070149) ⭐️ 6.0/10
-
-过去两个月，OpenAI 为其 AI 编程助手 Codex 快速推出了一系列以企业为核心的重大更新，包括插件、内置浏览器、电脑操作、PR 审查、远程 SSH、手机端接入，以及在 5 月 21 日更新的 Appshots（屏幕截图发送）、用于长时间工作的“目标模式”和锁屏后远程使用等功能。 这次激进的更新是 OpenAI 向市场展示其具体商业价值和盈利能力的关键战略，尤其是在公司筹备 IPO 之际。通过将 Codex 深度集成到真实的企业工作流中（效仿 Anthropic 的 Claude Code 的成功路径），OpenAI 旨在证明其能从生产环境中创造收入，而不仅仅依赖于面向消费者的聊天机器人。 关键更新聚焦于三大支柱：上下文获取（如文件预览、Appshots）、任务执行（如目标模式、远程访问令牌）和企业风险管理（如自动审批审查、团队插件共享）。Codex 的周活跃用户从 3 月初的约 160 万增长到 5 月中旬的超过 400 万，显示出强劲的采用势头。
-
-rss · 36氪 - 最新资讯频道 · 5月24日 04:44
-
-**背景**: OpenAI Codex 是一个与 ChatGPT 集成的 AI 编程助手，旨在协助完成编码、调试和代码审查等软件开发任务。其在企业 AI 编码领域的主要竞争对手是 Anthropic 的 Claude Code，后者已经为前沿 AI 模型公司展示了一条可行的盈利路径。IPO（首次公开募股）是指一家私人公司首次向公众出售股票，这需要公司清晰地展示其可持续的业务和增长潜力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent)">OpenAI Codex ( AI agent) - Wikipedia</a></li>
-<li><a href="https://claude.com/product/claude-code/enterprise">Claude Code for Enterprise | Claude by Anthropic</a></li>
-<li><a href="https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/">OpenAI launches Codex , an AI coding agent, in ChatGPT | TechCrunch</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#AI-Assistants`, `#Enterprise-Software`, `#Product-Strategy`, `#IPO`
-
----
-
-<a id="item-27"></a>
-## [GitHub 在并入微软 CoreAI 团队后面临人才流失与技术困境](https://sspai.com/post/110130) ⭐️ 6.0/10
-
-在被微软收购近八年后，GitHub 正面临严重的内部动荡，包括前 CEO 离职、其汇报线被并入微软的 CoreAI 团队，这导致了核心高管流失和技术运营不稳定。该平台在向 Azure 迁移期间频繁宕机，遭遇了严重的安全漏洞，其 GitHub Copilot 转向按量计费也引发用户反弹，同时面临来自 Cursor 和 Claude Code 等对手的激烈竞争。 这很重要，因为 GitHub 是全球最大的开源开发平台，其稳定性和独立性对数百万开发者及更广泛的软件生态至关重要。报道中的内部冲突、技术问题和竞争压力可能会削弱对该平台的信任，可能导致项目和人才流向其他平台，并影响 AI 辅助开发工具的未来。 由前 Meta 高管 Jay Parikh 领导的 CoreAI 重组，打破了 GitHub 长期以来的独立运营传统。具体事件包括 3 月份的基础设施漏洞、因安装恶意 VS Code 扩展导致 3800 个内部代码库被窃取的黑客攻击，以及微软内部取消 Claude Code 使用许可以迫使团队集中精力优化 GitHub Copilot 的举措。
+在被微软收购近八年后，GitHub 正面临多重困境，包括前任 CEO 离职后未任命继任者、汇报线并入微软 CoreAI 团队、向 Azure 迁移导致频繁宕机，以及 3 月发生严重安全漏洞导致数千个内部代码库被窃取。 GitHub 是全球最大的开源代码托管平台，其稳定性和战略方向对数百万开发者和整个软件生态至关重要。当前的困境可能削弱开发者对平台的信任，加速人才和项目向竞争对手迁移，并影响 AI 辅助编程工具的未来格局。 关键人员流失包括前 CEO Thomas Dohmke 离职并创立了竞品平台 Entire。微软内部的 CoreAI 团队警告 GitHub 正面临来自 Claude Code 等对手的'致命威胁'，甚至开始取消内部开发者使用 Claude Code 的许可，以倒逼团队集中优化 GitHub Copilot。
 
 rss · 少数派  · 5月24日 22:36
 
-**背景**: GitHub 是一个广泛使用的基于 Web 的版本控制和协作平台，主要使用 Git，允许开发者托管和审查代码、管理项目并构建软件。微软于 2018 年以 75 亿美元收购了 GitHub。2025 年 1 月，微软成立了由 Jay Parikh 领导的 CoreAI – 平台与工具部门，旨在整合其平台、开发者工具和基础设施团队以构建 AI 平台。GitHub Copilot 是微软的 AI 代码补全工具，而像 Anthropic 的 Claude Code 这样的竞争对手则是能够理解代码库并执行命令的智能体 AI 编码系统。
+**背景**: GitHub 是一个基于 Web 的版本控制和协作平台，主要使用 Git，于 2018 年被微软收购。微软的 CoreAI – 平台与工具部门于 2025 年 1 月宣布成立，由前 Meta 高管 Jay Parikh 领导，是一次旨在优化微软 AI 技术栈的重大内部重组。Entire 是一个由 GitHub 前 CEO 创立的新兴、资金充足的 AI 驱动开发者平台。Cursor 是一款 AI 辅助代码编辑器，是 Visual Studio Code 的一个分支，近年来获得了显著的用户增长。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://blogs.microsoft.com/blog/2025/01/13/introducing-core-ai-platform-and-tools/">Introducing CoreAI – Platform and Tools - The Official ...</a></li>
-<li><a href="https://www.techspot.com/news/109040-microsoft-ai-push-tightens-grip-github-after-ceo.html">Microsoft absorbs GitHub into CoreAI division as CEO plans ...</a></li>
-<li><a href="https://www.anthropic.com/product/claude-code">Claude Code | Anthropic's agentic coding system</a></li>
+<li><a href="https://siliconangle.com/2026/02/10/entire-launches-60m-build-ai-focused-code-management-platform/">Entire launches with $60M to build an AI-focused code ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cursor_(code_editor)">Cursor (code editor) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GitHub`, `#Microsoft`, `#Software Engineering`, `#Open Source`, `#AI Programming`
+**标签**: `#GitHub`, `#Microsoft`, `#Open Source`, `#Software Development`, `#Tech Industry`
+
+---
+
+<a id="item-23"></a>
+## [日本声优起诉 TikTok，要求删除 AI 模仿其声音的视频](https://www.solidot.org/story?sid=84389) ⭐️ 7.0/10
+
+日本人气声优津田健次郎已向东京地方法院提起诉讼，要求 TikTok 运营方删除使用生成式 AI 模仿其标志性“富有磁性的低音声线”制作的视频。涉事账号在 2024 年 7 月至 2025 年 9 月期间发布了 188 个此类视频，并获得了每月 50 万至 75 万日元的收益，这可能是关于生成式 AI 擅自使用声音的首个诉讼案。 此案可能为 AI 时代的声音权、人格权保护确立关键的法律先例，直接影响声优、AI 开发者及社交媒体平台。其结果将决定平台如何处理模仿可识别人类特征的 AI 生成内容，从而塑造技术、知识产权与伦理交叉领域的未来监管框架。 被告辩称旁白为“普通的男性声音”，说话方式无特色，与津田的声音不相似，并解释视频是让 AI 学习朋友的声音后制作，认为并不违法。此案凸显了当 AI 基于学习到的特征合成声音而非直接复制时，在法律上定义和证明“模仿”的挑战。
+
+rss · 奇客Solidot–传递最新科技情报 · 5月25日 07:18
+
+**背景**: 生成式 AI 语音合成工具（如 Noiz AI 或 Vocu AI）可以通过音频样本克隆一个人的声音特征，生成高度逼真的语音。在许多司法管辖区，个人的声音被视为受保护的人格权，与特定录音的版权不同。此前的法律案例（例如中国的一起案件）已裁定，AI 生成的声音如果保留了个人可识别的音色和语调特征，即使并非本人直接录制，也可能构成侵权。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://noiz.ai/">Noiz AI : AI Text to Speech, Voice Clone & Voice Design Tool</a></li>
+<li><a href="https://www.vocu.ai/">Vocu AI - World's #1 Super Realistic AI Voice Synthesis & Instant...</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2031349039191553254">律师实务指引：AI深度合成（声音与肖像）侵权案件的维权路径与代理策...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Ethics`, `#Legal`, `#Intellectual Property`, `#Voice Synthesis`, `#Social Media`
+
+---
+
+<a id="item-24"></a>
+## [NYU 研究人员开发出 3 分钟手机游戏，可实现临床水平的抑郁症筛查。](https://unwire.hk/2026/05/25/3-minute-phone-game-depression-test/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=3-minute-phone-game-depression-test) ⭐️ 7.0/10
+
+纽约大学朗格尼医疗中心的研究人员开发了一款 3 分钟的智能手机游戏，用户在游戏中收集掉落的苹果，游戏通过追踪其交互模式来筛查抑郁症。这项涉及 120 名参与者的研究表明，该游戏识别抑郁症的准确率达到了与标准筛查工具相当的临床水平。 这很重要，因为它代表了一种可扩展、低成本且易于获取的心理健康筛查方法，有可能克服污名化和临床资源有限等障碍。这标志着在利用被动数字生物标志物和人机交互进行数字心理健康早期检测方面迈出了重要一步。 该游戏的设计基于将快感缺失与大脑前扣带皮层活动联系起来的研究。该研究结果于近期发表，游戏通过分析游戏过程中的滑动手势等细微行为线索，这些线索可作为抑郁症的数字生物标志物。
+
+rss · 香港 unwire.hk 玩生活．樂科技 · 5月25日 02:30
+
+**背景**: 初级保健中的抑郁症筛查通常使用 PHQ-9 等标准化问卷，但对于最佳工具尚无普遍共识。与此同时，数字心理健康领域正在探索人机交互和来自智能手机的行为数据如何作为心理状态的客观生物标志物。研究表明，移动设备使用过程中的细微交互模式可能与焦虑和抑郁症状相关。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nyulangone.org/news/three-minute-video-game-identifies-patients-who-have-depression">3-Minute Video Game Identifies Patients Who Have Depression</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12246760/">Leveraging Swipe Gesture Interactions From Mobile Games as ...</a></li>
+<li><a href="https://jamanetwork.com/journals/jama/fullarticle/2766865">Accuracy of the PHQ-2 Alone and in Combination With the PHQ-9 ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#digital-health`, `#mental-health`, `#mobile-technology`, `#AI-diagnostics`, `#human-computer-interaction`
+
+---
+
+<a id="item-25"></a>
+## [荷兰当局查获 800 台服务器并逮捕两人，指控其支持网络攻击。](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) ⭐️ 6.0/10
+
+荷兰执法部门查获了 800 台服务器，并逮捕了两名涉嫌为网络攻击提供基础设施支持的个人。此次行动针对的是被描述为由情报机构直接运营的空壳公司，而非典型的托管服务提供商。 这次行动破坏了网络犯罪供应链的一个关键环节，特别是那些通过无视滥用投诉来为攻击提供便利的'防弹托管'服务。此类打击行动至关重要，因为它移除了犯罪分子所依赖的弹性技术基础，有助于降低针对关键基础设施等目标的攻击风险。 社区评论澄清，被查获的基础设施并非来自合法甚至管理松懈的托管公司，而是由俄罗斯情报机构直接拥有和运营的空壳公司，这些公司不为普通客户提供服务。查获 800 台服务器的规模表明一个重要的运营能力被瓦解。
+
+hackernews · jruohonen · 5月25日 13:56 · [社区讨论](https://news.ycombinator.com/item?id=48266906)
+
+**背景**: 防弹托管（BPH）是指故意对非法活动投诉具有弹性的互联网托管服务，这使其成为网络犯罪分子发起恶意软件分发、网络钓鱼和 DDoS 攻击的基本构建块。针对此类基础设施的执法行动涉及复杂的数字证据搜查和扣押程序，以构建法律案件。荷兰过去一直是此类服务的显著所在地，臭名昭著的 CyberBunker 数据中心就是例证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bulletproof_hosting">Bulletproof hosting - Wikipedia</a></li>
+<li><a href="https://legalclarity.org/the-procedure-for-search-and-seizure-of-digital-evidence/">Procedures for Search and Seizure of Digital Evidence</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 讨论提供了背景信息，一位用户强调被查获的服务器来自俄罗斯情报机构的空壳公司，而非典型的离岸托管提供商。另一位用户对投入犯罪 IT 基础设施的工程努力表示惊讶，指出肇事者拥有合法的技能。第三位用户提到了 CyberBunker 这一历史例子，这是一个同样位于荷兰的臭名昭著的数据中心。
+
+**标签**: `#cybersecurity`, `#law-enforcement`, `#infrastructure`, `#cybercrime`
+
+---
+
+<a id="item-26"></a>
+## [一篇关于软件开发中孤立性与文化的反思性文章](http://androidessence.com/leave-me-behind/) ⭐️ 6.0/10
+
+一篇名为《Leave Me Behind》的反思性文章发表，探讨了编程文化中的个人孤立体验以及软件更广泛的人文影响。这篇文章引发了社区的大量讨论，收到了 191 条评论，凸显了关于该主题的多样化个人观点。 这很重要，因为它将焦点从纯粹的技术讨论转向了软件开发中常被忽视的人文与文化维度。文章的高参与度表明社区强烈需要讨论其工作带来的心理和社会影响，这可能影响团队动态、开发者福祉以及软件的伦理创建。 这篇文章是哲学性的而非技术性的，讨论中包含了关于社区参与与孤立体验的对比。一些评论者还将反思延伸至软件对终端用户的下游影响，以及专有 AI 工具所涉及的权利动态。
+
+hackernews · mooreds · 5月25日 12:03 · [社区讨论](https://news.ycombinator.com/item?id=48265876)
+
+**背景**: 编程文化通常通过开源项目、论坛和会议强调协作，但个人的体验可能千差万别。“下游影响”这个概念指的是软件对其最终用户产生的、常常被直接开发者忽视的效应。关于科技行业孤立性的讨论，与关于远程工作、社区建设和行业心理健康的更广泛对话相关联。
+
+**社区讨论**: 社区讨论揭示了个人共鸣与扩展批判的混合。一些评论者分享了他们自身的孤立经历，与作者的观点形成对比，而另一些人则将焦点转向开发者对终端用户的伦理责任。一个值得注意的讨论线索还批判性地审视了专有 AI 工具与传统开源软件相比背后的权利动态和经济激励。
+
+**标签**: `#programming culture`, `#software development`, `#community`, `#personal reflection`
+
+---
+
+<a id="item-27"></a>
+## [技术分析证明 Atlassian 的 Jira 问题追踪系统是图灵完备的](https://seriot.ch/computation/jira.html) ⭐️ 6.0/10
+
+Nicolas Seriot 的一项技术分析表明，Atlassian 公司广泛使用的项目管理和问题追踪软件 Jira 是图灵完备的。这意味着，从理论上讲，Jira 的工作流和自动化规则可以被配置来执行任何图灵机能够完成的计算。 这一发现是对企业软件意外复杂性的一个幽默而深刻的评论，突显了即使是专为项目管理设计的工具也可能成为事实上的编程环境。它引发了关于软件膨胀、企业系统内自动化的力量，以及使用日常工具进行计算的理论极限的讨论。 该分析是一个理论上的概念验证，并非在 Jira 中构建程序的实用指南；它通过系统的规则配置突显了其固有的计算能力。这一发现以幽默的口吻呈现，承认了 Jira 在其用户群中以复杂著称的声誉。
+
+hackernews · vinhnx · 5月25日 03:54 · [社区讨论](https://news.ycombinator.com/item?id=48263253)
+
+**背景**: 图灵完备性是计算机科学中的一个基本概念，表明一个系统（如编程语言或一组规则）可以模拟任何图灵机，这是一种计算的理论模型。本质上，如果一个系统是图灵完备的，只要有足够的时间和内存，它就能执行任何计算。Jira 是 Atlassian 公司开发的商业软件产品，主要被开发团队用于缺陷追踪、问题追踪和敏捷项目管理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Turing_completeness">Turing completeness - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jira_(software)">Jira (software) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区讨论反映了对 Jira 的幽默、沮丧和实用见解的混合。评论范围从对其复杂性的幽默解读（"Jira 完全糟糕，因此有潜力呈现出任何其他形式的糟糕，" "我终于可以在 Jira 里玩《毁灭战士》了。"）到讨论利用其 API 进行自动化以获得优势，以及与其他工具（如 Azure Boards）的比较。情绪上主要是批评 Jira 的用户体验，但也承认其普遍存在性和创造性颠覆的潜力。
+
+**标签**: `#software-engineering`, `#humor`, `#turing-completeness`, `#project-management`
 
 ---
 
 <a id="item-28"></a>
-## [AI 初创公司 Hark 完成 7 亿美元 A 轮融资，加速研发 AI 个人助理及硬件。](https://www.pingwest.com/w/313995) ⭐️ 6.0/10
+## [Andon Labs 实验：AI 智能体自主运营电台和零售店，导致混乱失败与财务亏损。](https://www.cyzone.cn/article/834425.html) ⭐️ 6.0/10
 
-AI 初创公司 Hark 宣布完成 7 亿美元的 A 轮融资，投后估值达到 60 亿美元。该公司计划利用这笔资金加速其多模态 AI 个人助理平台及相关原生硬件设备的研发。 这笔巨额融资表明投资者对 Hark 打造人机“通用接口”的愿景充满信心，可能显著加速集成式 AI 助理与硬件领域的竞争。大量资金的注入使 Hark 能够扩展其雄心勃勃的计划，通过将先进 AI 模型与定制设计的设备相结合，可能对现有市场参与者构成挑战。 Hark 由亿万富翁 Brett Adcock 创立，是一家专注于多模态系统和原生硬件的保密 AI 实验室。该公司预计将在 2026 年夏季发布其首批多模态 AI 模型，这些模型将为旨在与现有产品和服务协同工作的个人 AI 平台提供动力。
+AI 研究团队 Andon Labs 进行了一项为期六个月的实验，让 AI 模型（Claude、ChatGPT、Gemini 和 Grok）各自获得 20 美元启动资金，并拥有完全自主权来运营 24 小时不间断的互联网电台。该实验后来扩展到在旧金山开设一家名为 Andon Market 的 AI 管理零售店，该店铺同样以失败和破产告终。 这项实验是对自主 AI 智能体的一次关键的现实压力测试，突显了其在没有人类监督的情况下处理复杂、开放式商业运营的当前局限性。它提供了一个关于在完全自主的角色中部署 AI 的风险警示，尤其是在需要常识、财务头脑和道德判断的动态环境中。 每个 AI 模型都发展出独特但有缺陷的电台人格：Gemini 陷入企业黑话和阴谋论，Grok 的语言能力退化到词不达意，Claude 陷入循环卡顿，而 ChatGPT 虽然最为正常，但最终放弃了商业目标。其实体零售店的失败则源于糟糕的库存选择、与人类员工混乱的沟通以及无法管理基本财务。
 
-rss · 品玩 - 要闻 · 5月25日 01:47
+rss · 最新资讯 - 创业邦 · 5月25日 11:21
 
-**背景**: A 轮融资通常是初创公司获得的首轮重要风险投资，用于在验证初步概念后扩大运营规模。在 AI 个人助理领域，“多模态”系统能够处理和生成文本、音频、图像等多种类型的数据。开发专门用于本地运行 AI 模型的硬件是一个日益增长的趋势，旨在提供比纯云端解决方案更快、更私密、更集成的用户体验。
+**背景**: AI 智能体是构建在大型语言模型（LLM）之上的自主系统，能够感知环境、做出决策并采取行动以实现目标。智能体 AI 的概念代表了从仅仅回答问题的模型，向能够规划和执行复杂任务的系统的转变。Andon Labs 是一个专注于 AI 安全及测试 AI 系统在现实世界中行为的团队。他们的实验旨在观察当领先的 LLM 在类似商业的场景中被赋予重大运营自主权时，其表现如何。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/">Hark raises $700M Series A for its secretive ‘universal’ AI ...</a></li>
-<li><a href="https://www.businesswire.com/news/home/20260324789327/en/Hark-Launches-AI-Lab-Building-Futuristic-Interface-to-Artificial-Intelligence">Hark Launches AI Lab Building Futuristic Interface to ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Series_A_round">Series A round - Wikipedia</a></li>
+<li><a href="https://gizmodo.com/an-experiment-put-llms-in-charge-of-radio-stations-youll-never-guess-how-it-went-2000759327">An Experiment Put LLMs in Charge of Radio Stations. You’ll ...</a></li>
+<li><a href="https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged/">Four AI models ran radio stations for six months and the ...</a></li>
+<li><a href="https://andonlabs.com/">Andon Labs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Startups`, `#Funding`, `#Hardware`, `#Personal Assistant`
+**标签**: `#AI Agents`, `#AI Failure`, `#Autonomous Systems`, `#Business Automation`
 
 ---
 
 <a id="item-29"></a>
-## [韩国副总理警告 AI 财富必须回馈社会，并以三星劳资纠纷为例。](https://unwire.hk/2026/05/24/south-korea-deputy-pm-ai-wealth-distribution-samsung-strike/ai/?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-deputy-pm-ai-wealth-distribution-samsung-strike) ⭐️ 6.0/10
+## [Cursor 的“套壳”产品策略实现与原生 AI 编程解决方案的性能持平](https://www.cyzone.cn/article/834441.html) ⭐️ 6.0/10
 
-5 月 23 日，韩国副总理兼科学技术信息通信部长裴庆勋发出警告，指出人工智能时代创造的巨额财富必须广泛惠及社会。他将本周险些导致三星电子停工的劳资冲突，称为 AI 时代财富分配矛盾的具体缩影。 这一表态之所以重要，是因为它将关于 AI 经济影响的讨论从技术效率层面，提升到了财富不平等这一关键的社会和政治议题。这表明政策制定者开始认识到需要采取主动措施，以确保 AI 驱动增长（尤其是在对 AI 至关重要的半导体行业）的收益得到更公平的分配，从而防止社会动荡。 三星的劳资纠纷涉及提高工资和奖金的要求，其势头因工人们将自身待遇与竞争对手 SK 海力士进行比较而增强，据报道后者部分员工获得了丰厚的奖金保证。副总理的警告发出之际，人们正担忧长期的劳资纠纷可能给韩国的半导体复苏战略及其在 AI 内存和先进代工市场的竞争力带来负担。
+Artificial Analysis 近期的基准测试数据显示，使用相同 Claude Opus 4.7 模型的 Cursor CLI 与原生 Claude Code 获得了接近的分数（61 分对 60 分）。这表明 Cursor 在应用层的工程积累，正在抵消“原生模型+原生应用”的闭环优势。 这挑战了业界关于“原生模型+原生应用”集成开发具有不可逾越优势的核心假设，验证了专注于在可互换模型之上构建更优智能体（Agent）系统和流程的“套壳”产品的可行性。它将 AI 编程助手的竞争格局，从纯粹的大模型军备竞赛转向强调系统效率和用户体验的竞争。 Cursor 的策略包括构建一个用于上下文管理和多仓库支持的强大智能体系统，同时引入其自身基于 Kimi 等开源底座、成本更优的 Composer 模型来处理常规任务，以减少对昂贵第三方 API 的依赖。财务上，采用这种混合策略后，该公司的大型企业账户已实现正毛利率。
 
-rss · 香港 unwire.hk 玩生活．樂科技 · 5月24日 12:00
+rss · 最新资讯 - 创业邦 · 5月25日 10:15
 
-**背景**: 人工智能（AI）是一种可能显著影响生产和财富分配的技术进步。研究表明，AI 可能在短期内加剧收入不平等，因为它使高技能工人和技术控制者受益，同时取代重复性任务的工作岗位。以三星和 SK 海力士等公司为代表的半导体产业是 AI 发展的基础，它生产 AI 系统所需的先进芯片。这个高价值行业的劳资纠纷，直接凸显了技术领先所带来的利润在资本和劳动力之间如何分配的紧张关系。
+**背景**: Cursor 是一款 AI 驱动的代码编辑器和 CLI 工具，它通过集成 Anthropic（Claude）和 OpenAI（GPT）等第三方大语言模型来辅助编程，扮演着“套壳”产品的角色。Claude Code 是由 Anthropic 原生开发的、专注于编程的产品，旨在通过端到端的优化来充分发挥其自家 Claude 模型的潜力。Artificial Analysis 是一个独立的平台，提供用于比较各种 AI 模型和 API 性能的基准测试和分析。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2405844025003238">Analyzing wealth distribution effects of artificial ...</a></li>
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-032-15711-9_3">AI and Income Distribution | Springer Nature Link</a></li>
-<li><a href="https://en.sedaily.com/finance/2026/05/08/samsung-labor-dispute-looms-as-executives-warn-of">Samsung Labor Dispute Looms as Executives Warn of...</a></li>
+<li><a href="https://cursor.com/cli">Cursor CLI — Run Agents in Terminal, GitHub Actions and ...</a></li>
+<li><a href="https://www.anthropic.com/news/claude-opus-4-7">Introducing Claude Opus 4.7 \ Anthropic</a></li>
+<li><a href="https://artificialanalysis.ai/">AI Model & API Providers Analysis | Artificial Analysis</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Ethics`, `#Economic Policy`, `#Labor Relations`, `#South Korea`, `#Wealth Distribution`
+**标签**: `#AI-Coding-Assistants`, `#Product-Strategy`, `#Model-Comparison`, `#Developer-Tools`
 
 ---
 
 <a id="item-30"></a>
-## [经典 Dyalog APL 教材现推出交互式 Jupyter Notebook 版本](https://mastering.dyalog.com/README.html) ⭐️ 5.0/10
+## [DeepSeek-V4-Pro API 价格永久下调 75%，或再掀 AI 模型价格战](https://www.caixin.com/2026-05-25/102447390.html) ⭐️ 6.0/10
 
-经典教材《Mastering Dyalog APL》现已转换为使用 Jupyter Notebooks 的交互式版本，允许读者直接在浏览器中运行和试验 APL 代码示例。这一更新使这一 Dyalog APL 编程语言的关键入门资源现代化。 这很重要，因为对于以密集符号语法著称的 APL 语言，交互式示例通过提供即时反馈和实验机会，显著降低了其学习门槛。它复兴了一个备受推崇的教育资源，可能为小众但有影响力的数组编程领域吸引新的开发者。 原书的 PDF 版本仍然可供喜欢静态格式的读者使用。交互式版本托管在 mastering.dyalog.com 网站上，并利用了 Jupyter 平台将可执行代码与解释性文本相结合的能力。
+深度求索（DeepSeek）宣布其 DeepSeek-V4-Pro 模型的 API 价格永久下调 75%，调整后每百万 Token 的输入（缓存命中）价格为 0.025 元，输入（缓存未命中）为 3 元，输出为 6 元。 此次针对顶级模型的大幅降价可能加剧主要 AI 提供商之间的竞争，显著降低 AI 应用开发成本，并可能迫使 OpenAI、Anthropic 等竞争对手做出相应的价格调整。 新的定价结构凸显了缓存的关键作用，缓存命中的输入价格比未命中的便宜 120 倍，这激励开发者优化其 API 使用模式以实现最大的成本效益。
 
-hackernews · tosh · 5月24日 11:42 · [社区讨论](https://news.ycombinator.com/item?id=48256475)
+rss · 财新网 - 首页 · 5月25日 14:07
 
-**背景**: APL 是一种起源于 20 世纪 60 年代的面向数组的编程语言，以其使用特殊图形符号编写极其简洁的代码而闻名。Dyalog APL 是该语言的一个现代、商业许可的实现，已经过数十年的优化。Jupyter Notebook 是一个开源 Web 应用程序，允许创建和共享包含实时代码、方程式、可视化和叙述性文本的文档。
+**背景**: DeepSeek-V4-Pro 是一个采用混合专家（MoE）架构的大语言模型，总参数量达 1.6 万亿，每 Token 激活 490 亿参数。它支持 100 万 Token 的上下文长度，并采用混合注意力机制以提高效率。近年来，AI 行业的 API 定价呈显著下降趋势，自 2023 年以来，中端模型的成本已下降 50 到 100 倍，这主要得益于技术进步和激烈的市场竞争。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL (programming language) - Wikipedia</a></li>
-<li><a href="https://www.dyalog.com/dyalog/index.htm">The Dyalog Language Engine</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Project_Jupyter">Project Jupyter - Wikipedia</a></li>
+<li><a href="https://build.nvidia.com/deepseek-ai/deepseek-v4-pro/modelcard">deepseek-v4-pro Model by Deepseek-ai | NVIDIA NIM</a></li>
+<li><a href="https://tokenmix.ai/blog/ai-pricing-trends-history">AI API Pricing History: GPT-4 $60 to GPT-5.4 $15 (50x Drop)</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者欢迎这种交互式格式，指出它有助于建立对 APL 符号的肌肉记忆。一些人分享了替代的学习资源，而另一些人则讨论了他们使用 LLM 和在线判题系统等现代工具学习 APL 的个人经验。一个次要的讨论点是 Dyalog APL 的商业许可模式与其小众、深奥的特性之间的对比。
-
-**标签**: `#apl`, `#programming-languages`, `#education`, `#array-programming`, `#jupyter`
+**标签**: `#AI`, `#Pricing`, `#API`, `#Market Competition`, `#Large Language Models`
 
 ---
 
 <a id="item-31"></a>
-## [Ruby for Good 宣布 2026 年线下活动，聚焦协作式开源公益项目](https://ti.to/codeforgood/rubyforgood) ⭐️ 5.0/10
+## [平台工程如何利用“黄金砖块”实现快速、顺畅的交付](https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4) ⭐️ 6.0/10
 
-Ruby for Good 已为其 2026 年在华盛顿特区附近举办的线下活动开放早鸟票注册，届时 Ruby 开发者将协作开发面向非营利组织和社会部门的长期开源项目。创始人澄清，该活动并非黑客松，而是一个专注于维护和贡献现有项目的聚会，其中一些项目已运行超过十年。 该活动之所以重要，是因为它将 Ruby 开发者社群的技能引导至对社会公益的持续、有意义的贡献中，为非营利组织提供关键的软件支持。它培育了一个包容性的技术社区，并代表了开源协作日益被导向解决社会挑战的趋势。 该活动被描述为一个为期长周末的年度聚会，参与者在一个公共空间里为对社区有实际影响的项目工作。关键细节包括其位于华盛顿特区附近，以及其使命是在为非营利组织提供专业软件解决方案的同时，建立一个包容性的社区。
+在哥本哈根 GOTO 大会上，Daniel Bryant 倡导一种以产品为中心的平台工程模型，为开发者提供可组合、自助服务的“黄金砖块”，而非僵化的“黄金路径”。他强调应通过采用率、开发者体验以及部署频率和变更失败率等业务成果来衡量平台的成功。 这种方法之所以重要，是因为它直接解决了开发者的认知负荷和生产力问题，这是现代软件交付中的关键瓶颈。通过将平台视为服务于开发者的内部产品，组织可以加速价值交付、减少协调开销，并同时提升开发者满意度和业务敏捷性。 关键细节包括平台的三个目标：通过提供“一切即服务”来加快速度，通过自动化和可复用组件来降低风险，以及通过类似车队的管理方式来提高效率。Bryant 还警告了“抽象泄漏”的风险，即开发者会逐渐依赖底层的平台实现细节，导致未来难以更改。
 
-hackernews · mooreds · 5月24日 15:49 · [社区讨论](https://news.ycombinator.com/item?id=48258254)
+rss · InfoQ 推荐 · 5月25日 11:00
 
-**背景**: Ruby for Good 是一个旨在为非营利组织提供专业软件开发解决方案的组织。其年度活动汇聚全球的 Ruby 程序员，共同构建和贡献于帮助社区的项目，它通过专注于长期项目维护和影响力，与短期的黑客松区分开来。面向社会公益的开源项目利用协作开发来解决医疗、教育和环境可持续性等领域的挑战。
+**背景**: 平台工程是 DevOps 的演进，专注于构建内部开发者平台（IDP），提供自助服务能力以减少软件开发生命周期中的摩擦。“认知负荷”指的是开发者理解和使用工具与流程所需的心智努力，高负荷会严重阻碍生产力。“黄金路径”是预定义的标准化工作流，而“黄金砖块”则是模块化、可组合的组件，能提供更大的灵活性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://rubyforgood.org/">Ruby for Good - Home</a></li>
-<li><a href="https://github.blog/open-source/social-impact/">The latest on open source's social impact - The GitHub Blog</a></li>
+<li><a href="https://www.infoq.com/news/2026/05/platform-golden-bricks/">How Platform Engineering Using Golden Bricks Can Enable... - InfoQ</a></li>
+<li><a href="https://thevaluable.dev/cognitive-load-theory-software-developer/">The Cognitive Load Theory in Software Development</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-an-internal-developer-platform">What is an internal developer platform (IDP)? - Google Cloud</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论以支持为主，创始人澄清了该活动并非黑客松的性质，参与者对这项倡议表示赞赏。一位评论者询问了企业赞助商的情况，表明了对哪些科技公司支持此类公益努力的兴趣。另一位参与者分享了官方网站链接以获取更多信息。
-
-**标签**: `#ruby`, `#open-source`, `#community`, `#social-good`, `#events`
+**标签**: `#Platform Engineering`, `#Developer Experience`, `#DevOps`, `#Software Architecture`
 
 ---
 
 <a id="item-32"></a>
-## [Usborne 1980 年代计算机编程书籍引发怀旧，凸显其教育遗产](https://usborne.com/us/books/computer-and-coding-books) ⭐️ 5.0/10
+## [性能评估显示，在高 TPC-C 负载下，Snowflake 的 Oracle CDC 连接器影响甚微。](https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A) ⭐️ 6.0/10
 
-Usborne Publishing 已将其在 1980 年代具有影响力的计算机编程书籍的 PDF 版本免费提供下载。这个包含《计算机与编程》等书籍的合集在网上重新出现，引发了大量开发者的个人故事分享，他们将这些书视为自己职业生涯的起点。 这很重要，因为它凸显了在个人计算机革命时代，易于获取、设计精良的教育材料在激励一代软件工程师方面所起到的奠基性作用。重新引发的关注，体现了人们对实践性强、对初学者友好的技术教育的持久赞赏，这与一些现代的抽象化学习工具形成了对比。 这些书籍以其色彩丰富、循序渐进的指导而闻名，涵盖从 BASIC 编程到机器码甚至机器人项目等主题。值得注意的是，Usborne 还出版了该系列的新书，例如《使用 Scratch 的初学者编程》，连接了历史和现代的编程教育。
+Snowflake 对其基于 XStream 的 Oracle Openflow 连接器进行了性能评估，测试在持续约每秒 37,000 笔事务的高吞吐 TPC-C 工作负载下进行。结果显示，重做日志量呈线性增长约 47%，CPU 开销可忽略不计（约 3%），吞吐量影响主要与已有的 I/O 瓶颈相关。 这项评估直接回应了数据库管理员（DBA）的一个主要顾虑，他们常因担心破坏生产 OLTP 系统的稳定性而不愿启用 CDC。这些量化的、影响甚微的数据为集成实时数据管道提供了信心，这对于满足 AI 和分析应用对新鲜运营数据的需求至关重要。 测试在 AWS RDS Oracle 19c 上使用 HammerDB TPC-C 工作负载进行。观察到的 8-9%吞吐量下降归因于增加的重做日志量加剧了已有的 I/O 瓶颈（log_file_sync 等待），而非 XStream 进程本身。研究强调 CDC 的成本主要是 I/O，而非 CPU。
 
-hackernews · ngram · 5月24日 15:43 · [社区讨论](https://news.ycombinator.com/item?id=48258194)
+rss · InfoQ 推荐 · 5月25日 08:00
 
-**背景**: 在 20 世纪 80 年代，像 Commodore 64 和 Amstrad CPC 这样的个人电脑变得更加普及，但编程资源却很稀缺。Usborne 的书籍通过提供面向儿童和初学者的清晰、图文并茂的指南，填补了这一空白。复古计算涉及使用和研究旧的计算机系统和软件，通常用于教育或怀旧目的，而 BASIC 是那个时代常见的入门编程语言。
+**背景**: 变更数据捕获（CDC）是一种用于识别和捕获数据库中数据变更，并实时将这些变更传递到下游分析或复制系统的技术。Oracle XStream 是 Oracle 数据库内部的一个 API 和功能，通过读取重做日志来实现低影响的、基于日志的 CDC。TPC-C 是一个广泛使用的基准测试，用于模拟复杂的在线事务处理（OLTP）工作负载，包含插入、更新和删除的混合操作。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://usborne.com/us/books/computer-and-coding-books">Computer and coding books from Usborne | Usborne | Be Curious</a></li>
-<li><a href="https://www.callapple.org/programming/the-usborne-1980s-computer-books/">The Usborne 1980 ’ s Computer Books – Call-A.P.P.L.E.</a></li>
-<li><a href="https://www.theguardian.com/technology/2016/feb/10/programming-usborne-1980s-coding-books">Back to the future of programming: Usborne revives 1980 s coding...</a></li>
+<li><a href="https://medium.com/snowflake/demystifying-oracle-xstream-quantifying-the-impact-of-cdc-on-high-throughput-oltp-systems-2997395dda95">Demystifying Oracle XStream: Quantifying the Impact of CDC on ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TPC-C">TPC - C - Wikipedia</a></li>
+<li><a href="https://docs.oracle.com/en/database/oracle/oracle-database/23/dbiad/db_LGWR.html">Log Writer Process (LGWR) - Oracle</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论区充满了开发者们怀旧且个人化的故事，他们将这些书归功于教会了他们编程，通常是在他们拥有个人电脑之前，在图书馆或学校里。许多人将这些书描述为关键性的、基础性的影响，直接引导他们走上了软件工程的职业道路，并强调了在互联网前时代学习的挑战与回报。
-
-**标签**: `#retrocomputing`, `#education`, `#programming-history`, `#nostalgia`
+**标签**: `#Oracle`, `#Change Data Capture`, `#Snowflake`, `#Database Performance`, `#OLTP`
 
 ---
 
 <a id="item-33"></a>
-## [寅成智能完成千万美元天使轮融资，推进通用具身智能大模型研发与商业化](https://www.cyzone.cn/article/834437.html) ⭐️ 5.0/10
+## [ClickHouse 工程师详述在大规模 C++代码库中务实应用智能体编程](https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg) ⭐️ 6.0/10
 
-中国机器人公司寅成智能正式官宣完成千万美元天使轮融资，本轮融资由德同资本领投，某产业资本方跟投。融资资金将主要用于公司 2026 年量产订单的运营、新一代通用具身智能大模型的研发迭代以及在更多商业场景的规模化落地。 此次融资标志着市场对一家将自动驾驶技术思路应用于机器人领域、并聚焦高需求物流分拣场景的公司的认可。它将加速通用具身智能的发展，这是机器人领域从刚性自动化迈向自适应、智能化系统的关键前沿，有望变革劳动密集型产业。 该公司自主研发的 NECESSI 具身智能端到端大模型，在快递分拣等场景中据称抓取成功率高达 99.99%，单件作业仅需 2 秒。寅成智能已累计收获来自顺丰、京东、中国邮政等头部客户的数千万订单，即将开启商业化量产。
+一位 ClickHouse 工程师分享，2025 年 11 月发布的 Claude Opus 4.5 模型是一个转折点，使得编码智能体能够有效处理其大规模 C++代码库中的日常任务。文章概述了 AI 辅助编程的三层框架，并详细介绍了 ClickHouse 采用的具体工具和实践，例如使用搭载 Opus 4.6 的 Claude Code 命令行界面。 这篇案例研究为关于 AI 编码智能体实用价值的高度两极分化的辩论提供了一个基于经验的平衡视角，超越了炒作和怀疑。它表明，借助最新模型，智能体编程甚至可以高效应用于复杂、对性能要求苛刻的 C++系统，预示着 2026 年将迎来更广泛的采用。 该工程师将智能体编程分为三个层级：从聊天机器人复制粘贴的基础层级、在命令行/IDE 中使用智能体（ClickHouse 目前处于此层级）以及具有自动化反馈循环的高级多智能体系统。ClickHouse 使用了包括 Claude Code、Codex CLI 和 Cursor 在内的多种工具，但也提醒长期自主循环的结果仍不确定。
 
-rss · 最新资讯 - 创业邦 · 5月25日 02:25
+rss · InfoQ 推荐 · 5月25日 07:46
 
-**背景**: 具身智能（Embodied AI）指的是通过传感器和执行器感知并与物理世界交互的智能系统，例如机器人。与传统预编程的自动化不同，它强调学习、适应和泛化能力。当前，中国具身智能产业正迈入从技术验证向规模化商业化落地的关键跃迁期，物流分拣是优先落地的场景之一。德同资本（DT Capital Partners）是一家活跃于科技投资的风险投资机构。
+**背景**: 智能体编程是一种软件开发方法，自主 AI 智能体以最少的干预来规划、编写、测试和修改代码，其操作范围是项目级别而非单个文件。ClickHouse 是一个开源的列式数据库管理系统，以其在线分析处理（OLAP）的高性能而闻名，其核心使用 C++编写。Claude Code 是由 Anthropic 开发的 AI 编码智能体，能够理解代码库、编辑文件和运行命令。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2505.14235">Toward Embodied AGI: A Review of Embodied AI and the Road Ahead</a></li>
-<li><a href="https://www.iyiou.com/news/202605111129588">《2026年中国具身智能产业商业化前沿洞察》解读文章——优秀企业案例</a></li>
-<li><a href="https://cn.linkedin.com/in/ann600">Jingwen An - 德 同 资 本 DT Capital | 领英</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-agentic-coding">What is agentic coding? How it works and use cases</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Robotics`, `#Embodied AI`, `#Venture Capital`, `#Industrial Automation`
+**标签**: `#AI Coding Assistants`, `#Software Engineering`, `#Case Study`, `#C++`, `#ClickHouse`
 
 ---
 
 <a id="item-34"></a>
-## [微信读书推出 'Skills' 功能，AI 助手可接入并分析个人阅读数据](https://www.36kr.com/p/3823955653300360) ⭐️ 5.0/10
+## [天机智能完成 10 亿元融资，估值近百亿，跻身独角兽行列。](https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ) ⭐️ 6.0/10
 
-微信读书正式推出了 'Skills' 功能，提供了一个 API，允许用户将其阅读账号连接到如 WorkBuddy 等 AI 助手。通过 API 密钥连接后，AI 可以执行搜索书籍、分析阅读习惯、管理笔记以及根据用户数据进行个性化推荐等任务。 这一集成标志着通过 AI 使个人阅读数据变得可操作的重要一步，超越了简单的数据存储，实现了智能分析和个性化交互。它使阅读爱好者和知识工作者能够从其阅读历史中获得更深入的洞察，并可能引领其他内容平台提供类似的 AI 可访问 API 的趋势。 该功能需要两步设置：将 Skill 文件（一个.zip 包）部署到 AI 助手中，然后使用通过在微信读书内扫描二维码获得的个人 API 密钥进行授权。该 API 密钥充当私人访问令牌，建议用户妥善保管，不要公开分享。
+广东天机智能系统有限公司近日正式完成 10 亿元 B 轮及 B+轮融资，由高瓴创投、美团战投联合领投，腾讯等机构跟投，投后估值近百亿，成为一家独角兽企业。 本轮融资获得了顶级财务投资机构和产业巨头的共同认可，表明市场对具身智能及力控操作核心部件赛道的强烈信心。这笔资金将用于技术研发和规模化量产，有助于天机巩固其作为全球人形机器人产业链关键“肢体”供应商的地位。 天机自称是全球首家实现力控人形双臂量产交付的品牌，2025 年交付 2000 多台，2026 年第一季度在手订单已突破 10000 台，客户覆盖全球 45 家人形机器人整机厂商。其关键技术指标包括关节力控绝对精度≤0.3 N·m，力控延迟低至 5ms。
 
-rss · 36氪 - 最新资讯频道 · 5月25日 00:56
+rss · InfoQ 推荐 · 5月25日 06:31
 
-**背景**: 微信读书是中国流行的数字阅读平台。此处的 'Skills' 指的是可以添加到 AI 助手或智能体中的模块化能力，允许它们通过调用外部 API 来执行特定任务。这一概念类似于其他 AI 生态系统（如 OpenAI Codex）中的 'skills' 或 'plugins'，它们使 AI 智能体能够扩展其功能。
+**背景**: 具身智能（Embodied AI）指拥有物理实体、能够感知并与物理世界交互的智能系统。力控是机器人技术的关键一环，用于控制机器人与物体或环境之间的接触力，以实现安全、精准的操作。天机智能这类公司专注于研发力控操作本体等核心部件，为具身智能系统提供执行任务的“小脑”和“双手”。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://guoxudong.io/post/weread-skill-introduction/">微 信 读 书 Skill ：把阅 读 记录接进 AI 助手 | Guoxudong.io</a></li>
-<li><a href="https://github.com/gandli/weread-skills">GitHub - gandli/weread-skills: Official WeRead Agent Skills ...</a></li>
-<li><a href="https://pimenov.ai/knowledge/skills-openai-codex-rasshirenie-agenta/">Skills в OpenAI Codex — как расширить возможности coding-агента</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/712662612">具身智能 (Embodied AI)技术全面综述：感知、交互、规划、仿真、挑战...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Force_control">Force control - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Integration`, `#Reading Apps`, `#Product Feature`, `#API`, `#Personalization`
+**标签**: `#Robotics`, `#Embodied AI`, `#Venture Capital`, `#Industrial Automation`, `#China Tech`
 
 ---
 
 <a id="item-35"></a>
-## [评析中国学术界的“数数评价”现象](http://blog.sciencenet.cn/blog-673617-1536249.html) ⭐️ 5.0/10
+## [熵驱动一维磁性碳纤维嵌入三维气凝胶，实现宽频电磁波吸收](http://blog.sciencenet.cn/blog-3411509-1536107.html) ⭐️ 6.0/10
 
-中国地质大学（武汉）的刘庆生教授发表了一篇博客文章，批判性地分析了中国学术界评估中普遍存在的“数数评价”做法。他指出，这种做法在项目评审、人才评选中，倾向于依据成果数量（如论文篇数、项目数量）进行简单计量，而非深入评估代表性成果的质量与影响力。 这一批判之所以重要，是因为它指出了一个系统性弊端，这种弊端可能激励低水平重复研究（如“灌水”论文），浪费国家和社会资源，并助长浮躁的学术生态。这一讨论与中国乃至全球正在进行的科研评价体系改革密切相关，这些改革的核心目标正是从追求数量转向注重质量与实质影响力。 作者指出了一个矛盾现实：他在批评“数数评价”的同时，也反思了其在当前中国学术环境下存在的某种“合理性”，例如评审专家时间有限，以及申请人的标志性成果（如已发表的论文、已立项的项目）本身已经过了一定的同行评议。他引用了自己于 2012 年、2024 年和 2025 年发表的关于科学评价的相关文章。
+山东大学的研究团队通过将熵驱动的一维磁性碳纤维嵌入三维碳气凝胶骨架中，开发出一种新型三维磁性碳气凝胶。优化后的 MCA-2 气凝胶在低填料含量下实现了-54.11 dB 的最小反射损耗和 7.2 GHz 的最大有效吸收带宽。 这项工作为轻质、宽频、高性能的电磁波吸收材料提供了一种新的设计策略，对于解决现代电子和通信系统中的电磁污染与干扰问题至关重要。该材料兼具隔热和光热转换等多功能性，拓展了其在复杂环境下的应用潜力。 核心创新在于将熵工程（在尖晶石铁氧体中引入多金属阳离子以增强磁/介电损耗）与多维结构（一维纤维提供导电网络，三维气凝胶优化阻抗匹配）协同结合。该材料还表现出可压缩性、低热导率和快速光热升温能力。
 
-rss · 科学网 - 精选博文 · 5月24日 23:20
+rss · 科学网 - 精选博文 · 5月25日 08:06
 
-**背景**: 在中国学术界，科研评价对于职称晋升、获取经费以及获得各类人才“帽子”至关重要。“数数评价”指的是一种简化的计量方法，严重依赖可量化的产出，如发表论文数量、主持项目数量和获得奖励数量。这种做法常见于“大同行评审”场景中，即评审专家可能对被评项目的具体细分领域缺乏深度了解。更广泛的背景包括国家层面试图改革此类评价方式的政策，例如“破五唯”行动，旨在减少对论文、帽子、职称、学历、奖项的过度依赖。
+**背景**: 电磁波吸收材料旨在耗散电磁能量，以减轻干扰和污染。传统的粉体型吸波材料通常存在密度高、带宽窄和阻抗匹配差等问题。气凝胶是超轻、多孔的材料，具有良好的阻抗匹配特性；而一维碳纤维则可以通过设计来调节其电磁性能。熵驱动设计源自高熵材料的概念，涉及使用多种组分来增加构型熵，从而稳定结构并调控如电磁损耗等性能。
 
-**标签**: `#academic-culture`, `#research-evaluation`, `#science-policy`, `#scholarly-communication`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://link.springer.com/article/10.1007/s40820-026-02212-w">Entropy-Driven 1D Magnetic Carbon Fibers Embedded into 3D ...</a></li>
+<li><a href="https://www.nature.com/articles/s44160-024-00690-7">Synthesis of high-entropy materials - Nature</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0021979723015011">Design and synthesis of one-dimensional magnetic composites ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#materials-science`, `#nanotechnology`, `#electromagnetic-absorption`, `#aerogels`, `#composite-materials`
 
 ---
 
 <a id="item-36"></a>
-## [capcap：一款集截图、标注与图床上传于一体的免费开源 macOS 工具](https://sspai.com/post/109741) ⭐️ 5.0/10
+## [研究人员提出用于可倾转旋翼六旋翼飞行器的抗饱和自抗扰控制方法。](http://blog.sciencenet.cn/blog-3650976-1536312.html) ⭐️ 6.0/10
 
-开发者发布了一款名为 capcap 的免费开源 macOS 菜单栏应用，它通过双击 Command 键触发，集成了截图、添加标注和上传至图床的完整流程。该工具基于 MIT 协议开源，具备对象化标注、长截图、内置美化模式，并直接集成了国内主流对象存储服务作为图床。 这款工具之所以重要，是因为它通过一个新颖的交互快捷键，将多个分散的任务整合到一个流畅的工作流中，解决了 macOS 用户（尤其是内容创作者和开发者）在生产力上的一个具体痛点。其开源特性以及对隐私的关注（图床密钥本地存储），为现有商业或功能臃肿的截图应用提供了一个透明且可定制的替代选择。 关键的技术细节包括其使用纯 AppKit（而非 SwiftUI）以实现精确的原生 macOS 控制，支持可后续编辑的对象化标注，并集成了腾讯云 COS、七牛云 Kodo 和阿里云 OSS 作为图床。一个值得注意的限制是，其图床功能目前仅支持这三家特定的中国云存储服务商。
+华东交通大学付鸿宇团队提出了一种专门针对可倾转旋翼全驱动六旋翼无人机的抗饱和自抗扰控制方法，用于处理执行器饱和约束。相关研究于 2025 年 5 月发表在同行评审期刊《国际先进机器人系统杂志》上。 这项研究意义重大，因为执行器饱和（即电机达到其物理极限）是敏捷、全驱动无人机面临的关键安全与性能问题，可能导致坠毁。所提出的方法使得无人机即使在饱和约束下也能实现鲁棒的解耦位置与姿态跟踪，推动了复杂、过驱动无人机在苛刻应用中的实际部署。 该方法将抗饱和原理同时应用于控制分配和控制器，在饱和约束下求解最优执行器指令，并利用抗饱和线性自抗扰控制来补偿由饱和引发的扰动。仿真结果验证了该六旋翼无人机能够在各种幅值和速率饱和限制下实现位置与姿态的解耦跟踪。
 
-rss · 少数派  · 5月24日 06:21
+rss · 科学网 - 精选博文 · 5月25日 06:57
 
-**背景**: macOS 自带截图功能，但用户常转向第三方工具以获取更高级的功能，如标注和快速分享。图床（image hosting）指的是用于存储和提供图片在线访问的服务，通常通过 URL 链接，这对于在在线文档、博客或 Markdown 文件中嵌入图片至关重要。MIT 许可证是一种宽松的自由软件许可证，允许对软件进行重用、修改和分发，甚至可用于专有软件，限制极少。
+**背景**: 可倾转旋翼全驱动六旋翼飞行器是一种先进的无人机，其部分旋翼可以倾转，动态改变推力矢量方向，从而实现对全部六个自由度（平移和旋转）的完全控制。当电机的转速或倾转速率达到物理极限，无法提供指令所需的控制力时，就会发生执行器饱和，导致性能下降或系统失稳。自抗扰控制是一种无模型控制技术，能够实时估计并抵消系统内部动态和外部扰动，使其对复杂系统具有鲁棒性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/MIT_License">MIT License - Wikipedia</a></li>
-<li><a href="https://opensource.org/license/MIT">The MIT License – Open Source Initiative</a></li>
+<li><a href="https://www.mdpi.com/1424-8220/25/2/479">An Over-Actuated Hexacopter Tilt-Rotor UAV Prototype for ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Active_Disturbance_Rejection_Control">Active disturbance rejection control - Wikipedia</a></li>
+<li><a href="https://www.numberanalytics.com/blog/mastering-anti-windup-control">Mastering Anti-Windup Control - numberanalytics.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#macOS`, `#open-source`, `#productivity`, `#developer-tools`
+**标签**: `#Robotics`, `#Control Systems`, `#UAV`, `#ADRC`, `#Actuator Saturation`
 
 ---
 
 <a id="item-37"></a>
-## [星巴克停用 AI 库存管理系统，回归人工盘点](https://www.pingwest.com/w/313999) ⭐️ 5.0/10
+## [研究发现典型液晶单体通过干扰神经递质通路诱导斑马鱼神经毒性。](http://blog.sciencenet.cn/blog-3496796-1536310.html) ⭐️ 6.0/10
 
-据 Restaurant Dive 报道，星巴克宣布停用其上线仅九个月的人工智能库存管理系统。该公司将回归统一的人工盘点流程来管理库存。 这一全球主要零售商的回退操作，为复杂运营环境中 AI 技术落地所面临的挑战提供了一个重要的现实案例。它表明，即使是资源充足的大公司，在应用先进 AI 系统时也可能难以获得理想的投资回报或运营适配性，这促使业界重新评估技术实施策略。 简要的报道中未详细说明所使用的具体 AI 系统及其失败的确切原因，这是一个值得注意的信息缺失。在经过仅九个月的相对短暂试用期后决定回归人工流程，表明该系统未能达到运营预期或创造足够价值。
+发表在《Environmental Chemistry and Ecotoxicology》上的一项研究发现，暴露于三种典型液晶单体（tFPO-CF2-dF3B、2OdFP3bcH 和 TPrCB）会显著扰乱斑马鱼幼鱼的行为，并改变多巴胺、5-羟色胺和 GABA 等关键神经递质的水平。该研究结合行为学分析、神经递质谱分析和多组学技术，发现 LCMs 可能通过与神经递质受体结合并干扰相关代谢通路来发挥神经毒性作用。 这项研究很重要，因为液晶单体是数十亿电子设备中液晶显示面板的核心组成部分，并且已被认为是具有持久性和生物累积潜力的新兴环境污染物。这些发现揭示了一个先前未被充分研究的神经毒性风险，表明环境暴露于这些化学物质可能会扰乱水生生物的神经功能，并且由于通路保守性，可能对人类神经健康构成潜在风险。 该研究发现，LCMs 暴露改变了 28 种神经递质相关代谢物，并与多巴胺 D2 受体和 5-HT1A 受体等关键受体发生强结合。值得注意的是，多组学分析表明，暴露与神经递质代谢、线粒体功能等通路异常有关，其诱导的神经递质紊乱模式与阿尔茨海默病和精神分裂症等部分人类神经系统疾病中观察到的改变具有一定相似性。
 
-rss · 品玩 - 要闻 · 5月25日 02:17
+rss · 科学网 - 精选博文 · 5月25日 06:46
 
-**背景**: AI 库存管理软件利用预测分析和自动化来优化库存水平、减少浪费并改善决策，旨在取代人工流程和猜测。回滚计划是指在更新失败或出现运营问题后，将系统恢复到先前稳定状态的预定义程序，是企业变更管理的关键组成部分。人工库存盘点，如全面盘点或循环盘点，涉及团队通过计划好的流程来核实现有库存的数量和状况。
+**背景**: 液晶单体是用于电视、智能手机和电脑的液晶显示器的核心化学成分。由于其持久性、生物累积潜力和毒性，它们日益被认为是环境污染物，研究表明它们可以在环境中长期存留。斑马鱼是神经毒理学研究的经典模式生物，因为其神经发育和功能通路与人类高度保守，使其能有效评估环境污染物的神经毒性潜力。多组学分析整合了来自不同分子层面（如转录组学、代谢组学）的数据，以提供对毒理学机制的系统层面理解。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.softr.io/blog/best-ai-inventory-management-software">8 best AI inventory management software in 2026</a></li>
-<li><a href="https://datacalculus.com/en/blog/it-systems-operations-and-maintenance/devops-engineer/rollback-strategies-a-devops-guide-for-it-ops">Rollback Strategies: A DevOps Guide for IT Ops</a></li>
-<li><a href="https://hbkcpa.com/insights/a-guide-to-conducting-physical-inventory-counts/">A Guide to Conducting Physical Inventory Counts - HBK</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12339604/">Liquid Crystal Monomers (LCMs) of Emerging Concern - PMC - NIH</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s00204-020-02656-y">Prospects and challenges of multi-omics data integration in ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Adoption`, `#Inventory Management`, `#Enterprise Technology`, `#Operational Rollback`
+**标签**: `#Environmental Toxicology`, `#Neurotoxicity`, `#Zebrafish Model`, `#Multi-omics`, `#Pollutants`
 
 ---
 
 <a id="item-38"></a>
-## [牛津报告：个人要为老年健康状况承担至少八成责任](https://www.solidot.org/story?sid=84382) ⭐️ 5.0/10
+## [综述文章阐述高熵陶瓷从范式形成到有序发展的转变。](http://blog.sciencenet.cn/blog-3534092-1536277.html) ⭐️ 6.0/10
 
-牛津长寿项目发布了一份名为《Living Longer, Better》的报告，认为个人至少要为老年时期的健康状况承担八成责任。这一结论基于多项研究，其中一项使用了近 50 万英国生物银行参与者的数据，发现环境暴露和习惯对过早死亡和生物衰老的影响远大于遗传因素。 这份报告之所以重要，是因为它将长寿和健康老龄化的焦点从遗传和医疗系统转向了个人的生活方式选择，可能激励人们采取积极行动。它可能通过强调饮食、睡眠等可改变因素的预防作用来影响公共卫生宣传和政策，但也引发了关于是否过度简化了复杂社会经济健康决定因素的辩论。 报告提出了具体的生活方式建议，包括避免食用加工食品、完全戒酒、保证充足睡眠、晚上 6 点半以后不要进食，并培养所谓的“非肉食心态”。批评者则认为报告的结论过于简化，指出个人选择受贫困、污染和医保可及性等因素限制，掌控力有限。
+一篇发表在《先进陶瓷》期刊上的综述文章，系统总结了过去十年高熵陶瓷的研究，主张该领域应从追求最大构型熵，转向面向应用、精细化调控的“恰到好处的无序”工程化发展。文章提出了面向具体应用场景的理性设计范式，以及结合热力学计算、先进表征与机器学习的定量化研究路径。 这篇综述为这个快速扩张但略显混乱的领域提供了一个关键的路线图，旨在推动高熵陶瓷从探索性发现阶段转向系统化、性能驱动的发展阶段。这一转变对于将这些材料在极端环境、能源存储和催化等领域所展现的优异性能转化为可靠的实际应用至关重要。 文章指出，熵与焓并非简单的竞争关系，而是需要在不同尺度上协同发挥作用。它特别指出了该领域从最初的“等摩尔五元固溶体”概念爆炸式扩张后所面临的挑战，包括缺乏统一的筛选原则、性能机制模糊以及数据可比性差。
 
-rss · 奇客Solidot–传递最新科技情报 · 5月24日 11:11
+rss · 科学网 - 精选博文 · 5月25日 02:22
 
-**背景**: 牛津长寿项目是一个专注于延长人类健康寿命的研究与教育倡议。英国生物银行是一个大型生物医学数据库，包含 50 万英国参与者的遗传、生活方式和健康信息，被广泛用于研究疾病和衰老。关于衰老是“生活方式主导还是遗传主导”的争论由来已久，这份报告强烈主张可改变因素的主导作用。
-
-**标签**: `#health`, `#longevity`, `#lifestyle`, `#research`, `#public_health`
-
----
-
-<a id="item-39"></a>
-## [美商海盗船 Vengeance DDR5 内存据称采用中国长鑫存储 DRAM 芯片。](https://unwire.hk/2026/05/24/corsair-ddr5-cxmt-chinese-dram-chip-leak/parts/?utm_source=rss&utm_medium=rss&utm_campaign=corsair-ddr5-cxmt-chinese-dram-chip-leak) ⭐️ 5.0/10
-
-有消息泄露，美商海盗船（Corsair）的 Vengeance DDR5-6000 内存模组（型号为 CMK5X16G3E60C36A2-CN）可能采用了中国长鑫存储（CXMT）生产的 DRAM 芯片。这将是 Corsair 等国际主流品牌首次被报道采用 CXMT 芯片，但 Corsair 尚未对此配置进行官方确认。 这一进展意义重大，因为它预示着全球 DRAM 供应链可能发生转变，以长鑫存储为代表的中国制造商正获得市场认可，可能为目前由韩美供应商主导的市场提供替代来源。若消息属实，此举可能有助于缓解内存供应短缺，加剧市场竞争，最终影响消费者面临的价格和产品供应。 该具体模组是一个 16GB 套件，运行速度为 6000 MT/s，时序为 36-44-44-96，电压 1.35V。关键点在于，此信息基于未经证实的泄露，采用 CXMT 芯片的 Corsair 模组在性能、可靠性和长期供货稳定性方面仍有待观察。
-
-rss · 香港 unwire.hk 玩生活．樂科技 · 5月24日 13:00
-
-**背景**: DDR5 是最新一代双倍数据速率同步动态随机存取存储器（SDRAM），相比 DDR4，它能提供更高频率、更大容量和更优的能效。长鑫存储（CXMT）是中国主要的半导体制造商，专注于 DRAM 生产，旨在进入传统上由三星、SK 海力士和美光主导的全球市场竞争。DRAM 市场长期面临周期性的供应紧张，新的、有竞争力的供应商进入，能够影响全球供应格局。
+**背景**: 高熵陶瓷是一类先进材料，通常包含四种或更多近等摩尔比例的主元阳离子或阴离子，其单相结构由高构型熵稳定。这一概念从高熵合金延伸而来，由于严重的晶格畸变和“鸡尾酒效应”，使得这类材料具有优异的热稳定性和机械强度等独特性能。它们正在被探索用于热障涂层、核废料固化、储能电介质等应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.trendforce.com/news/2025/01/16/news-chinese-memory-makers-led-by-cxmt-advance-in-the-dram-market-challenging-samsung-sk-hynix-and-micron/">[News] Chinese Memory Makers, Led by CXMT, Advance in the ...</a></li>
-<li><a href="https://videocardz.com/newz/corsair-vengeance-ddr5-module-spotted-with-chinese-cxmt-memory">Corsair Vengeance DDR5 module spotted with Chinese CXMT memory</a></li>
+<li><a href="https://www.nature.com/articles/s41578-019-0170-8">High-entropy ceramics - Nature Reviews Materials</a></li>
+<li><a href="https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta05698j">Review of high entropy ceramics: design, synthesis, structure ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0272884225053842">High-entropy ceramics: From disorder to emerging ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#memory`, `#supply-chain`, `#semiconductors`, `#DDR5`
+**标签**: `#Materials Science`, `#Advanced Ceramics`, `#High-Entropy Materials`, `#Academic Publishing`
+
+---
+
+<a id="item-39"></a>
+## [施普林格·自然发布关于学术出版偏见认知的全球调研报告。](http://blog.sciencenet.cn/blog-3432244-1536273.html) ⭐️ 6.0/10
+
+施普林格·自然发布了一份名为《学术出版生态中的公平与偏见认知：全球调研》的报告，该报告分析了全球 8000 多名研究人员关于出版偏见经历与看法的反馈。出版商还概述了其应对这些认知偏见、促进公平的策略。 这很重要，因为对偏见的普遍认知（例如与研究人员所在国家、机构或专业人脉相关的偏见）会破坏对出版系统的信任，并影响研究人员选择在何处以及如何发表其成果。解决这些问题对于维护全球科学交流的公正性与包容性至关重要。 调研发现，91% 的受访者认为学术出版中存在偏见，84% 的人表示亲身经历过偏见。常见的偏见形式包括国籍（62%）、机构隶属关系（56%）和专业人脉（55%），具体的经历包括稿件被拒后却有相似论文发表（42%）以及审稿人更关注语言而非研究实质（25%）。
+
+rss · 科学网 - 精选博文 · 5月25日 02:15
+
+**背景**: 学术出版是传播科学研究的主要渠道，通常涉及同行评审，即由专家评估稿件的质量、有效性和重要性。然而，这一过程并非不受主观偏见影响，这些偏见可能源于研究者的地理位置、机构声望或领域内的人脉关系等因素。像施普林格·自然这样的大型出版商在塑造这些出版规范和实践方面扮演着核心角色。
+
+**标签**: `#academic-publishing`, `#research-culture`, `#science-communication`, `#peer-review`
+
+---
+
+<a id="item-40"></a>
+## [分析：AI 驱动的存储超级周期，利润正从 HBM 回归传统 DRAM](https://opinion.caixin.com/2026-05-25/102447282.html) ⭐️ 5.0/10
+
+一篇分析文章指出，由 AI 驱动的存储超级周期正在引发战略转变，利润重心正从备受瞩目的 HBM（高带宽内存）回归到传统 DRAM。文章提到，SK 海力士在 2025 年的利润领先地位正受到挑战，这表明内存市场的利润中心正在重新平衡。 这一转变至关重要，因为它凸显了 AI 硬件供应链的动态本质，并表明过度依赖 HBM 等单一尖端技术存在风险。对于中国国内存储产业而言，这强调了在 DRAM、NAND 和利基存储器领域进行多元化布局的战略重要性，以构建一个具有韧性且互补的供应链，而非陷入内卷。 分析指出，虽然用于 GPU 等 AI 加速器的 HBM 一直是叙事焦点，但传统 DRAM 的价格仍受制于移动设备、个人电脑和汽车电子的周期性需求。文章警告称，中国国内产业在 HBM 领域与国际领先企业相比仍存在显著的技术代差。
+
+rss · 财新网 - 首页 · 5月25日 14:26
+
+**背景**: 高带宽内存（HBM）是一种专为高速数据传输设计的 3D 堆叠 DRAM，对于满足 GPU 和加速器中数据密集型 AI 工作负载的需求至关重要。DRAM（动态随机存取存储器）是一种易失性存储器，用于设备中的临时数据存储；而 NAND 闪存是一种非易失性存储器，用于持久存储（例如固态硬盘）。'AI 驱动的存储超级周期'指的是由 AI 数据中心和基础设施投资主要推动的对存储芯片的持续高需求时期，这种需求对传统的价格周期较不敏感。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://answermind.blog/dram-vs-nand-unraveling-key-differences-tech-performance-impact">DRAM vs. NAND: Unraveling Key Differences & Tech Performance ...</a></li>
+<li><a href="https://www.techflowpost.com/en-US/article/29051">Morgan Stanley: The AI-driven storage "super cycle" has ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#memory`, `#AI-hardware`, `#industry-analysis`, `#supply-chain`
+
+---
+
+<a id="item-41"></a>
+## [零售与制造业领导者正从 AI 试点转向运营级 Agentic AI 系统](https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC) ⭐️ 5.0/10
+
+在 Accelerate 2026 大会上，行业领导者展示了正在实时改变商业模式的生产级、Agentic AI 工作流，其中 58%的零售企业正在积极部署 AI。Shalion 和 WolfSpeed 等公司正在实施对话式 AI 层和图神经网络解决方案，以实现即时根因分析和决策。 这一转变标志着 AI 正从理论试点演变为核心运营必需品，从根本上改变了零售和制造业等行业的运营方式。它解决了技术劳动力短缺和对实时商业智能需求等关键挑战，可能通过自主的、数据驱动的工作流重新定义竞争格局。 零售商正专注于答案引擎优化（AEO）和生成引擎优化（GEO），以取代传统的 SEO，从而在购物智能体面前获得可见性。在制造业中，像 GraphSage 这样的图神经网络正被用于将整个供应链建模为相互连接的图，将根因分析从数天缩短到数分钟。
+
+rss · InfoQ 推荐 · 5月25日 06:53
+
+**背景**: Agentic AI（代理式 AI）指的是一种专注于自主决策和行动的高级人工智能形式，它超越了生成式 AI，能够像人类一样行动和决策。根据 Snowflake 的《2026 年数据趋势报告》，行业正进入一个“Agentic AI”时代，其标志是跨业务功能运作的 AI 智能体生态系统。这一转变是由处理消费者自然语言交互、以及将来自 IT 和运营技术（OT）系统的数据统一到受治理的语义层的需求所驱动的。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">Agentic AI, explained - MIT Sloan</a></li>
+<li><a href="https://www.snowflake.com/2026-trends-predictions/">2026 Trends & Predictions - Snowflake</a></li>
+<li><a href="https://snowflake.help/key-ai-data-trends-shaping-2026-insights-from-snowflake-accelerate-events-across-industries/">Key AI Data Trends Shaping 2026: Insights from Snowflake ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Agents`, `#Retail Technology`, `#Manufacturing`, `#Business Operations`, `#Industry Trends`
+
+---
+
+<a id="item-42"></a>
+## [苹果为全球无障碍宣传日推出纪录片并举办 Today at Apple 活动，聚焦辅助功能。](https://sspai.com/post/110144) ⭐️ 5.0/10
+
+在 5 月 21 日的全球无障碍宣传日（GAAD），苹果公司推出了一部名为《有爱 无碍》的纪录片，并在其静安零售店举办了一场 Today at Apple 课程。活动邀请了该片导演以及影片主人公家庭，展示了他们如何利用 iPhone 的音乐触感反馈功能，帮助健听的儿子与失聪的母亲进行交流。 这项举措突显了大型科技公司将无障碍设计融入核心产品的趋势，其意义超越了简单的合规要求，旨在创造有意义、以人为本的体验。它提升了公众对数字包容性的认识，并展示了音乐触感反馈、实时字幕等功能对残障人士产生的切实影响。 这部纪录片全程使用 iPhone 拍摄，以减轻非专业演员的压力。文中重点介绍的无障碍功能包括：音乐触感反馈（将音乐节奏转化为触觉振动）、实时字幕（实时转录对话）、实时语音（在通话中将输入文本转为语音）以及声音识别（识别门铃等特定声音并发出通知）。
+
+rss · 少数派  · 5月25日 08:02
+
+**背景**: 全球无障碍宣传日（GAAD）定于每年五月的第三个星期四，旨在提高人们对数字无障碍和包容性的关注，特别是针对残障人士。数字无障碍的核心原则通常被概括为 POUR（可感知、可操作、可理解、健壮），这些原则指导着创建人人可用的技术。'Today at Apple' 是苹果在全球零售店举办的免费实践创意课程项目。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Global_Accessibility_Awareness_Day">Global Accessibility Awareness Day - Wikipedia</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles | Web Accessibility Initiative (WAI ... What is Digital Accessibility? | Digital Accessibility Digital Accessibility Fundamentals - JMU A Guide to WCAG | Web Accessibility Guidelines Overview Digital Accessibility Basics: The POUR Principles Guidance on Web Accessibility and the ADA</a></li>
+<li><a href="https://www.apple.com/today/">Today at Apple - Apple</a></li>
+
+</ul>
+</details>
+
+**标签**: `#accessibility`, `#apple`, `#human-computer-interaction`, `#inclusive-design`
 
 ---
