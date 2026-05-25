@@ -1,4 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
@@ -9,7 +9,6 @@ markdown: kramdown
 future: true # Allow future posts to be published
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 feed:
   path: feed.xml
 exclude:
