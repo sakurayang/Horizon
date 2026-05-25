@@ -1,4 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "kitian616/jekyll-TeXt-theme@9f19980"
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
