@@ -305,6 +305,14 @@ Horizon can publish or deliver the generated briefing in several ways:
 
 For setup details, see the [Configuration Guide](docs/configuration.md). For MCP tool references and client setup, see [`src/mcp/README.md`](src/mcp/README.md) and [`src/mcp/integration.md`](src/mcp/integration.md).
 
+## Supported By
+
+Horizon is an open-source project maintained in spare time. If you'd like to support the project or be listed here, feel free to [open an issue](https://github.com/Thysrael/Horizon/issues/new) or [email me](mailto:thysrael@163.com).
+
+| Supporter | Details |
+|-----------|---------|
+| [<img src="docs/assets/compshare-logo.png" alt="Compshare / 优云智算" width="220" />](https://www.compshare.cn/?ytag=GPU_YY_git_Horizon) | Compshare currently supports Horizon. Compshare is UCloud's AI cloud platform, offering cost-effective monthly and pay-as-you-go domestic model agent plans starting from RMB 49/month, as well as stable officially relayed overseas models. It supports Claude Code, Codex, and API usage, with enterprise-grade high concurrency, 24/7 technical support, and self-service invoicing.<br><br>Register through their [link](https://www.compshare.cn/?ytag=GPU_YY_git_Horizon) to receive a free RMB 5 trial credit. |
+
 ## Documentation
 
 | Guide | Description |
@@ -332,21 +340,6 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for code, docu
 ### Share Sources
 
 Want to share valuable source discoveries with the Horizon community? Please submit them through **[horizon1123.top](https://horizon1123.top)**.
-
-## Sponsor
-
-Horizon is an open-source, self-hosted project maintained in spare time. If Horizon helps you build a better personal news radar, run a team briefing, or test your AI platform with real workflows, sponsorship is welcome.
-
-Want to appear here? Please [open an issue](https://github.com/Thysrael/Horizon/issues/new) and mention that you are interested in sponsoring Horizon.
-
-Sponsors can get visibility in the project, such as:
-
-- A sponsor mention in the README
-- A dedicated showcase entry on the project site or demo page
-
-| Sponsor | Details |
-|---------|---------|
-| [<img src="docs/assets/compshare-logo.png" alt="Compshare / 优云智算" width="220" />](https://www.compshare.cn/?ytag=GPU_YY_git_Horizon) | Thanks to Compshare for sponsoring this project. Compshare is UCloud's AI cloud platform, offering cost-effective monthly and pay-as-you-go domestic model agent plans starting from RMB 49/month, as well as stable officially relayed overseas models. It supports Claude Code, Codex, and API usage, with enterprise-grade high concurrency, 24/7 technical support, and self-service invoicing.<br><br>Register through the sponsor [link](https://www.compshare.cn/?ytag=GPU_YY_git_Horizon) to receive a free RMB 5 trial credit. |
 
 ## Acknowledgements
 
