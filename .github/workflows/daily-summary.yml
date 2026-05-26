@@ -31,8 +31,8 @@ jobs:
           npm install fx -g
           fx data/config.json '{...x,sources:${{ secrets.SOURCES }} }' 'save' &> /dev/null
 
-      - name: Prepare GitHub Actions config
-        run: cp data/config.github.json data/config.json
+      # - name: Prepare GitHub Actions config
+      #   run: cp data/config.github.json data/config.json
 
       - name: Run Horizon
         env:
