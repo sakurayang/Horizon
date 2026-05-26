@@ -1,20 +1,21 @@
-remote_theme: "bitbrain/jekyll-dash"
+remote_theme: "feeshy/less-style-please"
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
 url: "https://bkwhentai.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
+markdown: redcarpe
 future: true # Allow future posts to be published
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 feed:
   path: feed.xml
 exclude:
   - ".github"
   - "node_modules"
-
+chinese_webfonts: true
 defaults:
   - scope:
       path: ""
