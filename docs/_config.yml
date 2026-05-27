@@ -1,4 +1,4 @@
-remote_theme: "amitmerchant1990/reverie"
+remote_theme: "TMaize/tmaize-blog"
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
