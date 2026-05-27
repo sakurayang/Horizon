@@ -18,7 +18,12 @@ exclude:
 chinese_webfonts: true
 defaults:
   - scope:
-      path: ""
+      path: "posts"
       type: "posts"
     values:
-      layout: "default"
+      layout: "mypost"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
