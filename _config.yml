@@ -1,4 +1,4 @@
-remote_theme: "TMaize/tmaize-blog"
+remote_theme: "SteveZMTstudios/jekyll-mdui-theme"
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
@@ -7,6 +7,8 @@ url: "https://bkwhentai.top" # the base hostname & protocol for your site, e.g. 
 # Build settings
 markdown: kramdown
 future: true # Allow future posts to be published
+show_downloads: true
+theme_color: "#0a385c"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -18,12 +20,7 @@ exclude:
 chinese_webfonts: true
 defaults:
   - scope:
-      path: "posts"
+      path: ""
       type: "posts"
     values:
-      layout: "mypost"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+      layout: "default"
