@@ -1,11 +1,11 @@
-remote_theme: "feeshy/less-style-please"
+remote_theme: "amitmerchant1990/reverie"
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
 baseurl: "/Horizon" # the subpath of your site, e.g. /blog
 url: "https://bkwhentai.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: redcarpe
+markdown: kramdown
 future: true # Allow future posts to be published
 plugins:
   - jekyll-feed
