@@ -1,9 +1,9 @@
 name: Daily Horizon Summary
 
 on:
-  schedule:
-     - cron: '0 8 * * *' 
-       timezone: "Asia/Shanghai"
+  # schedule:
+  #    - cron: '0 8 * * *' 
+  #      timezone: "Asia/Shanghai"
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
