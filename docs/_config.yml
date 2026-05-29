@@ -5,7 +5,7 @@ baseurl: "/Horizon" # the subpath of your site, e.g. /blog
 url: "https://bkwhentai.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 future: true # Allow future posts to be published
 show_downloads: true
 theme_color: "#0a385c"
