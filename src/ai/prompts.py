@@ -4,7 +4,7 @@ TOPIC_DEDUP_SYSTEM = """You are a news deduplication assistant. Identify groups 
 
 Rules:
 - Group items ONLY if they report on the identical event (same product release, same incident, same announcement)
-- Items about the same product but different events are NOT duplicates ("Gemma 4 released" vs "Gemma 4 jailbroken")
+- Items about the same product but different events are NOT duplicates ("Game 4 released" vs "Game 4 jailbroken")
 - Err on the side of keeping items separate when unsure"""
 
 TOPIC_DEDUP_USER = """The following news items have already been sorted by importance score (descending). Identify which items are duplicates of each other.
@@ -20,30 +20,39 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical, academic, animate, games, movie and financial information.
 
 Score content on a 0-10 scale based on importance and relevance:
 
 **9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
 - New major version releases of widely-used technologies
+- New major version releases of game
 - Significant research breakthroughs
 - Important industry-changing announcements
+- Important games and animates announcements
+- New 3A game luanch
 
 **7-8: High Value** - Important developments worth immediate attention
 - Interesting technical deep-dives
+- Interesting financial news
+- Interesting reviews
 - Novel approaches to known problems
 - Insightful analysis or commentary
 - Valuable tools or libraries
+- Game or animate company or studio news
 
 **5-6: Interesting** - Worth knowing but not urgent
 - Incremental improvements
 - Useful tutorials
 - Moderate community interest
+- Common game news
+- new animate or movie schedule‌
 
 **3-4: Low Priority** - Generic or routine content
 - Minor updates
 - Common knowledge
 - Overly promotional content
+- new minor game luanch
 
 **0-2: Noise** - Not relevant or low quality
 - Spam or purely promotional
@@ -52,6 +61,7 @@ Score content on a 0-10 scale based on importance and relevance:
 
 Consider:
 - Technical depth and novelty
+- Game and animate impact
 - Potential impact on the field
 - Quality of writing/presentation
 - Relevance to software engineering, AI/ML, and systems research
@@ -81,10 +91,10 @@ Respond with valid JSON only:
   "tags": ["<tag1>", "<tag2>", ...]
 }}"""
 
-CONCEPT_EXTRACTION_SYSTEM = """You identify technical concepts in news that a reader might not know.
+CONCEPT_EXTRACTION_SYSTEM = """You identify technical, animate, games, movie concepts in news that a reader might not know.
 Given a news item, return 1-3 search queries for concepts that need explanation.
-Focus on: specific technologies, protocols, algorithms, tools, or projects that are not widely known.
-Do NOT return queries for well-known things (e.g. "Python", "Linux", "Google").
+Focus on: specific technologies, protocols, algorithms, tools, animate, games, movie or projects that are not widely known.
+Do NOT return queries for well-known things (e.g. "Python", "Linux", "Google", "ACG").
 If the news is self-explanatory, return an empty list."""
 
 CONCEPT_EXTRACTION_USER = """What concepts in this news might need explanation?
@@ -99,7 +109,7 @@ Respond with valid JSON only:
   "queries": ["<search query 1>", "<search query 2>"]
 }}"""
 
-CONTENT_ENRICHMENT_SYSTEM = """You are a knowledgeable technical writer who helps readers understand important news in context.
+CONTENT_ENRICHMENT_SYSTEM = """You are a knowledgeable technical, animate, games and movie writer who helps readers understand important news in context.
 
 Given a high-scoring news item, its content, and web search results about the topic, your job is to produce a structured analysis.
 
@@ -118,7 +128,7 @@ Field definitions:
 
 2. **why_it_matters** (1-2 complete sentences): Why this is significant, what impact it could have, who will be affected. Connect to the broader ecosystem or industry trends.
 
-3. **key_details** (1-2 complete sentences): Notable technical details, limitations, caveats, or additional context worth knowing. Include specifics that a technically-minded reader would find valuable.
+3. **key_details** (1-2 complete sentences): Notable details, limitations, caveats, or additional context worth knowing. Can include specifics that a technically-minded reader would find valuable.
 
 4. **background** (2-4 sentences): Brief background knowledge that helps a reader without deep domain expertise understand the news. Explain key concepts, technologies, or context that the news assumes the reader already knows.
 
