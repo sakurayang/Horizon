@@ -53,10 +53,52 @@ class AIProvider(str, Enum):
     OLLAMA = "ollama"
 
 
+# Default models and API key env vars for each provider
+AI_PROVIDER_DEFAULTS = {
+    AIProvider.ANTHROPIC: {
+        "model": "claude-3-5-sonnet-20241022",
+        "api_key_env": "ANTHROPIC_API_KEY",
+    },
+    AIProvider.OPENAI: {
+        "model": "gpt-4",
+        "api_key_env": "OPENAI_API_KEY",
+    },
+    AIProvider.AZURE: {
+        "model": "gpt-4",
+        "api_key_env": "AZURE_OPENAI_API_KEY",
+    },
+    AIProvider.ALI: {
+        "model": "qwen-plus",
+        "api_key_env": "DASHSCOPE_API_KEY",
+    },
+    AIProvider.GEMINI: {
+        "model": "gemini-1.5-flash",
+        "api_key_env": "GOOGLE_API_KEY",
+    },
+    AIProvider.DOUBAO: {
+        "model": "doubao-pro-32k",
+        "api_key_env": "DOUBAO_API_KEY",
+    },
+    AIProvider.MINIMAX: {
+        "model": "MiniMax-Text-01",
+        "api_key_env": "MINIMAX_API_KEY",
+    },
+    AIProvider.DEEPSEEK: {
+        "model": "deepseek-chat",
+        "api_key_env": "DEEPSEEK_API_KEY",
+    },
+    AIProvider.OLLAMA: {
+        "model": "llama3.1",
+        "api_key_env": "",
+    },
+}
+
+
 class AIConfig(BaseModel):
     """AI client configuration."""
 
     provider: AIProvider
+    provider_chain: Optional[str] = None
     model: str
     base_url: Optional[str] = None
     api_key_env: str
@@ -145,17 +187,27 @@ class TelegramConfig(BaseModel):
 
 
 class TwitterConfig(BaseModel):
-    """Twitter source configuration via Apify."""
+    """Twitter source configuration.
+
+    Two modes are supported:
+    - "apify": Use Apify scweet actor (requires APIFY_TOKEN, more reliable)
+    - "playwright": Use Playwright + browser cookies (free, no token needed)
+    """
 
     enabled: bool = True
-    apify_token_env: str = "APIFY_TOKEN"
-    actor_id: str = "altimis~scweet"
+    mode: str = "apify"  # "apify" or "playwright"
     users: List[str] = Field(default_factory=list)
     fetch_limit: int = 10
     fetch_reply_text: bool = False
     max_replies_per_tweet: int = 3
     max_tweets_to_expand: int = 10
     reply_min_likes: int = 0
+    # Apify settings (used when mode == "apify")
+    apify_token_env: str = "APIFY_TOKEN"
+    actor_id: str = "altimis~scweet"
+    # Playwright settings (used when mode == "playwright")
+    cookie_dir: str = "data"
+    cookie_file_pattern: str = "x_cookies_*.json"
 
 
 class OpenBBWatchlist(BaseModel):
@@ -309,11 +361,23 @@ class EmailConfig(BaseModel):
     enabled: bool = False
 
 
+class CategoryGroupConfig(BaseModel):
+    """A quota group containing one or more source categories."""
+
+    name: Optional[str] = None
+    limit: int = Field(gt=0)
+    categories: List[str] = Field(min_length=1)
+
+
 class FilteringConfig(BaseModel):
     """Content filtering configuration."""
 
     ai_score_threshold: float = 7.0
     time_window_hours: int = 24
+    max_items: Optional[int] = Field(default=None, gt=0)
+    category_groups: Dict[str, CategoryGroupConfig] = Field(default_factory=dict)
+    default_group: str = "other"
+    default_group_limit: Optional[int] = Field(default=None, gt=0)
 
 
 class Config(BaseModel):
