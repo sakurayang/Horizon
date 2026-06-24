@@ -7,10 +7,192 @@
     "throttle_sec":0,
     "languages": ["zh"]
   },
-  "sources": {},
+  "sources": {
+    "rss": [
+      {
+        "enabled": true,
+        "name": "机核",
+        "url": "https://www.gcores.com/rss",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "games陀螺",
+        "url": "https://www.youxituoluo.com/feed",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "游研社",
+        "url": "https://www.yystv.cn/rss/feed",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "巴哈姆特 GNN 新聞網",
+        "url": "https://gnn.gamer.com.tw/rss.xml",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "3DM - news中心",
+        "url": "${RSSBASE}/3dmgame/news?key=${RSSKEY}",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "CnGal - 每周速报",
+        "url": "${RSSBASE}/cngal/weekly?key=${RSSKEY}",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "东方财富网-券商晨报",
+        "url": "${RSSBASE}/eastmoney/report/brokerreport?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "前瞻经济学人 - 周排行",
+        "url": "${RSSBASE}/qianzhan/analyst/rank/week?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "东方财富网-宏观研究",
+        "url": "${RSSBASE}/eastmoney/report/macresearch?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "东方财富网-行业研报",
+        "url": "${RSSBASE}/eastmoney/report/industry?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "最新资讯 - 创业邦",
+        "url": "${RSSBASE}/cyzone?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "《财新周刊》-财新网",
+        "url": "${RSSBASE}/caixin/weekly?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "财新网 - 首页",
+        "url": "${RSSBASE}/caixin/article?key=${RSSKEY}",
+        "categories": "finance"
+      },
+      {
+        "enabled": true,
+        "name": "36氪 - 最新资讯频道",
+        "url": "${RSSBASE}/36kr/hot-list/24?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "InfoQ 推荐",
+        "url": "${RSSBASE}/infoq/recommend?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "品玩 - 不客观实验室",
+        "url": "${RSSBASE}/pingwest/tag/不客观实验室/1/fulltext?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "科学网 - 精选博文",
+        "url": "${RSSBASE}/sciencenet/blog/recommend/1/1?key=${RSSKEY}",
+        "categories": "other"
+      },
+      {
+        "enabled": true,
+        "name": "少数派 ",
+        "url": "${RSSBASE}/sspai/index?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "品玩 - 要闻",
+        "url": "${RSSBASE}/pingwest/status?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "奇客Solidot–传递最新科技情报",
+        "url": "http://feeds.feedburner.com/solidot",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "数字尾巴",
+        "url": "https://www.dgtle.com/rss/dgtle.xml",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/feed",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "综合报道 | 极客公园",
+        "url": "${RSSBASE}/geekpark/179?key=${RSSKEY}",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "電腦玩物",
+        "url": "http://feeds.feedburner.com/playpc",
+        "categories": "tech"
+      },
+      {
+        "enabled": true,
+        "name": "香港 unwire.hk 玩生活．樂科技",
+        "url": "http://feeds2.feedburner.com/unwirelife",
+        "categories": "news"
+      },
+      {
+        "enabled": true,
+        "name": "NGA-游戏业界新闻",
+        "url": "${RSSBASE}/nga/forum/510505?key=${RSSKEY}",
+        "categories": "game"
+      },
+      {
+        "enabled": true,
+        "name": "NGA-动画/漫画专楼合集",
+        "url": "${RSSBASE}/nga/forum/18763697?key=${RSSKEY}",
+        "categories": "ani"
+      }
+    ],
+    "hackernews": { "enabled": true, "fetch_top_stories": 5, "min_score": 100 }
+  },
   "filtering": {
     "ai_score_threshold": 5.0,
-    "time_window_hours": 24
+    "max_items": 60,
+    "category_groups": {
+      "finance": {
+        "limit": 8,
+        "categories": ["finance"]
+      },
+      "tech": {
+        "limit": 10,
+        "categories": ["tech"]
+      },
+      "acg": {
+        "limit": 15,
+        "categories": ["game","ani"]
+      }
+    },
+    "default_group": "other",
+    "default_group_limit": 20
   },
   "email": {
     "enabled": true,
