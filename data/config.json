@@ -176,7 +176,7 @@
   },
   "filtering": {
     "ai_score_threshold": 5.0,
-    "max_items": 60,
+    "max_items": 40,
     "category_groups": {
       "finance": {
         "limit": 8,
@@ -192,7 +192,7 @@
       }
     },
     "default_group": "other",
-    "default_group_limit": 20
+    "default_group_limit": 5
   },
   "email": {
     "enabled": true,
