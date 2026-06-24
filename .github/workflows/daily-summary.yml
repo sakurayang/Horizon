@@ -27,10 +27,10 @@ jobs:
       - name: Install dependencies
         run: uv sync
         
-      - name: conifg sources
-        run: |
-          npm install fx -g
-          fx data/config.json '{...x,sources:${{ secrets.SOURCES }} }' 'save' &> /dev/null
+      # - name: conifg sources
+      #   run: |
+      #     npm install fx -g
+      #     fx data/config.json '{...x,sources:${{ secrets.SOURCES }} }' 'save' &> /dev/null
 
       # - name: Prepare GitHub Actions config
       #   run: cp data/config.github.json data/config.json
@@ -42,6 +42,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           HORIZON_WEBHOOK_URL: ${{ secrets.HORIZON_WEBHOOK_URL }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RSSBASE: ${{secrets.RSSBASE}}
+          RSSKEY: ${{secrets.RSSKEY}}
         run: uv run horizon --hours 24
 
       - name: Set current date as environment variable
