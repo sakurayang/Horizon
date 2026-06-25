@@ -180,14 +180,14 @@
     "category_groups": {
       "finance": {
         "limit": 8,
-        "categories": ["finance"]
+        "categories": ["finance","news"]
       },
       "tech": {
         "limit": 10,
         "categories": ["tech"]
       },
       "acg": {
-        "limit": 15,
+        "limit": 20,
         "categories": ["game","ani"]
       }
     },
