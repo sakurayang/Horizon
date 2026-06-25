@@ -24,6 +24,30 @@ def _make_config(fetch_comments: int = 1) -> RedditConfig:
     )
 
 
+def _make_two_subreddit_config(fetch_comments: int = 0) -> RedditConfig:
+    return RedditConfig(
+        enabled=True,
+        subreddits=[
+            RedditSubredditConfig(
+                subreddit="LocalLLaMA",
+                enabled=True,
+                sort="hot",
+                fetch_limit=1,
+                min_score=1,
+            ),
+            RedditSubredditConfig(
+                subreddit="MachineLearning",
+                enabled=True,
+                sort="hot",
+                fetch_limit=1,
+                min_score=1,
+            ),
+        ],
+        users=[],
+        fetch_comments=fetch_comments,
+    )
+
+
 def _listing_payload() -> dict:
     now = datetime.now(timezone.utc)
     return {
@@ -59,6 +83,21 @@ def _old_listing_html() -> str:
          data-score="42" data-timestamp="{timestamp_ms}"
          data-permalink="/r/LocalLLaMA/comments/old123/test_post/">
       <a class="title" href="/r/LocalLLaMA/comments/old123/test_post/">Old HTML post</a>
+      <a class="comments">7 comments</a>
+      <div class="expando"><div class="usertext-body"><div class="md">old body</div></div></div>
+    </div>
+    """
+
+
+def _old_listing_html_for(subreddit: str, post_id: str) -> str:
+    timestamp_ms = int(datetime.now(timezone.utc).timestamp() * 1000)
+    return f"""
+    <!doctype html>
+    <div class="thing link self" data-fullname="t3_{post_id}"
+         data-subreddit="{subreddit}" data-author="old_author"
+         data-score="42" data-timestamp="{timestamp_ms}"
+         data-permalink="/r/{subreddit}/comments/{post_id}/test_post/">
+      <a class="title" href="/r/{subreddit}/comments/{post_id}/test_post/">{subreddit} post</a>
       <a class="comments">7 comments</a>
       <div class="expando"><div class="usertext-body"><div class="md">old body</div></div></div>
     </div>
@@ -219,3 +258,34 @@ def test_reddit_comments_use_old_reddit_first():
     content = items[0].content or ""
     assert "[alice (10 pts)]: first old comment" in content
     assert "[bob (2 pts)]: second old comment" in content
+
+
+def test_reddit_subreddits_are_fetched_sequentially():
+    requests = []
+    local_done = asyncio.Event()
+
+    async def handler(request: httpx.Request) -> httpx.Response:
+        requests.append(request.url.path)
+        if "/r/LocalLLaMA/" in request.url.path:
+            await asyncio.sleep(0)
+            local_done.set()
+            return httpx.Response(200, text=_old_listing_html_for("LocalLLaMA", "local123"))
+        if "/r/MachineLearning/" in request.url.path:
+            assert local_done.is_set()
+            return httpx.Response(
+                200, text=_old_listing_html_for("MachineLearning", "ml123")
+            )
+        raise AssertionError(f"unexpected url: {request.url}")
+
+    transport = httpx.MockTransport(handler)
+    client = httpx.AsyncClient(transport=transport)
+    scraper = RedditScraper(_make_two_subreddit_config(fetch_comments=0), client)
+
+    items = asyncio.run(scraper.fetch(datetime.now(timezone.utc) - timedelta(hours=1)))
+    asyncio.run(client.aclose())
+
+    assert requests == ["/r/LocalLLaMA/hot/", "/r/MachineLearning/hot/"]
+    assert [item.metadata["subreddit"] for item in items] == [
+        "LocalLLaMA",
+        "MachineLearning",
+    ]

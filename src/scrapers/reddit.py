@@ -55,24 +55,21 @@ class RedditScraper(BaseScraper):
         if not self.config.get("enabled", True):
             return []
 
-        tasks = []
+        items = []
         for sub_cfg in self.reddit_config.subreddits:
             if sub_cfg.enabled:
-                tasks.append(self._fetch_subreddit(sub_cfg, since))
+                try:
+                    items.extend(await self._fetch_subreddit(sub_cfg, since))
+                except Exception as e:
+                    logger.warning("Error fetching Reddit source: %s", e)
+
         for user_cfg in self.reddit_config.users:
             if user_cfg.enabled:
-                tasks.append(self._fetch_user(user_cfg, since))
+                try:
+                    items.extend(await self._fetch_user(user_cfg, since))
+                except Exception as e:
+                    logger.warning("Error fetching Reddit source: %s", e)
 
-        if not tasks:
-            return []
-
-        results = await asyncio.gather(*tasks, return_exceptions=True)
-        items = []
-        for result in results:
-            if isinstance(result, Exception):
-                logger.warning("Error fetching Reddit source: %s", result)
-            elif isinstance(result, list):
-                items.extend(result)
         return items
 
     async def _fetch_subreddit(
