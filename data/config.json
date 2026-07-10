@@ -176,26 +176,26 @@
   },
   "filtering": {
     "ai_score_threshold": 5.0,
-    "max_items": 40,
+    "max_items": 50,
     "category_groups": {
       "finance": {
         "limit": 8,
         "categories": ["finance","news"]
       },
       "tech": {
-        "limit": 10,
+        "limit": 13,
         "categories": ["tech"]
       },
       "acg": {
-        "limit": 20,
+        "limit": 22,
         "categories": ["game","ani"]
       }
     },
     "default_group": "other",
-    "default_group_limit": 5
+    "default_group_limit": 7
   },
   "email": {
-    "enabled": true,
+    "enabled": false,
     "smtp_server": "smtp.resend.com",
     "smtp_port": 456,
     "smtp_username": "resend",
