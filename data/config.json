@@ -220,7 +220,8 @@
       "kind": "#{message_kind}",
       "date": "#{timestamp}",
       "summaary": "#{summary?limit=2000&split=---}",
-      "url": "#{item_url}"
+      "url": "#{item_url}",
+      "total": "#{item_count}"
     },
     "headers": ""
   }
