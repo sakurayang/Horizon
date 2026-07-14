@@ -10,7 +10,7 @@ from google import genai
 from google.genai import types
 
 
-from ..models import AIConfig, AIProvider
+from ..models import AIConfig, AIProvider, AI_PROVIDER_DEFAULTS
 from rich import print as rich_print
 from .tokens import record_usage
 
@@ -174,15 +174,6 @@ class AnthropicClient(AIClient):
 class OpenAIClient(AIClient):
     """Client for OpenAI-compatible APIs."""
 
-    # Default base URLs per provider
-    _DEFAULT_BASE_URLS = {
-        "ali": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-        "deepseek": "https://api.deepseek.com",
-        "doubao": "https://ark.cn-beijing.volces.com/api/v3",
-        "minimax": "https://api.minimax.io/v1",
-        "ollama": "http://localhost:11434/v1",
-    }
-
     _BASE_URL_ENVS = {
         "ollama": (
             "HORIZON_OLLAMA_BASE_URL",
@@ -239,7 +230,7 @@ class OpenAIClient(AIClient):
                 if base_url:
                     break
         if not base_url:
-            base_url = cls._DEFAULT_BASE_URLS.get(config.provider.value, "")
+            base_url = AI_PROVIDER_DEFAULTS.get(config.provider, {}).get("base_url") or ""
 
         if config.provider == AIProvider.OLLAMA and base_url:
             return _normalize_ollama_base_url(base_url)
@@ -633,9 +624,8 @@ class ChainedAIClient(AIClient):
 
 def _create_chained_client(config: AIConfig) -> ChainedAIClient:
     """Build a ChainedAIClient from a comma-separated provider chain."""
-    from ..models import AI_PROVIDER_DEFAULTS
-
-    provider_names = [p.strip() for p in config.provider_chain.split(",") if p.strip()]
+    provider_chain = config.provider_chain or ""
+    provider_names = [p.strip() for p in provider_chain.split(",") if p.strip()]
     if not provider_names:
         raise ValueError("provider_chain is empty")
 
@@ -647,14 +637,28 @@ def _create_chained_client(config: AIConfig) -> ChainedAIClient:
             raise ValueError(f"Unsupported AI provider in chain: {name}")
 
         defaults = AI_PROVIDER_DEFAULTS.get(provider, {})
+        base_url = config.base_url if provider == config.provider else defaults.get("base_url")
         cfg = AIConfig(
             provider=provider,
             model=defaults.get("model", config.model),
             api_key_env=defaults.get("api_key_env", config.api_key_env),
-            base_url=config.base_url,
+            base_url=base_url,
             temperature=config.temperature,
             max_tokens=config.max_tokens,
+            throttle_sec=config.throttle_sec,
+            analysis_concurrency=config.analysis_concurrency,
+            enrichment_concurrency=config.enrichment_concurrency,
             languages=config.languages,
+            azure_endpoint_env=(
+                config.azure_endpoint_env or defaults.get("azure_endpoint_env")
+                if provider == AIProvider.AZURE
+                else None
+            ),
+            api_version=(
+                config.api_version or defaults.get("api_version")
+                if provider == AIProvider.AZURE
+                else None
+            ),
         )
         chain_configs.append(cfg)
 
