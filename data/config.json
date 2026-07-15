@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-    "model": "deepseek-ai/DeepSeek-V4-Pro",
+    "model": "deepseek-ai/DeepSeek-V3.2",
     "api_key_env": "OPENAI_API_KEY",
     "base_url":"https://api.siliconflow.cn/v1",
     "throttle_sec":0,
