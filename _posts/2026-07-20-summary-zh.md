@@ -389,7 +389,7 @@ rss · 财新网 - 首页 · 7月19日 23:19
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://weekly.caixin.com/2026-07-19/102465887.html">{{最新周刊导播｜中欧经贸博弈时刻、TRS暗门 收 紧、霍尔木兹重构油运</a></li>
+<li><a href="https://weekly.caixin.com/2026-07-19/102465887.html">最新周刊导播｜中欧经贸博弈时刻、TRS暗门 收 紧、霍尔木兹重构油运</a></li>
 <li><a href="https://tubex.chat/zh/article/article-1776762093418-6efcef">美伊谈判破裂与 霍 尔 木 兹 危 机 ：地缘风险推高油价 - TubeX.Chat AI</a></li>
 
 </ul>
