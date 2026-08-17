@@ -5,779 +5,1023 @@ date: 2026-08-17
 lang: zh
 ---
 
-> 从 91 条内容中筛选出 36 条重要资讯。
+> 从 147 条内容中筛选出 46 条重要资讯。
 
 ---
 
-1. [国产 3A 大作《归唐》登上 EDGE 杂志封面，主创详解叙事与写实战斗设计](#item-1) ⭐️ 8.0/10
-2. [IPO 在即，OpenAI 遭遇重大人事震荡](#item-2) ⭐️ 8.0/10
-3. [美国据报要求 35 国在美国主导的 Pax Silica 与中国 AI 框架之间二选一](#item-3) ⭐️ 8.0/10
-4. [索尼在 SIGGRAPH 2026 上发布 PS5 Pro 及第二代 PSSR 升频技术。](#item-4) ⭐️ 8.0/10
-5. [野村哲也向粉丝保证《王国之心 4》不会跳票，确认 2027 年底发售。](#item-5) ⭐️ 7.0/10
-6. [《蜘蛛侠：崭新之日》上映三周，全球票房突破 20 亿美元](#item-6) ⭐️ 7.0/10
-7. [中国发行商 4Divinity 将在 2026 科隆游戏展展出六款新作](#item-7) ⭐️ 7.0/10
-8. [东吴证券报告提出 QATC 框架，优化 AI 投研效率](#item-8) ⭐️ 7.0/10
-9. [科技巨头发布新 Agent 模型与硬件，加速端侧 AI 落地](#item-9) ⭐️ 7.0/10
-10. [中国保险业转向分红险，重塑险资配置逻辑与资本市场](#item-10) ⭐️ 7.0/10
-11. [投资人爆料 Anthropic CEO 曾称公司可能成为全球唯一私营企业，引发激烈辩论](#item-11) ⭐️ 7.0/10
-12. [太子集团“二号”被捕、宇树高市盈率 IPO、SHEIN 估值缩水](#item-12) ⭐️ 7.0/10
-13. [财新周刊调查儿科医生韩杰因漏诊致死被判刑一案](#item-13) ⭐️ 7.0/10
-14. [汇丰科技将在 AICon 深圳分享 AI Coding 智能体在金融科技全研发流程的企业级落地实践](#item-14) ⭐️ 7.0/10
-15. [Spotify 推出 Random Access Parquet \(RAP\)，实现数据湖低延迟点查询](#item-15) ⭐️ 7.0/10
-16. [欧洲创纪录热浪致 2.5 万人死亡，扰乱供应链并暴露二战军舰。](#item-16) ⭐️ 7.0/10
-17. [嵌入式工程师为 RISC-V 在发展中世界的成本与定制化优势辩护](#item-17) ⭐️ 6.0/10
-18. [Anthropic 发布 Claude 官方系统提示词文档，引发关于其长度和实用性的讨论。](#item-18) ⭐️ 6.0/10
-19. [漫威在 D23 公布新版《X 战警》演员阵容及 2028 年上映日期](#item-19) ⭐️ 6.0/10
-20. [失眠组表示《漫威金刚狼》的激烈网络批评正在损害开发者心理健康](#item-20) ⭐️ 6.0/10
-21. [甄子丹亲手为《影之刃零》优化护婴打戏](#item-21) ⭐️ 6.0/10
-22. [《火焰纹章：万缕千丝》发布新实机视频，展示画面与玩法提升，定档 2026 年 9 月。](#item-22) ⭐️ 6.0/10
-23. [冒险新作《湖之仆从》Steam 好评率高达 98%](#item-23) ⭐️ 6.0/10
-24. [张雪机车获红杉中国 15 亿元投资，估值飙升至 600 亿元](#item-24) ⭐️ 6.0/10
-25. [研究揭示 1860 年奴隶制盛行程度与美国当前县级的黑人-白人死亡率差异相关](#item-25) ⭐️ 6.0/10
-26. [作者用 161 个新闻源训练 AI 主编识别重大新闻，并附上教程](#item-26) ⭐️ 6.0/10
-27. [中国战队全部缺席《Dota2》TI15 八强，创下历史最差成绩](#item-27) ⭐️ 5.0/10
-28. [播客专访科技频道「热男 HotGuys」：拆解创作过程与长期愿景](#item-28) ⭐️ 5.0/10
-29. [SP.11 2026 暑期档中场点兵：爆款与撤档并存](#item-29) ⭐️ 5.0/10
-30. [心理恐怖游戏《别眨眼》追加主机版本，计划 2026 年第三季度发售](#item-30) ⭐️ 5.0/10
-31. [《湮灭之潮》发布 40 分钟最高画质实机演示，展示剧情与战斗](#item-31) ⭐️ 5.0/10
-32. [国产大作《湮灭之潮》女主角新形象曝光，引发粉丝争议](#item-32) ⭐️ 5.0/10
-33. [武侠 RPG《大侠立志传：侠道相逢》延期至 12 月，官方致歉并优化内容](#item-33) ⭐️ 5.0/10
-34. [国产 ARPG《古剑》公布新概念图，展示高自由度战斗系统](#item-34) ⭐️ 5.0/10
-35. [Anthropic 发布六大实用技巧，帮助开发者降低 Claude 的 token 使用量和成本](#item-35) ⭐️ 5.0/10
-36. [纵向研究发现贫困人群比富裕人群更早出现身体老化迹象。](#item-36) ⭐️ 5.0/10
+1. [世界动作模型 Dyna-2 发布，任务成功率 90%并揭示新缩放定律](#item-1) ⭐️ 9.0/10
+2. [Stripe 敲定逾 70 亿美元收购 AI 网关初创公司 OpenRouter](#item-2) ⭐️ 9.0/10
+3. [英伟达拟投资 30 亿美元支持 SB Energy，为 OpenAI 俄亥俄州数据中心项目提供资金。](#item-3) ⭐️ 9.0/10
+4. [SpaceX 以 600 亿美元天价完成对 AI 编程助手 Cursor 的收购。](#item-4) ⭐️ 9.0/10
+5. [开源工具可移除 Claude、谷歌和 OpenAI 模型的 AI 文本水印。](#item-5) ⭐️ 8.0/10
+6. [苹果据称正与阿里巴巴合作开发中国特供 AI 模型，用于本地化 Apple Intelligence](#item-6) ⭐️ 8.0/10
+7. [GLM-5.3 正式发布，编程能力提升 50%，满分通过 GPT-5.6 设计的测试](#item-7) ⭐️ 8.0/10
+8. [美国拟施压 35 国在美中 AI 治理联盟间二选一，否则或被排除](#item-8) ⭐️ 8.0/10
+9. [Qwen 3.8 27B 模型性能出色，但默认存在过度思考倾向](#item-9) ⭐️ 7.0/10
+10. [深度报告剖析 IRS 免费报税系统 Direct File 的兴衰始末](#item-10) ⭐️ 7.0/10
+11. [特立尼达嵌入式工程师为 RISC-V 的可及性与低成本优势发声](#item-11) ⭐️ 7.0/10
+12. [阿里巴巴将《三战》开发商灵犀互娱控股权出售给信宸资本](#item-12) ⭐️ 7.0/10
+13. [国产 3A 动作游戏《湮灭之潮》预览与主创访谈，展现雄心勃勃的设计](#item-13) ⭐️ 7.0/10
+14. [迪士尼 D23 大会公布《超人特攻队 3》、《可可夜总会 2》及新《X 战警》项目计划。](#item-14) ⭐️ 7.0/10
+15. [《王国之心 4》确认米奇、唐老鸭、高飞全员可操控](#item-15) ⭐️ 7.0/10
+16. [动画制作成本飙升，角川一季度动画业务亏损 66 亿日元](#item-16) ⭐️ 7.0/10
+17. [AI 数据中心与电网改造双轮驱动，全球电力设备巨头业绩订单高增长](#item-17) ⭐️ 7.0/10
+18. [2026 年二季度中国保险业资金运用：固收压仓，权益略升，科技长投](#item-18) ⭐️ 7.0/10
+19. [AI 制药驱动生命科学上游公司股价上涨](#item-19) ⭐️ 7.0/10
+20. [大厂校招狂卷 AI，应届生面临更激烈的竞争与专业门槛](#item-20) ⭐️ 7.0/10
+21. [Anthropic 拟以 2 万亿美元估值创纪录上市，旺旺集团面临经营危机，Sorry 勒索病毒国内传播](#item-21) ⭐️ 7.0/10
+22. [IPO 在即，OpenAI 遭遇重大人事震荡](#item-22) ⭐️ 7.0/10
+23. [甲骨文公布企业 AI 战略：智能体嵌入数据库、GPU 跑满、多云免流量费](#item-23) ⭐️ 7.0/10
+24. [Dropbox 集成 MCP 与 Dash，将安全设计与代码审查连接起来](#item-24) ⭐️ 7.0/10
+25. [Netflix 详述其集成 Triton 与 vLLM 的内部 LLM 服务平台](#item-25) ⭐️ 7.0/10
+26. [AI 周报：英伟达披露 SpaceX 持仓，中国推出 Token 贷，AI 大厂 90 小时工作制成常态](#item-26) ⭐️ 7.0/10
+27. [《昭和米国物语》将在科隆游戏展揭晓新预告并提供试玩](#item-27) ⭐️ 6.0/10
+28. [IGN 公布《湮灭之潮》最新实机演示](#item-28) ⭐️ 6.0/10
+29. [中世纪奇幻大战略游戏《大征服》正式公布](#item-29) ⭐️ 6.0/10
+30. [《战地风云 6》x《捍卫战士》联动视频曝光，展示&\#x27;公鸡&\#x27;和&\#x27;鲍勃&\#x27;真人演员配音画面](#item-30) ⭐️ 6.0/10
+31. [Bethesda 揭秘如何将虚幻引擎 5 驱动的《上古卷轴 4：湮灭重制版》装入单张 Switch 2 卡带](#item-31) ⭐️ 6.0/10
+32. [IGN 预览《火焰纹章：万缕千丝》，聚焦全新叙事结构与战斗系统](#item-32) ⭐️ 6.0/10
+33. [皮克斯在 D23 正式公布《寻梦环游记 2》，首曝剧照并定档 2029 年 11 月。](#item-33) ⭐️ 6.0/10
+34. [卡普空发布《鬼武者：剑之道》沉浸式 ASMR 预告片](#item-34) ⭐️ 6.0/10
+35. [张雪机车获红杉中国 15 亿元投资，估值飙升至 600 亿元](#item-35) ⭐️ 6.0/10
+36. [华为将在 AICon 详解盘古模型在昇腾 950 上的通信优化实践](#item-36) ⭐️ 6.0/10
+37. [欧洲创纪录热浪导致 2.5 万人死亡并引发严重河流干涸。](#item-37) ⭐️ 6.0/10
+38. [动作 RPG《黎明行者之血》在 Steam 开启预购，国区售价 298 元起](#item-38) ⭐️ 5.0/10
+39. [中国战队全部缺席《Dota 2》TI15 八强，创下历史最差战绩](#item-39) ⭐️ 5.0/10
+40. [动画《末世孤雄》改编 RTS 新作《末世孤雄 通往乐園的道路》Steam 页面公开。](#item-40) ⭐️ 5.0/10
+41. [英特尔锐炫 Pro B70 专业显卡价格在全球市场暴涨 26%至 48%](#item-41) ⭐️ 5.0/10
+42. [知名导演因与 J.K.罗琳理念不合，公开拒绝 HBO《哈利·波特》剧集邀约](#item-42) ⭐️ 5.0/10
+43. [索尼重金打造焦虑主题小熊吉祥物&\#x27;Nemu&\#x27;，意图对标 Hello Kitty](#item-43) ⭐️ 5.0/10
+44. [PC Partner 警告：2026 年下半年入门级显卡供应将更加恶化。](#item-44) ⭐️ 5.0/10
+45. [独立开发者回忆 Steam 早期邀请制、项目被拒与严格的美术管控。](#item-45) ⭐️ 5.0/10
+46. [刘思慕公布《热血无赖》电影新进展：导演与制片公司已定，版权谈判进行中](#item-46) ⭐️ 5.0/10
 
 ---
 
 <a id="item-1"></a>
-## [国产 3A 大作《归唐》登上 EDGE 杂志封面，主创详解叙事与写实战斗设计](https://www.3dmgame.com/news/202608/3950711.html) ⭐️ 8.0/10
+## [世界动作模型 Dyna-2 发布，任务成功率 90%并揭示新缩放定律](https://pdf.dfcfw.com/pdf/H3_AP202608171828042737_1.pdf?1786966647000.pdf) ⭐️ 9.0/10
 
-即将推出的国产 3A 动作游戏《归唐》登上了英国 EDGE 杂志第 427 期的封面，杂志为其安排了长达 13 页的深度专题，并对游戏执行制作人、创意总监顾星演进行了专访。主创团队详细介绍了游戏摒弃生硬固定过场的“动态电影化叙事”系统，以及容错率极低、强调见招拆招的写实肉搏战斗。 登上 EDGE 封面意味着这款国产 3A 游戏项目获得了重要的国际业界认可，凸显了其通过叙事和玩法在动作冒险类型中进行创新的雄心。这标志着全球市场对来自中国、致力于将独特历史背景与现代设计理念相结合的高规格游戏兴趣日益增长。 游戏背景设定在安史之乱后的河西沙州，讲述一对平民父子冒死传递密信的故事。游戏将登陆 PC、PS5 和 Xbox Series X\|S 平台，但具体发售日期尚未公布。开发团队强调在还原敦煌戈壁和西域古城风貌时，人物与场景都达到了极高的细节精度。
+机器人初创公司 Dyna Robotics 正式发布了新一代世界-动作模型 Dyna-2，该模型在 100 万小时人类视频数据上进行了预训练，在机器人任务中实现了 90%的成功率。其融合“下一帧预测”与“下一动作预测”的架构，验证了三条全新的缩放定律，首次证实了人类数据到机器人性能的迁移缩放定律。 这标志着机器人训练范式的重大转变，有望大幅减少对昂贵且稀缺的机器人遥操作数据的依赖。被证实的缩放定律表明，单纯扩大人类视频数据的规模就能系统性提升机器人性能，这可能加速各种平台上通用、高性能机器人的开发和部署。 Dyna-2 仅需数小时的平台特定数据即可完成适配，已在固定机械臂、人形机器人原型和五指灵巧手上进行测试，例如仅用 13 分钟机器人数据就完成了拧开瓶盖的任务。与基于视觉-语言-动作（VLA）架构的上一代 DYNA-1 相比，DYNA-2 在零样本客户部署中的质量通过率从 46%提升至 87%。
 
-rss · 3DM - news中心 · 8月16日 22:29
+rss · 东方财富网-行业研报 · 8月16日 16:00
 
-**背景**: EDGE 是一本享有盛誉的英国电子游戏杂志，以其深入的行业报道、注重设计的特点和高标准的编辑水平而闻名，登上其封面是一项显著的成就。“动态电影化叙事”指的是将剧情推进更无缝地融入游戏玩法和环境互动的叙事技术，旨在摆脱传统的、非交互式的过场动画。AAA 游戏中的写实战斗系统通常追求高风险感和真实性，有时会利用动作捕捉等技术来实现流畅可信的角色动画。
+**背景**: 世界-动作模型（WAM）是一种结合了世界建模（预测物理世界如何演化）和机器人控制动作生成的 AI 模型。传统的机器人训练通常严重依赖从机器人自身收集的遥操作数据，这些数据成本高昂且规模有限。缩放定律描述了模型性能与训练数据规模等因素之间的可预测关系，这在大型语言模型的发展中至关重要，但此前在人类到机器人的知识迁移领域尚未得到证实。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Edge_%28magazine%29">Edge (magazine) - Wikipedia</a></li>
-<li><a href="https://valasys.com/creating-dynamic-cutscenes-with-seedance-2-0/">How Seedance 2.0 AI Creates Dynamic Game Cutscenes Faster</a></li>
-<li><a href="https://www.mimicgaming.com/post/why-game-mocap-is-essential-for-aaa-characters-and-combat-systems">Game Mocap for AAA Characters &amp; Combat Systems | MimicGaming</a></li>
+<li><a href="https://www.dyna.co/dyna-2">Dyna-2: A 1-Million-Hour Scaling Law for World-Action Models — DYNA</a></li>
+<li><a href="https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/">Pretrained to Imagine, Fine-Tuned to Act: The Rise of World ...</a></li>
+<li><a href="https://medium.com/@myschang/human-embodiment-data-has-a-scaling-law-the-gpt-moment-for-physical-ai-b3314b27ecd1">Human Embodiment Data Has a Scaling Law — The GPT... | Medium</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Game Development`, `#AAA Games`, `#Narrative Design`, `#Combat Mechanics`, `#Chinese Games`
+**标签**: `#Robotics`, `#Embodied AI`, `#World Models`, `#Machine Learning`, `#Scaling Laws`
 
 ---
 
 <a id="item-2"></a>
-## [IPO 在即，OpenAI 遭遇重大人事震荡](https://www.36kr.com/p/3941902971993225) ⭐️ 8.0/10
+## [Stripe 敲定逾 70 亿美元收购 AI 网关初创公司 OpenRouter](https://www.pingwest.com/w/316495) ⭐️ 9.0/10
 
-OpenAI 创始工程师 Scott Gray 已离职，此外，在八月中旬的三天内，公司前首席运营官 Brad Lightcap 和首席营收官 Denise Dresser 也相继宣布离任。这是更广泛趋势的一部分，2026 年前八个月至少有 12 位高管离开了 OpenAI。 这波离职潮，尤其是创始期技术骨干和关键业务高管的离开，标志着 OpenAI 在为重大 IPO 做准备之际，正在进行重大的内部重组和潜在的战略转向。这引发了对其稳定性、公司文化以及从研究实验室向商业化实体转型的质疑，尤其是在竞争激烈的人工智能市场中。 Scott Gray 是以 GPU 优化工作闻名的关键技术人物，他的离职紧随 Sora 负责人 Bill Peebles 等其他知名人物的离开。公司已任命 Dali Rajic 为新任首席营收官，据报道正在进行多次重组以精简运营，并专注于 ChatGPT 和企业销售等核心产品。
+据 TechCrunch 报道，支付巨头 Stripe 已敲定收购 AI 网关初创公司 OpenRouter 的交易，价格超过 70 亿美元。此前《华尔街日报》曾披露双方正在进行洽谈。 这笔收购是一次范式转变，标志着 Stripe 在 AI 基础设施领域最大、最重要的一次进军。这可能使 Stripe 能够将 AI 模型访问和成本管理深度集成到其金融服务平台中，从而可能重塑开发者构建和支付 AI 应用的方式。 Stripe 在回应 TechCrunch 询问时表示，不对传闻或猜测发表评论。据报道，这笔超过 70 亿美元的交易金额，将远超 Stripe 此前在 2025 年初以 11 亿美元收购加密平台 Bridge Network 的纪录。
 
-rss · 36氪 - 最新资讯频道 · 8月16日 07:53
+rss · 品玩 - 要闻 · 8月17日 03:10
 
-**背景**: OpenAI 是一家领先的人工智能研究和部署公司，以创建 ChatGPT 和 GPT 模型而闻名。IPO（首次公开募股）是指一家私人公司首次向公众发行股票，这一过程通常涉及重大的内部准备和审查。该公司一直在经历从最初的非营利研究实验室向更具商业驱动结构的转型，这一转变包括了先前的领导层动荡，例如 2023 年底首席执行官 Sam Altman 被短暂罢免。
+**背景**: OpenRouter 是一家 AI 网关服务商，它提供了一个统一的 API 来访问来自不同供应商的多种大语言模型（LLM），简化了集成流程并提供了团队支出管理工具。Stripe 是一家面向企业的全球领先金融基础设施平台，以其在线支付处理 API 而闻名。历史上，Stripe 在收购方面一直非常审慎，其在 2025 年之前的两笔主要交易是 Paystack（用于拓展非洲市场）和 Bridge Network（用于加密领域）。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://scholar.google.com/citations?user=sRId4vsAAAAJ&amp;hl=en">Scott Gray</a></li>
-<li><a href="https://www.crunchbase.com/person/scott-gray-4">Scott Gray - Member of Technical Staff @ OpenAI - Crunchbase Person Profile</a></li>
+<li><a href="https://openrouter.ai/">OpenRouter</a></li>
+<li><a href="https://www.cnbc.com/2024/10/23/stripes-1point1-billion-deal-for-bridge-marks-much-needed-win-for-vc.html">Stripe&#x27;s $1.1 billion deal for Bridge marks much-needed win ...</a></li>
+<li><a href="https://www.nyongesasande.com/stripe-acquisitions-ma-strategy-explained/">Stripe Acquisitions: M&amp;A Strategy Explained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#IPO`, `#Personnel`, `#AI Industry`, `#Corporate News`
+**标签**: `#AI`, `#Acquisition`, `#Fintech`, `#Startups`, `#Infrastructure`
 
 ---
 
 <a id="item-3"></a>
-## [美国据报要求 35 国在美国主导的 Pax Silica 与中国 AI 框架之间二选一](https://unwire.hk/2026/08/16/us-china-ai-pick-sides-pax-silica/ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=us-china-ai-pick-sides-pax-silica) ⭐️ 8.0/10
+## [英伟达拟投资 30 亿美元支持 SB Energy，为 OpenAI 俄亥俄州数据中心项目提供资金。](https://www.pingwest.com/w/316479) ⭐️ 9.0/10
 
-一份未注明日期的美国国务院内部信件草案显示，美国准备要求签署了《AI 机遇声明》的 35 个国家，在美国主导的 Pax Silica AI 框架与中国主导的竞争性倡议之间做出选择。草案警告称，同时参与中方倡议的国家可能被排除在美方 AI 联盟之外，哈萨克斯坦是目前唯一已知同时加入两方阵营的国家。 此举标志着全球 AI 治理和技术标准可能出现地缘政治上的分裂，迫使各国在美国或中国的技术影响圈中选边站队。这可能会割裂 AI 发展、供应链和监管方面的国际合作，影响全球技术格局和经济联盟。 该信件草案特别将哈萨克斯坦的双重参与作为焦点。Pax Silica 框架已扩展到约 24 个参与实体，它连接了美国《芯片法案》和欧盟《芯片法案》等倡议，侧重于可信合作伙伴对 AI 技术栈的获取和投资安全。
+据报道，英伟达正与可再生能源公司 SB Energy 进行磋商，计划投资约 30 亿美元，这笔资金将用于支持 OpenAI 在俄亥俄州的大型数据中心项目。 这笔来自关键 AI 硬件领导者的战略投资，直接支持了下一代人工智能所需的大规模基础设施，可能加速 OpenAI 的能力发展，并巩固 AI 进步、能源供应和资本密集型数据中心建设之间的联系。 更广泛的 OpenAI 俄亥俄州项目是一个规划中的 10 吉瓦数据中心园区，可能跻身全球最大之列；根据其他报告，项目总成本估计要高得多，可能高达 5000 亿美元。
 
-rss · 香港 unwire.hk 玩生活．樂科技 · 8月16日 14:00
+rss · 品玩 - 要闻 · 8月17日 01:32
 
-**背景**: Pax Silica 是一个由美国主导的国际 AI 合作框架，旨在培育支持增长和创新的监管方式。35 个国家在华盛顿举行的第二次 Pax Silica 峰会上签署了《AI 机遇声明》，表示支持这一愿景。这一事态发展发生在美国与中国在半导体和 AI 等关键技术领域战略竞争日益加剧的背景下。
+**背景**: SB Energy 是一家成立于 2011 年的可再生能源领域的独立发电商。OpenAI 在俄亥俄州规划的数据中心代表着一项大规模的基础设施工程，AI 发展正日益受到庞大电力和资本获取能力的制约，这促使前工业用地转变为高耗能的科技中心。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cryptobriefing.com/italy-joins-pax-silica-ai-initiative/">Italy joins US-led Pax Silica AI initiative amid Trump tensions</a></li>
-<li><a href="https://nagalandpost.com/35-nations-including-india-sign-statement-on-ai-opportunity/">35 nations, including India, sign statement on AI opportunity</a></li>
+<li><a href="https://tracxn.com/d/companies/sb-energy/__pO-in6MenETgmj5BX81gQ5P_mK5wMZaH-WD9nSC1iy8">SB Energy - 2026 Company Profile &amp; Competitors - Tracxn</a></li>
+<li><a href="https://constructionreviewonline.com/openai-ohio-data-center-planned-10gw-ai-campus-could-rank-among-worlds-largest/">OpenAI Ohio Data Center: Planned 10GW AI Campus Could Rank Among World ...</a></li>
+<li><a href="https://cybernews.com/ai-news/openai-biggest-data-center-ohio-nvidia/">OpenAI eyes giant Ohio AI data centre with Nvidia | Cybernews</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Policy`, `#Geopolitics`, `#International Relations`, `#Technology Standards`
+**标签**: `#Nvidia`, `#OpenAI`, `#Artificial Intelligence`, `#Data Centers`, `#Investment`
 
 ---
 
 <a id="item-4"></a>
-## [索尼在 SIGGRAPH 2026 上发布 PS5 Pro 及第二代 PSSR 升频技术。](https://unwire.hk/2026/08/16/ps5-pro-pssr2-upgrade/game-channel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ps5-pro-pssr2-upgrade) ⭐️ 8.0/10
+## [SpaceX 以 600 亿美元天价完成对 AI 编程助手 Cursor 的收购。](https://unwire.hk/2026/08/17/spacex-officially-acquired-ai-coding-cursor/software/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=spacex-officially-acquired-ai-coding-cursor) ⭐️ 9.0/10
 
-索尼互动娱乐在 SIGGRAPH 2026 大会上正式公布了 PS5 Pro 游戏机及其第二代 PlayStation Spectral Super Resolution \(PSSR 2\) AI 升频技术。新一代 PSSR 2 专注于从低分辨率实现比前代更稳定、画质更高的图像升频。 此次发布是一次重要的中期硬件更新，有望推动主机游戏的视觉保真度和性能向前发展。改进的 PSSR 2 技术对于在要求苛刻的游戏中实现更高帧率和更好画质至关重要，可能为主机领域的升频技术树立新标准。 SIGGRAPH 上披露的技术细节表明，PSSR 2 优先考虑图像纯净度和锐度，而非帧生成功能。该技术专为配合 PS5 Pro 的增强硬件而设计，以发挥其最佳效果。
+SpaceX 已正式完成对 AI 编程助手初创公司 Cursor 的收购，据报道交易金额高达 600 亿美元。此次收购是在双方于今年 4 月宣布达成合作开发协议并获得收购选择权后进行的，并在 SpaceX 完成上市后得以确认。 此次收购是航天领域规模最大的技术交易之一，标志着 SpaceX 在内部软件开发和人工智能能力上的重大战略扩张。此举有望大幅加速 SpaceX 关键系统的开发进程，并使其直接掌控一个强大的 AI 编程工具及其底层 GPU 资源。 收购过程包括完成相关监管程序，这笔交易使 SpaceX 获得了 Cursor 先进的 AI 集成开发环境及其庞大的 GPU 集群。Cursor 基于 VS Code 构建，支持 Claude 4.x、Gemini 2.5、GPT-4o 和 o1 等前沿 AI 模型来处理复杂的编码任务。
 
-rss · 香港 unwire.hk 玩生活．樂科技 · 8月16日 04:16
+rss · 香港 unwire.hk 玩生活．樂科技 · 8月17日 03:00
 
-**背景**: PlayStation Spectral Super Resolution \(PSSR\) 是索尼专有的 AI 驱动升频技术，其概念类似于英伟达的 DLSS 或 AMD 的 FSR，该技术以较低的内部分辨率渲染游戏，然后使用 AI 将图像升频至更高的输出分辨率，从而在保持画质的同时提升性能。SIGGRAPH 是计算机图形学和交互技术领域的顶级年度会议，各大公司常在此展示前沿研究和产品。
+**背景**: Cursor 是一款基于微软开源 VS Code 平台构建的 AI 驱动代码编辑器，旨在通过理解代码库、生成代码以及利用先进的大语言模型进行多文件编辑来辅助开发者。SpaceX 由埃隆·马斯克创立，主要以其航空航天制造和太空运输服务闻名，但近年来一直在加大对 AI 和软件的投资，以支持其星舰、星链等雄心勃勃的项目。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.digitalfoundry.net/news/2026/08/sony-engineer-reveals-pssr-2-0-secrets-in-siggraph-2026-talk">Sony Engineer Reveals PSSR 2 .0 Secrets in... | Digital Foundry</a></li>
-<li><a href="https://www.mixvale.com.br/2026/01/26/pssr-2-do-ps5-pro-foca-em-pureza-visual-e-abandona-geracao-de-quadros-em-novos-detalhes-tecnicos/">PSSR 2 do PS5 Pro foca em pureza visual e abandona geração de...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SIGGRAPH">SIGGRAPH - Wikipedia</a></li>
+<li><a href="https://cursor.com/">AI Coding Agent for Building Ambitious Software | Cursor</a></li>
+<li><a href="https://stersoftware.com/news/spacex-completes-acquisition-of-ai-coding-tool-cursor-another-move-in-musk-s-ai--2026-08-16/">SpaceX Completes Cursor Acquisition: Musk&#x27;s AI Strategy Expands</a></li>
+<li><a href="https://satnews.com/2026/08/13/spacex-finalizes-regulatory-procedures-to-close-60-billion-acquisition-of-ai-platform-cursor/">SpaceX Finalizes Regulatory Procedures to Close $60 Billion ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gaming Hardware`, `#Graphics Technology`, `#Console Gaming`, `#Sony`, `#Upscaling`
+**标签**: `#AI`, `#Acquisition`, `#SpaceX`, `#Software Development`, `#Startups`
 
 ---
 
 <a id="item-5"></a>
-## [野村哲也向粉丝保证《王国之心 4》不会跳票，确认 2027 年底发售。](https://www.3dmgame.com/news/202608/3950716.html) ⭐️ 7.0/10
+## [开源工具可移除 Claude、谷歌和 OpenAI 模型的 AI 文本水印。](https://www.cyzone.cn/article/843307.html) ⭐️ 8.0/10
 
-在阿纳海姆举行的 D23 大会上，Square Enix 宣布《王国之心 4》将于 2027 年底发售，系列总监野村哲也直接回应了粉丝的疑虑，承诺游戏不会延期。公告还透露了一部将在 Disney+上播出的动画剧集，并确认游戏中的第一个迪士尼世界将基于《寻梦环游记》。 系列创作者的直接保证对于管理粉丝预期、重振信心至关重要，因为该系列历史上曾有过漫长的开发周期和延期。确认具体的发售窗口，同时公布新的媒体扩展内容，标志着 Square Enix 旗下这一关键 IP 的开发和营销工作已进入重要阶段。 野村哲也是在 D23 大会的《王国之心》专题讨论会上做出“不会延期”的承诺，专门回应了网络上对 2027 年发售目标的怀疑。此消息也标志着游戏宣传活动的正式开始，未来将有更多细节公布。
+一个名为&\#x27;watermarks-remover&\#x27;的 GitHub 项目因能有效移除 Anthropic 的 Claude、谷歌的 SynthID-Text 和 OpenAI 系统生成的 AI 内容中的统计型文本水印而爆火，已获得超过 11,000 颗星。该工具采用 MIT 开源协议，并声称还能清除图像和 PDF 文件中的 C2PA 鉴权数据和 EXIF 元数据。 这一进展直接挑战了各大 AI 公司正在实施的核心信任与安全机制，这些机制部分是为了遵守欧盟《人工智能法案》等法规。它削弱了可靠追踪 AI 生成内容的能力，对错误信息、学术诚信和内容溯源构成了重大挑战。 该工具采用多层&\#x27;Agent Skill + 标准 Python 服务&\#x27;架构，通过 HTTP 工作以避免复杂的本地环境配置。它专门针对 Claude 使用的&\#x27;统计型文本水印&\#x27;方法，该方法基于密钥和前文内容将特定模式嵌入到 Token 生成概率中，而非使用隐藏字符。
 
-rss · 3DM - news中心 · 8月16日 23:03
+rss · 最新资讯 - 创业邦 · 8月17日 03:41
 
-**背景**: 《王国之心》是由 Square Enix 与迪士尼合作开发的长期动作角色扮演游戏系列，融合了迪士尼和《最终幻想》的角色。野村哲也是该系列的总监和角色设计师，以其在《最终幻想 VII》等主要作品中的工作而闻名。该系列历史上开发周期较长，《王国之心 3》在 2019 年发售，距离前作已过去 13 年，因此发售日期的保证对粉丝群体而言尤为重要。
+**背景**: AI 模型的文本水印是一种将难以察觉的信号嵌入生成文本的技术，以便后续验证其来源。Anthropic 的 Claude 采用了一种基于谷歌 SynthID-Text 的方法，该方法根据密钥在 Token 生成过程中微妙地改变概率分布。C2PA（内容来源和真实性联盟）是一种将来源信息嵌入图像和 PDF 等数字文件的标准。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E5%93%B2%E4%B9%9F">野村哲也 - 维基百科，自由的百科全书</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tetsuya_Nomura">Tetsuya Nomura - Wikipedia</a></li>
+<li><a href="https://www.anthropic.com/news/claude-text-watermark">How Claude &#x27;s text watermarking works \ Anthropic</a></li>
+<li><a href="https://ai.google.dev/responsible/docs/safeguards/synthid">SynthID: Tools for watermarking and detecting LLM-generated ...</a></li>
+<li><a href="https://deepmind.google/blog/watermarking-ai-generated-text-and-video-with-synthid/">Watermarking AI-generated text and video with SynthID</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gaming News`, `#Square Enix`, `#Kingdom Hearts`, `#Game Development`, `#Disney`
+**标签**: `#AI Safety`, `#Open Source`, `#Machine Learning`, `#Cybersecurity`
 
 ---
 
 <a id="item-6"></a>
-## [《蜘蛛侠：崭新之日》上映三周，全球票房突破 20 亿美元](https://www.3dmgame.com/news/202608/3950714.html) ⭐️ 7.0/10
+## [苹果据称正与阿里巴巴合作开发中国特供 AI 模型，用于本地化 Apple Intelligence](https://www.cyzone.cn/article/843286.html) ⭐️ 8.0/10
 
-《蜘蛛侠：崭新之日》上映三周后，全球累计票房已达 20.22 亿美元，成为影史第八部票房突破 20 亿美元的电影。它是继《复仇者联盟 4：终局之战》之后，第二快达到这一里程碑的影片。 这一成就凸显了蜘蛛侠系列及超级英雄电影持久的商业号召力，标志着电影行业票房的一次重大复苏。该片有望挑战北美影史最高票房纪录，并可能成为首部全球票房突破 30 亿美元的电影。 该片的票房构成包括北美地区的 7.85 亿美元和海外市场的 12.3 亿美元。其北美首周末票房高达 3.55 亿美元，创下纪录，并在上映仅六天后全球票房便突破了 10 亿美元大关。
+据路透社 8 月 14 日独家报道，苹果已针对中国市场训练了一款大型语言模型，阿里巴巴参与了该模型的开发和训练支持。这款模型预计将成为中国版 iPhone 上 Apple Intelligence 的一部分，可能与阿里千问和百度技术共同集成。 此举是苹果为应对中国严格的 AI 监管要求（包括数据本地化、内容过滤和符合国家利益）而进行的重要战略调整。它确保了 Apple Intelligence 的核心功能能够在遵守当地法律的前提下，触达数百万中国 iPhone 用户，并影响全球最大智能手机市场中 AI 驱动的移动服务竞争格局。 这款中国特供模型很可能遵循与苹果和谷歌合作开发 AFM 3 类似的模式，即苹果负责定义架构和产品能力，合作伙伴提供技术和基础设施支持。目前的关键未知信息包括：模型是否基于千问的权重、云端组件将部署在中国的何处，以及苹果完整的 Private Cloud Compute 隐私框架是否会在本地实施。
 
-rss · 3DM - news中心 · 8月16日 22:48
+rss · 最新资讯 - 创业邦 · 8月17日 02:13
 
-**背景**: 全球票房 20 亿美元俱乐部是由少数几部取得非凡商业成功的影片组成的精英群体。《蜘蛛侠：崭新之日》是由汤姆·赫兰德主演的第四部蜘蛛侠个人电影，延续了漫威电影宇宙（MCU）的故事线。该片票房的快速增长凸显了大型系列电影在推动后疫情时代影院观影方面的重要作用。
+**背景**: Apple Intelligence 是苹果将生成式 AI 模型集成到 iPhone、iPad 和 Mac 中的个人智能系统，需要特定的苹果芯片（A17 Pro/M 系列或更新型号）支持。在全球版本中，苹果与谷歌等合作伙伴协作，使用 Gemini 等模型。在中国，外国 AI 服务面临严格的监管，要求提供独立的、合规的版本。阿里巴巴的千问是领先的中文大语言模型，支持多种语言，使其成为本地化工作的潜在技术合作伙伴。
 
-**标签**: `#movies`, `#box-office`, `#spider-man`, `#entertainment-news`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apple_Intelligence">Apple Intelligence - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://www.pertamapartners.com/insights/china-ai-regulations">China AI Regulations 2026: Rules Companies Must Follow</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Apple`, `#China Tech`, `#Large Language Models`, `#Mobile Technology`
 
 ---
 
 <a id="item-7"></a>
-## [中国发行商 4Divinity 将在 2026 科隆游戏展展出六款新作](https://www.3dmgame.com/news/202608/3950705.html) ⭐️ 7.0/10
+## [GLM-5.3 正式发布，编程能力提升 50%，满分通过 GPT-5.6 设计的测试](https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia) ⭐️ 8.0/10
 
-发行商 4Divinity 宣布将在 2026 年科隆游戏展的三个展馆展出六款全新原创游戏，其中包括《抵抗者》、《昭和米国物语》等五款国产作品。展会期间将全球首曝五个全新预告，安排 180 余场媒体会谈，并拍摄一部 8 分钟的纪录片来记录此次出海布局。 这是 4Divinity 确立其全球发行商地位的关键一步，旨在向欧美玩家展示东方游戏独特的叙事与玩法。此举也反映了中国游戏开发商和发行商正通过大型行业展会，积极扩大其国际影响力和文化输出的趋势。 这六款游戏涵盖二战 3A 射击、国风动作、西式魂系、复古叙事等多元品类，全网愿望单总量突破 200 万，相关视频播放量超 2.8 亿次。发行方依托 7 家工作室、270 余名开发者的共享技术体系，统一了动捕、战斗引擎和音频开发管线。
+8 月 14 日，GLM-5.3 正式发布，官方称其编程能力相比 GLM-5.2 提升了约 50%，并在由竞争对手模型 GPT-5.6 设计的一套综合性编码测试中获得了满分。此次更新还为其 Coding Plan 引入了新的积分制额度体系，并增强了其 ZCode 智能体的 Goal Mode 以处理长程任务。 此次发布标志着 AI 编程智能体取得了实质性进展，表明即使基础模型不变，专注于后训练的规模化也能在复杂的多步骤工程任务上带来显著的性能提升。在由 GPT-5.6 这类领先竞争对手设计的测试中获得高分，也为评估模型在受约束工程执行方面的能力提供了一个新颖的外部基准。 性能提升完全归功于使用&\#x27;slime&\#x27;框架进行的后训练规模化，其重点在于长程强化学习。然而，获得满分的测试仅限于小型、单文件的 Python 问题，并不能保证模型在更复杂的大型现实软件工程项目中具有同等表现。
 
-rss · 3DM - news中心 · 8月16日 22:09
+rss · InfoQ 推荐 · 8月17日 01:44
 
-**背景**: 科隆游戏展是全球最大的电子游戏贸易展会之一，每年在德国科隆举行，是重要的游戏发布和行业交流平台。《昭和米国物语》是一款设定独特的角色扮演游戏，其背景是一个架空的上世纪 80 年代末，日本在文化上殖民了美国，融合了复古流行文化和荒诞主题。新闻中提到的“西式魂系 FPS”是一个小众游戏类型，它将魂类游戏的高难度玩法与第一人称射击结合，并设定在西部背景中。
+**背景**: GLM 是智谱 AI 开发的一系列大语言模型。&\#x27;后训练&\#x27;指的是在初始预训练之后进行的额外训练阶段（如强化学习），旨在针对特定任务精炼模型能力。&\#x27;slime&\#x27;框架是智谱用于规模化此后训练的开源基础设施，它将训练、推演和数据缓冲区集成到统一的数据流中。ZCode 是智谱的 AI 编程智能体，能够自主处理规划、编码和测试等任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://store.steampowered.com/app/1687540/Showa_American_Story/">Showa American Story on Steam</a></li>
-<li><a href="https://themagicrain.com/2026/07/4divinity-announces-apocalyptic-souls-like-fps-guns-of-eschaton/">4Divinity Announces Apocalyptic Western Souls - Like FPS , &#x27;Guns of...</a></li>
+<li><a href="https://z.ai/blog/glm-5.3">GLM-5.3: Frontier Coding with Emergent Cyber Capabilities</a></li>
+<li><a href="https://aitoolly.com/product/glm-5-3">GLM-5.3 — GLM-5.3 is an open-weights model… | AIToolly</a></li>
+<li><a href="https://zcode.z.ai/en/docs/goal">Goal Mode | ZCODE Docs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gamescom`, `#Game Announcements`, `#Chinese Games`, `#Game Publishing`, `#Indie Games`
+**标签**: `#AI-Coding`, `#LLM`, `#Software-Engineering`, `#Model-Release`
 
 ---
 
 <a id="item-8"></a>
-## [东吴证券报告提出 QATC 框架，优化 AI 投研效率](https://pdf.dfcfw.com/pdf/H3_AP202608171828033189_1.pdf?1786950222000.pdf) ⭐️ 7.0/10
+## [美国拟施压 35 国在美中 AI 治理联盟间二选一，否则或被排除](https://unwire.hk/2026/08/16/us-china-ai-pick-sides-pax-silica/ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=us-china-ai-pick-sides-pax-silica) ⭐️ 8.0/10
 
-东吴证券发布了一份关于优化 AI 驱动投资研究的深度报告，引入了质量调整后任务成本（QATC）这一整体效率衡量指标。报告指出了重复读取文档、上下文膨胀等关键的隐性成本来源，并主张开发&\#x27;证据型 Skill&\#x27;，将研究经验转化为可执行、可验证的工作流。 这很重要，因为它将焦点从孤立的 LLM 调用成本转移到完成完整研究任务的总成本和质量上，这对于 AI 在金融领域的实际和规模化应用至关重要。该框架和发现为金融机构提供了可操作的指导，以减少浪费、提高可靠性并构建可复用的 AI 研究技能库，直接影响高利害领域 AI 投资的回报率。 该报告基于 48 轮实验，发现结构化方法的价值与任务难度高度相关，而不仅仅是流程复杂度。报告警告称，额外的规则和质量闸门也可能增加资源负担，真正有效的复杂度应能改变结构化状态或减少返工，而非单纯增加 Agent 数量。
+一份泄露的、未标注日期的美国国务院信件草稿显示，美方计划向签署了《AI 机遇声明》的 35 个国家施压，要求其在美国主导的 Pax Silica 框架与中国主导的框架之间做出排他性选择。草案警告称，像哈萨克斯坦这样同时参与双方倡议的国家，可能被排除在美国领导的 AI 联盟之外。 此举标志着全球 AI 治理的地缘政治分裂显著升级，迫使各国在技术发展和监管框架上选择与美国或中国结盟。这可能导致国际合作碎片化，重塑全球 AI 供应链，并迫使全球南方国家做出具有重大经济和政治后果的战略抉择。 该草案特别点名哈萨克斯坦，称其为目前已知唯一同时参与两个阵营的国家。施压对象是《AI 机遇声明》的签署国，该声明是 2026 年 Pax Silica 峰会上达成的一项联合宣言，侧重于支持创新的 AI 监管和安全供应链。
 
-rss · 东方财富网-行业研报 · 8月16日 16:00
+rss · 香港 unwire.hk 玩生活．樂科技 · 8月16日 14:00
 
-**背景**: 在 AI 工作流中，&\#x27;Token&\#x27;是大型语言模型（LLM）处理文本的基本单位，其消耗直接关系到成本和延迟。&\#x27;智能体工作流&\#x27;指的是 AI 智能体自主使用工具并做出决策以完成多步骤任务的系统。&\#x27;质量成本&\#x27;（COQ）是一个商业管理指标，用于量化与预防、发现和修复缺陷相关的总成本，该报告将其调整为适用于 AI 研究的 QATC。
+**背景**: Pax Silica 是一项美国主导的倡议，旨在促进基于民主价值观和透明治理的 AI 合作，成员包括印度和菲律宾等国。《AI 机遇声明》是一份基础性文件，由 35 个 Pax Silica 经济体签署，旨在协调支持增长的 AI 政策。与此同时，中国也在推进其自身主导的全球 AI 治理框架，形成了竞争性联盟并立的局面。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/">Improving token efficiency in GitHub Agentic Workflows - The GitHub Blog</a></li>
-<li><a href="https://next.redhat.com/2026/07/28/building-skills-for-ai-agents-pitfalls-and-best-practices/">Building skills for AI agents: pitfalls and best practices - Red Hat Emerging Technologies</a></li>
-<li><a href="https://asq.org/quality-resources/cost-of-quality">What is Cost of Quality (COQ)? | ASQ</a></li>
+<li><a href="https://www.state.gov/ai-opportunity-statement/">AI Opportunity Statement - United States Department of State</a></li>
+<li><a href="https://edunovations.com/currentaffairs/international/ai-opportunity-statement-at-pax-silica-summit-2026/">AI Opportunity Statement At Pax Silica Summit 2026: 35 ...</a></li>
+<li><a href="https://www.justsecurity.org/119966/what-us-china-ai-plans-reveal/">Dueling Strategies for Global AI Leadership? What the U.S. and China Action Plans Reveal</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Research`, `#Fintech`, `#Process Optimization`, `#Quantitative Analysis`, `#LLM Efficiency`
+**标签**: `#AI Governance`, `#Geopolitics`, `#US-China Relations`, `#Tech Policy`
 
 ---
 
 <a id="item-9"></a>
-## [科技巨头发布新 Agent 模型与硬件，加速端侧 AI 落地](https://pdf.dfcfw.com/pdf/H3_AP202608161828032579_1.pdf?1786950119000.pdf) ⭐️ 7.0/10
+## [Qwen 3.8 27B 模型性能出色，但默认存在过度思考倾向](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ⭐️ 7.0/10
 
-Meta 发布了 Muse Glimmer，这是一个 300 亿参数的开源权重模型，专为在单张消费级 GPU 上运行 AI 智能体而优化。NVIDIA 推出了 Nemotron 3.5 Lightning，这是一个采用 Mamba-2、MoE 与 Attention 混合架构的 300 亿参数模型，专为分层 Agent 系统中的高频执行任务设计。同时，谷歌的新品 Pixel 11 系列和 Pixel Watch 5 展示了端侧 AI 承担任务的增加，如实时翻译和主动健康监测。 这些进展标志着端侧 AI 正朝着实用化、低成本的方向加速落地，将复杂的智能体工作负载从云端转移到个人设备。这一趋势能提升用户隐私、降低延迟，并通过让 AI 助手变得更普及、响应更快，从而可能重塑消费电子行业。 Meta 的 Muse Glimmer 因其极低的 KV 缓存内存占用（BF16 模式下约 52KiB/token）而备受关注，这使其能实现快速推理。NVIDIA 的模型虽然在同尺寸模型中智能水平并非最高，但其中位数输出速度达到约 301 token/s，显著高于同类模型，这体现了其在智能体执行层为效率所做的设计取舍。
+针对新开源模型 Qwen 3.8 27B 的技术分析指出，其虽然性能卓越，但默认存在“过度思考”问题的倾向。这种行为涉及在给出答案前进行大量内部推理，可能导致效率低下。 这一见解对开发者和研究人员至关重要，因为它揭示了顶尖开源模型在推理深度与推理效率之间存在的微妙权衡。它引发了关于如何为编码和智能体等实际应用优化大语言模型推理过程的更广泛讨论。 该模型的过度思考倾向很可能是其训练过程的产物，特别是鼓励彻底性的强化学习激励。一些社区成员指出，这种特性在顶尖模型中很常见，但在专有 API 中通常被隐藏。
 
-rss · 东方财富网-行业研报 · 8月16日 16:00
+hackernews · bilsbie · 8月16日 23:45 · [社区讨论](https://news.ycombinator.com/item?id=49324985)
 
-**背景**: 端侧 AI（或称边缘 AI）指的是在智能手机、手表或 PC 等本地硬件上直接运行人工智能模型，而非在云端运行。这种方法具有延迟更低、数据隐私性更强、减少对互联网连接依赖等优势。AI 智能体是能够感知环境、自主决策并采取行动以实现目标的系统，通常需要频繁调用模型。KV（键值）缓存是大型语言模型推理过程中使用的一种内存机制，用于存储已计算的前序 token 的中间结果，能显著加速后续文本的生成；其大小是影响显存占用的关键因素，对端侧部署至关重要。
+**背景**: Qwen 3.8 27B 是一个拥有 270 亿参数的开源多模态大语言模型，以其在推理、编码和智能体任务中的强大性能而闻名。大语言模型中的“过度思考”是指模型在生成最终答案前，倾向于产生过长或复杂的内部推理链（通常通过思维链），这可能会浪费计算资源而不会提高准确性。随着模型推理能力的提升，这种现象已成为一个公认的问题，并催生了对“高效推理”技术的研究。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://huggingface.co/meta-models/Muse-Glimmer-30B">meta-models/Muse-Glimmer-30B · Hugging Face</a></li>
-<li><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4">nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 · Hugging Face</a></li>
-<li><a href="https://www.jinghong-chen.net/estimate-vram-usage-in-llm-inference/">Estimate LLM inference speed and VRAM usage quickly: with...</a></li>
+<li><a href="https://spectrum.ieee.org/reasoning-in-ai">Is Your AI Stuck in Its Own Head? Today&#x27;s Large Language Models Have a Problem with Overthinking</a></li>
+<li><a href="https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs">GitHub - Eclipsess/Awesome-Efficient-Reasoning-LLMs: [TMLR 2025] Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models · GitHub</a></li>
+<li><a href="https://llm-explorer.com/model/Qwen/Qwen3.8-27B,3HAoLr0dKuoKi0dZxTZefY">Qwen 3 . 8 27 B by Qwen — VRAM 55.6GB | LLM Explorer</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Agents`, `#Edge Computing`, `#Consumer Electronics`, `#Model Optimization`, `#Hardware`
+**社区讨论**: 社区讨论承认，过度思考是现代大语言模型的普遍特征，通常源于强化学习的训练目标。一些人认为这对于软件工程等复杂任务有益，而另一些人则将其视为一种低效的思维模仿，需要找到捷径。一个值得注意的观点是，像 Qwen 3.8 27B 这样的本地开源模型，其推理能力现在已能与一年前的高端专有模型相媲美。
+
+**标签**: `#llm`, `#artificial-intelligence`, `#open-source`, `#model-evaluation`, `#reasoning`
 
 ---
 
 <a id="item-10"></a>
-## [中国保险业转向分红险，重塑险资配置逻辑与资本市场](https://pdf.dfcfw.com/pdf/H3_AP202608161828032369_1.pdf?1786949817000.pdf) ⭐️ 7.0/10
+## [深度报告剖析 IRS 免费报税系统 Direct File 的兴衰始末](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) ⭐️ 7.0/10
 
-一份专业报告分析指出，中国保险业正从传统险向分红险全面转型，这正在将保险公司的负债结构从刚性固定承诺重塑为与客户共享收益的模式。这一转变使得保险资金的投资目标从被动覆盖负债成本转向主动追求收益增强，并对权益和债券市场产生深远影响。 这之所以重要，是因为它意味着中国最大的长期资本池之一——保险资金——的资产配置逻辑发生了系统性转变，可能改变对高股息股票和特定债券品种的需求结构。这一转型有助于保险公司在低利率环境下管理利差损风险，并可能使其从被动的长期资金转变为更主动、有选择的市场化资本。 在新保险合同准则 IFRS17 下，分红险适用于浮动收费法（VFA）模型计量，投资收益先被合同服务边际（CSM）吸收并跨期摊销，这为资产配置释放了更大空间。报告提出了权益投资的新双层结构：以计入其他综合收益（OCI）的高股息资产打底，并用计入交易类金融资产（TPL）的成长性资产增厚收益。
+一份由前项目团队成员撰写的详细事后分析报告发布，深入剖析了美国国税局（IRS）的 Direct File 项目。该项目是一个免费的联邦报税系统，在 2024 和 2025 年报税季运行后最终被取消。报告审视了该系统的开发过程、面临的政治挑战以及导致其终止的各种因素。 这份分析报告作为一个备受瞩目的政府科技项目案例研究具有重要意义，为理解政治、公共政策和产品开发之间的交叉点提供了关键教训。其发现对于公共部门科技领域的从业者极具价值，揭示了非技术性因素如何能在项目具备运营优势的情况下，依然决定其最终命运。 报告因其公正客观的处理方式而受到关注，详细阐述了成功与失败之处，并以事实为依据探讨了党派政治环境。社区讨论的一个焦点是该项目的成本问题，有数据显示政府处理每份申报的成本约为 226 美元，而私人公司的成本约为 40 美元。
 
-rss · 东方财富网-行业研报 · 8月16日 16:00
+hackernews · ronbenton · 8月17日 00:17 · [社区讨论](https://news.ycombinator.com/item?id=49325185)
 
-**背景**: 分红险是一种人寿保险，投保人可以分享保险公司的可分配盈余作为红利，从而与公司共担投资风险和收益。在中国，长期利率下行和监管政策闭环给传统险的刚性负债模式带来压力，推动了向分红险的转型。国际财务报告准则第 17 号（IFRS17）下的浮动收费法（VFA）模型，改变了此类合同收益的确认方式。
+**背景**: IRS Direct File 是一个由政府运营的免费联邦报税系统，在 2024 和 2025 年报税季期间，面向申报情况相对简单（例如仅有 W-2 收入、采用标准扣除额）的纳税人开放。项目事后分析是一种结构化的流程，用于分析项目结果（无论是成功还是失败）的根本原因，从而汲取未来经验教训。这一概念在 IT 和项目管理领域被广泛采用，旨在超越追责，专注于流程改进。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.shenlanbao.com/wenda/topics/917343">平安 分 红 险 的可 分 配 盈 余 _保 险 问答</a></li>
-<li><a href="https://www.163.com/dy/article/L0MCVMLF0519QIKK.html">163.com/dy/article/L0MCVMLF0519QIKK.html</a></li>
+<li><a href="https://www.cnet.com/tech/services-and-software/irs-ends-free-direct-file-tax-program-best-alternatives/">IRS Ended Its Direct File Tax Program. Here Are the Best... - CNET</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Postmortem_documentation">Postmortem documentation - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Insurance`, `#Financial Markets`, `#Asset Allocation`, `#China Finance`, `#Investment Strategy`
+**社区讨论**: 社区情绪复杂，部分用户赞扬了报告对政治和产品挑战所进行的平衡且文笔出色的分析。然而，讨论的很大一部分集中在项目的成本效益上，用户们争论政府更高的单次申报成本是否合理，也有人将项目取消单纯归因于政治动机而非其本身价值。
+
+**标签**: `#government-tech`, `#post-mortem`, `#public-policy`, `#project-management`
 
 ---
 
 <a id="item-11"></a>
-## [投资人爆料 Anthropic CEO 曾称公司可能成为全球唯一私营企业，引发激烈辩论](https://www.cyzone.cn/article/843252.html) ⭐️ 7.0/10
+## [特立尼达嵌入式工程师为 RISC-V 的可及性与低成本优势发声](https://rvembedded.com/blog_post/12/) ⭐️ 7.0/10
 
-在 8 月 14 日的“All-In”播客节目中，科技投资人 Gavin Baker 声称，Anthropic 的 CEO Dario Amodei 曾对多位他信任的人表示，Anthropic 未来某天可能成为世界上唯一的私营公司。Anthropic 研究员 Sholto Douglas 及公司品牌官随后坚决否认了这一说法，称其“完全是胡说”。 这一说法即便未经证实，也引发了关于 AI 时代市场极端集中可能性以及领先 AI 公司伦理责任的激烈辩论。它触及了人们对 AI 社会影响、企业权力以及资本主义未来的核心焦虑，尤其是当 Anthropic 作为一家领先的 AI 公司正筹备大规模 IPO 之际。 讨论显示，硅谷许多人认为这一说法可信，部分原因在于 Dario Amodei 曾公开撰文讨论经济权力集中的危险。埃隆·马斯克对此事评论称，最有娱乐效果的结果往往最可能发生。据报道，Anthropic 第二季度营收飙升至 115 亿美元，是去年同期的 14 倍多。
+一位来自特立尼达和多巴哥的嵌入式工程师发表文章回应批评，他认为 RISC-V 的开源特性和极低的芯片单价，使其成为嵌入式系统开发的变革性且易于获取的平台，尤其对于美国、欧洲等主要科技中心之外的工程师而言。 这一观点揭示了开源硬件如何通过降低资金和物流壁垒来促进先进技术的普及，有望在传统上被全球半导体供应链服务不足的地区加速创新。 作者特别反驳了之前一篇针对 RISC-V 在通用计算领域性能和碎片化问题的批评，他强调的是 RISC-V 在成本敏感型嵌入式应用中的实际优势，在这些场景中，定制化是优点而非缺陷。
 
-rss · 最新资讯 - 创业邦 · 8月16日 08:54
+hackernews · Narishma · 8月16日 17:01 · [社区讨论](https://news.ycombinator.com/item?id=49321717)
 
-**背景**: Anthropic 是一家领先的 AI 研究与安全公司，被认为是 OpenAI 的主要竞争对手，也是 Claude AI 模型的创造者。“All-In 播客”是一档知名的科技商业节目，由 David Sacks 等硅谷知名投资人主持。这一爆料的核心是“AI 极大主义”概念，即设想单一的 AI 实体可能主导整个经济格局。
+**背景**: RISC-V 是一种基于精简指令集计算（RISC）原则的开源指令集架构（ISA），其设计目标是简单、模块化和可扩展。其开源模式允许公司避免许可费，从而降低了硬件开发的入门门槛。嵌入式系统开发涉及在更大的设备中创建专用计算系统，需要硬件和软件两方面的专业知识。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://tech.ifeng.com/c/8van8J4QvOS">Dario称 Anthropic ... | 凤凰网</a></li>
-<li><a href="https://www.theblockbeats.info/news/60944">All - In 播 客 深度预测：四大硅谷富豪们在2026年看到了哪些赚钱机会？</a></li>
-<li><a href="https://www.devclub.cc/tutorials/3min-ai/companies/anthropic">3分钟搞懂 Anthropic | DevClub</a></li>
+<li><a href="https://futuretechdaily.com/blog/trends/arm-riscv-iot-supremacy/">ARM and RISC - V : The High-Stakes Race for IoT Supremacy</a></li>
+<li><a href="https://appinventiv.com/blog/embedded-software-development/">Embedded Software Development: A Comprehensive Guide Embedded Systems Development Lifecycle Explained Embedded Systems Engineering Roadmap - GitHub Embedded Systems Development Process – Full Guide 8 Critical Steps in the Embedded System Development Lifecycle Embedded Software Development Flow - Embedded Software ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 播客主持人和线上评论者表达了怀疑和担忧，David Sacks 称这一愿景“傲慢”，让人联想到 SBF 的狂妄。作为回应，Anthropic 的 Sholto Douglas 辩称公司非常担心权力集中，并主张竞争。这场交锋凸显了人们对 AI 集中控制的恐惧与对分布式竞争发展信念之间的根本分歧。
+**社区讨论**: 评论者指出，作者的观点与最初的批评（主要关注通用计算的性能和二进制分发）所针对的问题不同。一些用户对作者的成本计算表示困惑，质疑运输成本如何与超低芯片价格的论断相协调。另一些人则从历史角度进行类比，认为 RISC-V 的性能最终可能匹敌 ARM 和 x86。
 
-**标签**: `#AI`, `#Anthropic`, `#Business`, `#Silicon Valley`, `#Investing`
+**标签**: `#RISC-V`, `#Embedded Systems`, `#Hardware`, `#Computer Architecture`, `#Industry Analysis`
 
 ---
 
 <a id="item-12"></a>
-## [太子集团“二号”被捕、宇树高市盈率 IPO、SHEIN 估值缩水](https://weekly.caixin.com/2026-08-16/102474648.html) ⭐️ 7.0/10
+## [阿里巴巴将《三战》开发商灵犀互娱控股权出售给信宸资本](https://www.youxituoluo.com/534799.html) ⭐️ 7.0/10
 
-太子集团“二号人物”胡小伟于 6 月 14 日在日本因涉嫌伪造电子公证文书以获取永久居留权被捕，并于 7 月 29 日被引渡至美国。报告同时详述了宇树科技以 219.23 倍市盈率上市，以及 SHEIN 估值从 982 亿美元大幅缩水至 300-400 亿美元后仍寻求在港上市的计划。 这份调查报告揭示了与大型企业集团相关的复杂跨国企业架构及涉嫌的金融犯罪，凸显了重大的治理与法律风险。宇树与 SHEIN 截然不同的 IPO 故事，反映了资本市场，尤其是中国公司寻求海外上市所面临的波动与挑战。 胡小伟使用了来自塞浦路斯、柬埔寨、圣基茨和尼维斯及中国香港的多个身份，并辅以离岸公司、私人飞机和跨境资产，构建了一个极难穿透的网络。宇树科技的 IPO 中签率低至万分之 1.81，表明尽管估值高企，但市场需求依然旺盛。
+阿里巴巴集团已正式将其持有的游戏开发商灵犀互娱全部股份出售给私募股权公司信宸资本（Trustar Capital），灵犀互娱 CEO 周炳枢于 2026 年 8 月 17 日发布的内部信确认了此事。这笔据传估值超过 15 亿美元的交易，为持续数月的去向猜测画上了句号。 此次剥离标志着阿里巴巴一次重要的战略调整，使其与一家主要游戏工作室分离，并可能让灵犀互娱获得更大的研发自主权，摆脱阿里巴巴“唯爆款论”的考核压力。对游戏行业而言，这凸显了私募股权在收购成熟、有营收能力的工作室方面日益增长的作用，可能影响未来工作室所有权和投资的趋势。 内部信强调谈判在友好、平稳、共赢的氛围中达成，阿里巴巴和信宸资本都对灵犀团队的价值给予了高度肯定。然而，具体的交易金额、交付时间以及新财务投资者承诺的“全新动能”和“全方位助力”的具体形式均未披露。
 
-rss · 财新网 - 首页 · 8月16日 23:20
+rss · games陀螺 · 8月17日 11:39
 
-**背景**: 离岸公司通常注册在英属维尔京群岛、开曼群岛等监管相对宽松的司法管辖区，常用于税务优化、资产保护和便利国际业务。圣基茨和尼维斯联邦运营着全球历史最悠久的投资入籍计划之一，允许个人通过对该国做出重大经济贡献来获得公民身份。伪造公证文书是严重犯罪，因为公证涉及法律认证，以确保文件的真实性与合法性。
+**背景**: 灵犀互娱是阿里巴巴旗下的游戏开发商，以其旗舰移动策略游戏《三战》（Three Kingdoms: Strategy）而闻名。信宸资本（Trustar Capital）是中信资本控股有限公司的私募股权投资部门，于 2021 年启用此新品牌，以投资科技、金融等领域而知名。阿里巴巴此次出售是其精简非核心资产大趋势的一部分。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.fuwuhk.com/a/131351.html">离 岸 公 司 和美国 公 司 的区别，哪种更适合你的商业发展？ - 港通智信</a></li>
-<li><a href="https://fiic.com.hk/sc/news-details.php?wid=83&amp;id=280&amp;page=1">Friends International</a></li>
-<li><a href="https://m.haolvshi.com.cn/ask/96446.html">假 公 证 卖房- 律 师在线 法 律 咨询-好 律 师网</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BF%A1%E8%B5%84%E6%9C%AC">中 信 资 本 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.donews.com/news/detail/1/6671511.html">阿里超百亿元出售游戏业务，买方是中 信 资 本 - DoNews</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Financial News`, `#Corporate Governance`, `#IPO`, `#Investigative Journalism`, `#International Business`
+**标签**: `#gaming-industry`, `#mergers-acquisitions`, `#mobile-games`, `#corporate-strategy`, `#private-equity`
 
 ---
 
 <a id="item-13"></a>
-## [财新周刊调查儿科医生韩杰因漏诊致死被判刑一案](https://weekly.caixin.com/2026-08-15/102474381.html) ⭐️ 7.0/10
+## [国产 3A 动作游戏《湮灭之潮》预览与主创访谈，展现雄心勃勃的设计](https://www.youxituoluo.com/534798.html) ⭐️ 7.0/10
 
-财新周刊发布深度调查报告，详细披露了儿科医生韩杰因在 2024 年 2 月一次夜班急诊中漏诊，导致一名幼儿死亡，最终被以医疗事故罪判处有期徒刑一年、禁止从事医疗行业三年的案件。报告探究了患儿的死亡经过，以及韩医生近期公开表示自己有过错但“不至于触犯刑法”的立场。 此案意义重大，因为它处于医疗实践与刑法交叉的关键地带，为如何裁定严重医疗差错树立了一个先例。它引发了关于医生职业责任的法律边界、医疗体系内的系统性压力，以及在追责与可能阻碍医务人员的刑事定罪恐惧之间如何平衡的重要讨论。 该事件被定性为一级甲等医疗事故，属于最严重的等级。韩医生当时将呕吐的幼儿诊断为急性肠胃炎和肠梗阻，但患儿后来死于被确诊为嵌顿性腹股沟疝的疾病，这是一种常见的小儿外科急症。
+游戏媒体游戏陀螺发布了对国产 3A 动作游戏《湮灭之潮》（英文名 Tides of Annihilation）的详细预览与主创访谈，内容基于近期在成都举行的首次线下试玩会。文章重点介绍了游戏一流的画面水准、成熟的 3C 设计，以及一个以召唤“骑士团”为核心、颇具新意的“替身式”连段战斗系统。 这标志着继《黑神话：悟空》成功后，中国高端单机游戏开发领域的信心与实力正在持续增长。作为腾讯投资、面向全球市场的项目，《湮灭之潮》代表了中国工作室开发高预算、原创 IP 动作游戏以参与国际竞争的一股持续浪潮。 试玩版本包含一段完整的主线关卡、两场多阶段华丽 BOSS 战以及数个高难度支线 BOSS。战斗系统的核心是召唤主副位骑士进行“替身式”连招，不同骑士拥有独立模组与机制，并可配合女主角格雯德琳形成连段，再结合武器雾纹、徽章等 RPG 元素，构建了可观的深度。监制陈琦与制作人付坤透露，游戏设计始于实现“骑士团”主题的战斗系统，而后才匹配了亚瑟王传说的题材。
 
-rss · 财新网 - 首页 · 8月16日 23:17
+rss · games陀螺 · 8月17日 11:00
 
-**背景**: 在中国法律体系中，“医疗事故罪”是一项具体的刑事罪名，指医务人员由于严重不负责任，造成就诊人死亡或者严重损害就诊人身体健康的行为。像财新周刊这样的调查新闻机构，常深入探究复杂的社会法律问题，提供超越官方叙述的细致分析。嵌顿性腹股沟疝是指部分肠管卡在腹股沟管内无法回纳的急症，若未及时处理可能危及生命。
+**背景**: 在游戏设计中，“3C”是角色（Character）、镜头（Camera）和控制（Control）的缩写，代表了构建核心互动体验的基础要素。“3A”游戏则指那些拥有最高开发预算和制作水准的作品，通常由大型发行商支持。近年来，中国游戏开发领域涌现出一批雄心勃勃的 3A 级单机游戏，它们利用虚幻 5 引擎等全球通用工具，旨在为国际玩家创造内容。
 
-**标签**: `#Healthcare`, `#Legal Case`, `#Medical Ethics`, `#Investigative Journalism`, `#China`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://inf.news/en/game/8eb79d238c9b945a9b3918ccafe7a12c.html">What is &quot;3C&quot;? What is its specific meaning in game design and ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tides_of_Annihilation">Tides of Annihilation - Wikipedia</a></li>
+<li><a href="https://app.cinevva.com/news/2026-07-08-phantom-blade-zero-china-aaa">Phantom Blade Zero and the China AAA wave that Black Myth ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Gaming`, `#Game Development`, `#Chinese Games`, `#Action Game`, `#AAA`
 
 ---
 
 <a id="item-14"></a>
-## [汇丰科技将在 AICon 深圳分享 AI Coding 智能体在金融科技全研发流程的企业级落地实践](https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC) ⭐️ 7.0/10
+## [迪士尼 D23 大会公布《超人特攻队 3》、《可可夜总会 2》及新《X 战警》项目计划。](https://gnn.gamer.com.tw/detail.php?sn=309962) ⭐️ 7.0/10
 
-汇丰科技内部开源负责人李渭宁已确认出席 8 月 21-22 日在深圳举办的 AICon 大会，并发表主题演讲，详细介绍该行在企业级 AI Coding 智能体实践方面的经验。本次分享将阐述汇丰如何通过内部开源汇聚各团队经验，构建可复用的 Agent Skills，并将其与 MCP、VS Code、Jira 等工具集成，赋能从需求到交付的全软件开发生命周期。 此事意义重大，因为它将讨论从个人开发提效工具，提升至在复杂、受监管的金融科技开发中进行系统性、组织级 AI 集成的层面。它为其他企业提供了一个关键蓝图，展示了如何在管理安全与合规风险的同时，将 AI Coding 从团队试点规模化推广为可治理、标准化的组织能力。 演讲将特别针对金融科技场景特有的安全、合规与风险评估挑战进行探讨，并讨论规模化推广中的实践痛点，如模型输出不稳定（幻觉问题）以及在不同技术栈团队间量化应用价值的困难。其中强调了使用模型上下文协议（MCP）作为连接智能体与工具、数据的关键集成层。
+在加州安那罕举行的 D23 迪士尼全球粉丝大会上，迪士尼官方正式公布了多部重要续集的开发计划，包括皮克斯的《超人特攻队 3》和《可可夜总会 2》，以及新的《X 战警》系列项目。这些消息是在该活动对未来影视作品的展示环节中发布的。 这些公告意义重大，因为它们确认了皮克斯两部最受喜爱且商业上最成功的系列——《超人特攻队》和《可可夜总会》——的续集计划，这是粉丝们期待多年的消息。此举也标志着迪士尼对其主要知识产权组合（包括漫威的《X 战警》）持续扩张的承诺，将塑造该工作室未来数年的影院上映计划。 根据近期报道，《超人特攻队 3》已确认由皮克斯积极开发中，布拉德·伯德参与其中，并已公布了概念图。关于《可可夜总会 2》，则分享了包括上映时间线和回归角色在内的新细节，不过在 D23 的初步公告中并未提供这些项目的具体上映日期。
 
-rss · InfoQ 推荐 · 8月16日 02:00
+rss · 巴哈姆特 GNN 新聞網 · 8月17日 02:37
 
-**背景**: AI Coding 智能体（如 GitHub Copilot）利用大语言模型辅助开发者完成代码生成、评审等任务。软件开发生命周期（SDLC）涵盖了从规划、设计到部署、维护的软件创造全阶段。在金融科技等受监管行业，集成此类 AI 工具需要细致的治理，以应对安全、数据隐私和合规要求。模型上下文协议（MCP）是一个新兴的开放标准，旨在促进 AI 应用与外部数据源或工具之间的安全连接，这与演讲中讨论的工具链集成密切相关。
+**背景**: D23 迪士尼全球粉丝大会是华特迪士尼公司为其最忠实的粉丝举办的两年一度的博览会，通常会发布关于电影、主题公园和商品的重要公告。《超人特攻队》（2004 年）及其续集（2018 年）是皮克斯出品广受好评的超级英雄电影，而《可可夜总会》（2017 年）是一部庆祝墨西哥文化和亡灵节的奥斯卡获奖影片。X 战警是漫威漫画中的超级英雄团队，其电影版权在迪士尼收购 21 世纪福克斯后现已归迪士尼所有。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
-<li><a href="https://www.anthropic.com/news/model-context-protocol">Introducing the Model Context Protocol \ Anthropic</a></li>
+<li><a href="https://people.com/incredibles-3-everything-to-know-11843180">&#x27;Incredibles 3&#x27;: Everything We Know About the Franchise&#x27;s ...</a></li>
+<li><a href="https://www.yahoo.com/entertainment/movies/articles/details-coco-2-release-date-043421482.html?fr=sycsrp_catchall">New Details on Coco 2: Release Date, Returning Characters ...</a></li>
+<li><a href="https://d23.com/">Ultimate Fan Event 2026 - D 23</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Engineering`, `#Software Development Lifecycle`, `#Financial Technology`, `#Coding Agents`, `#Enterprise AI`
+**标签**: `#animation`, `#movie-news`, `#disney`, `#sequel`, `#entertainment`
 
 ---
 
 <a id="item-15"></a>
-## [Spotify 推出 Random Access Parquet \(RAP\)，实现数据湖低延迟点查询](https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl) ⭐️ 7.0/10
+## [《王国之心 4》确认米奇、唐老鸭、高飞全员可操控](https://www.3dmgame.com/news/202608/3950733.html) ⭐️ 7.0/10
 
-Spotify 推出了 Random Access Parquet \(RAP\) 存储架构，它在 Apache Parquet 文件之上增加了一个外部索引层，从而能够直接在数据湖存储上执行低延迟的点查询。这使得在线服务和 AI 应用无需将数据复制到操作型数据库即可检索单条记录。 这具有重要意义，因为它弥合了现代数据基础设施中的一个主要鸿沟，使得同一份数据集既能服务分析工作负载，也能服务对延迟敏感的在线应用，从而消除了昂贵的数据重复。这代表了一个关键的行业趋势，即推动开放数据湖格式突破分析范畴，以支持交互式和操作型工作负载。 RAP 的工作原理是将查询键（如用户 ID）直接映射到 Parquet 文件位置，从而实现对对象存储的精确范围读取，而非全文件扫描。该架构包含数据排序、列交错等优化，并支持无需重写 Parquet 文件的二级索引，显著减少了点查询的 I/O 操作。
+在 D23 2026 展会上，Square Enix 通过一段加长版预告片正式确认，米奇、唐老鸭和高飞将在《王国之心 4》中成为可操作角色。米奇的玩法涉及一个 2D 与 3D 切换的纸片化世界，主打解谜机制，而唐老鸭和高飞则将在《寻梦环游记》的“亡灵世界”中展开独立冒险。 这标志着《王国之心》系列在玩法上的重大扩展，因为这些标志性的迪士尼伙伴传统上是由 AI 控制的队友。将他们设计为拥有独特机制的可操作角色，迎合了长期粉丝的期待，并展现了游戏的创意雄心，可能为跨界角色扮演游戏的角色驱动型玩法树立新标准。 米奇的游戏部分设定在一个名为“斯卡拉·阿德·卡埃卢姆”的世界中，采用了纸片化美术风格和基于解谜的设计，他可以创造折纸分身来解决环境谜题，其灵感明显来自任天堂的《纸片马里奥》系列。这是系列正统续作中首次出现唐老鸭和高飞在没有主角索拉带领下的独立冒险。
 
-rss · InfoQ 推荐 · 8月16日 02:00
+rss · 3DM - news中心 · 8月17日 01:52
 
-**背景**: 现代数据湖通常构建在 Google Cloud Storage 等云对象存储之上，使用 Apache Parquet 等文件格式和 Apache Iceberg 等表格式，是分析和 AI 工作负载的中央存储库。然而，Trino 和 BigQuery 等分布式查询引擎针对大规模分析扫描进行了优化，使得点查询（通过键检索单条记录）因查询规划和元数据开销而效率低下。这迫使公司为低延迟在线服务在操作型数据库中维护独立且昂贵的数据副本。
+**背景**: 《王国之心》是由 Square Enix 与迪士尼合作开发的长期动作角色扮演游戏系列，融合了迪士尼、皮克斯以及 Square Enix 自家《最终幻想》的角色和世界观。其核心玩法传统上围绕手持钥刃的主角索拉展开，而米奇、唐老鸭和高飞等角色在系列中一直作为 AI 控制的同伴。“斯卡拉·阿德·卡埃卢姆”是一个在系列背景中出现过的地点，近期在已取消的手游《缺失之环》中也有登场。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/">Spotify Builds External Index to Enable Low Latency Point Queries on...</a></li>
-<li><a href="https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries">Indexing the Data Lake for Online Point Queries | Spotify Engineering</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8">王國之心系列角色列表 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://news.17173.com/content/07212026/090743103.shtml">王国之心2.8：终章高清版 Missing-Link 爆料引发热议，玩家感叹 Squar...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 数据工程社区将 RAP 视为扩展开源数据格式以支持交互式工作负载的一个例子。一些讨论指出，随着云存储性能提升，查询规划和元数据访问已成为点查询的主要瓶颈，而 RAP 通过预计算索引来解决这一问题。
-
-**标签**: `#Data Engineering`, `#Data Lake`, `#Apache Parquet`, `#Spotify`, `#Database Architecture`
+**标签**: `#Kingdom Hearts 4`, `#Game Announcement`, `#Square Enix`, `#Action RPG`, `#D23`
 
 ---
 
 <a id="item-16"></a>
-## [欧洲创纪录热浪致 2.5 万人死亡，扰乱供应链并暴露二战军舰。](https://www.solidot.org/story?sid=85107) ⭐️ 7.0/10
+## [动画制作成本飙升，角川一季度动画业务亏损 66 亿日元](https://www.3dmgame.com/news/202608/3950731.html) ⭐️ 7.0/10
 
-欧盟哥白尼气候变化服务局证实，2024 年 6 月和 7 月是西欧有记录以来最热的月份，期间估计有 2.5 万人死于高温相关疾病。热浪导致河流大面积干涸，迫使商船减载高达 80%以避免搁浅，并使数十艘二战时期沉没的纳粹军舰露出水面。 这一事件鲜明地展示了气候变化多方面且严重的影响，直接冲击公共卫生、关键经济供应链，甚至揭示了历史遗迹。巨大的死亡人数以及对欧洲内河航运的重大干扰，凸显了在变暖世界中采取适应和减缓战略的紧迫性。 莱茵河、多瑙河等河流水位极低，甚至可从太空观测到，这迫使货船大幅减少载货量，显著增加了运输成本并扰乱了供应链。二战军舰的重新浮现，是干旱导致其沉没河流水位下降的直接结果。
+角川集团公布 2026 财年第一季度（2026 年 4 月至 6 月）业绩，其动画及现场娱乐业务录得 66 亿日元（约合 414 万美元）的运营亏损，尽管该板块营收同比增长了 27.4%。这一“无利润繁荣”现象也出现在其他大型动画公司，如 IG Port（Production I.G 和 Wit Studio 的母公司）在截至 2026 年 5 月的财年中动画业务亏损约 822 万美元。 这揭示了日本动画产业一个关键的结构性问题：尽管作品需求旺盛、市场反响热烈，但飙升的制作成本正在侵蚀利润，导致行业出现“无利润繁荣”。这一普遍性问题影响角川、IG Port、CloverWorks、SilverLink 等多个知名工作室，预示着当前商业模式可能难以为继，或将引发行业整合、裁员等成本削减措施或制作融资模式的变革。 角川明确指出，盈利能力下降主要归因于动画制作成本的持续上涨，尽管《Re:从零开始的异世界生活》《欢迎来到实力至上主义的教室》等作品表现强劲。公司预计从下一季度起，动画业务将减少约 20 亿日元开支，这是今年早些时候实施自愿离职（裁员）计划的结果。
 
-rss · 奇客Solidot–传递最新科技情报 · 8月16日 15:52
+rss · 3DM - news中心 · 8月17日 01:35
 
-**背景**: 哥白尼气候变化服务局是欧盟的地球观测计划，提供权威的气候变化数据。莱茵河、多瑙河等内河航道是欧洲商业的生命线，运输煤炭、化学品和谷物等大宗商品。第二次世界大战期间，许多德国海军舰艇在欧洲的河流和沿海地区被击沉。
+**背景**: “无利润繁荣”（無利潤繁栄）一词由日本最大的信用调查公司帝国数据银行提出，用于描述营收增长但因成本上升导致利润萎缩甚至消失的商业状况。在动画制作中，主要成本包括人力（动画师薪酬）、CG 制作以及将中割等非核心工作外包产生的费用。动画工作室通常作为制作委员会成员或联合制片方参与项目，共享收入的同时也承担着高昂的前期制作成本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.dutenews.com/n/article/8629237">欧盟 气 候 监 测 机 构 ：2024年为有记录以来最热年份</a></li>
-<li><a href="https://m.21jingji.com/article/20260803/herald/ecd118025f197596ba6a1ab7ac933128.html">莱茵 河 、多瑙 河 水位双双告急，“我们甚至可以一路走到罗马尼亚” - 21...</a></li>
-<li><a href="https://h5.ifeng.com/c/vivoArticle/v002cTlaHfYJSgfwgNfJWCl7mgH0bTQkNCsbSZpN-_7dbRJ8__?isNews=1&amp;showComments=0">格但斯克湾海底的 纳 粹 德 军 训练 舰 及猎潜艇 沉 船</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/695587184">“无利润繁荣”不可持续 - 知乎专栏</a></li>
+<li><a href="https://baike.baidu.com/item/%E5%B8%9D%E5%9B%BD%E6%95%B0%E6%8D%AE%E9%93%B6%E8%A1%8C/67242890">帝国数据银行 - 百度百科</a></li>
+<li><a href="https://wenku.baidu.com/view/e1e37424971ea76e58fafab069dc5022aaea46a7.html">动画制作成本分析 - 百度文库</a></li>
 
 </ul>
 </details>
 
-**标签**: `#climate-change`, `#public-health`, `#supply-chain`, `#europe`
+**标签**: `#Animation Industry`, `#Financial News`, `#Business Analysis`, `#Kadokawa`
 
 ---
 
 <a id="item-17"></a>
-## [嵌入式工程师为 RISC-V 在发展中世界的成本与定制化优势辩护](https://rvembedded.com/blog_post/12/) ⭐️ 6.0/10
+## [AI 数据中心与电网改造双轮驱动，全球电力设备巨头业绩订单高增长](https://pdf.dfcfw.com/pdf/H3_AP202608171828041428_1.pdf?1786963884000.pdf) ⭐️ 7.0/10
 
-一位来自特立尼达的嵌入式工程师发表文章回应，认为 RISC-V 的低成本和高可定制性对于主要技术中心之外的开发者至关重要，直接反驳了关于其性能和碎片化的批评。他强调，对于物流成本高昂的地区，十美分与一美元的芯片成本差异是重要的经济因素，而非可以忽略的误差。 这一观点凸显了 RISC-V 的开源标准、模块化架构如何通过降低新兴市场工程师和学生的经济与物流门槛，从而推动硬件开发的民主化。它挑战了以性能为主导的主流叙事，表明对于硅谷之外的真实世界嵌入式应用，可获取性和定制化可能更为关键。 作者关于成本的核心论点在评论中受到审视，读者指出一个明显的矛盾：如果物流成本占主导（高达 200 美元），那么更便宜芯片所节省的成本影响就变小了。争论的焦点在于，对于他的情况，芯片的绝对成本还是总到岸成本（芯片+物流）是更相关的衡量标准。
+一份财务分析报告详细阐述了 AI 数据中心需求激增和全球电网现代化改造，正在推动领先的发电和输变电设备公司在其最新财季实现异常强劲的收入和订单增长。例如，GE Vernova 发电业务营收同比增长 14%，在手订单增至 1116 亿美元；而施耐德电气的能源管理业务有机增长 17.7%，其北美收入增长了 25%。 这一趋势标志着全球能源基础设施投资发生了根本性转变，其驱动力来自 AI 发展带来的巨大且集中的电力需求。这表明 AI 热潮的经济影响远不止于芯片制造商和软件公司，它正在为整个工业电力设备和电气元件供应链创造一个持续多年的增长周期。 报告指出，重型燃气轮机市场供应紧张，头部制造商的订单储备已排至五年开外。报告还强调，此前基数较低的 AIDC 电源业务正经历快速增长并向更高功率规格升级，这提升了台达、光宝等公司的产品单价和盈利水平。
 
-hackernews · Narishma · 8月16日 17:01 · [社区讨论](https://news.ycombinator.com/item?id=49321717)
+rss · 东方财富网-行业研报 · 8月16日 16:00
 
-**背景**: RISC-V 是一种开放标准的指令集架构（ISA），允许任何人设计、制造和销售 RISC-V 芯片和软件而无需支付专利费。其模块化设计通过可选扩展实现了广泛的定制化，这是嵌入式系统的关键优势，但也引发了关于碎片化的担忧，因为不同的实现可能无法保证二进制兼容。嵌入式系统开发涉及在更大的机械或电气设备中创建专用的计算系统，通常在成本、功耗和尺寸上有严格限制。
+**背景**: AI 数据中心在训练和运行大型 AI 模型时，具有独特且巨大的电力需求，这给电网带来了新的挑战。FY26Q2 这样的财年标注指的是公司的财务报告期，可能与日历年份不一致。对发电至关重要的重型燃气轮机全球市场高度集中在 GE Vernova、西门子能源等少数制造商手中，由于需求超过供给，导致了显著的订单积压。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnx-software.com/2019/03/10/risc-v-compliance-tests-risc-v-fragmentation/">RISC - V Compliance Tests Aim to Address RISC - V Fragmentation</a></li>
-<li><a href="https://www.edn.com/risc-v-basics-the-truth-about-custom-extensions/">RISC - V basics: The truth about custom extensions - EDN</a></li>
-<li><a href="https://boardor.com/blog/is-the-embedded-industry-really-without-a-future-2">Is the Embedded Industry Really Without a Future? - Boardor</a></li>
+<li><a href="https://arxiv.org/abs/2509.07218">Electricity Demand and Grid Impacts of AI Data Centers ...</a></li>
+<li><a href="https://sustainablepowernews.com/gas-turbine-backlog-crisis-orders-double-as-buyers-face-5-year-wait-times/">Gas Turbine Backlog Crisis: 2026 Orders Double as Buyers Face ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 讨论揭示了读者之间的分歧：一部分人欣赏这种新鲜的、基于特定地域的视角，另一部分人则发现了其经济论点中的逻辑缺陷。争论的关键点包括作者是否回应了最初关于性能和二进制分发的批评，以及他所提及的高昂物流成本是否会抵消更便宜的 RISC-V 芯片带来的好处。一些评论者也质疑他关于物流成本的例子是否适用于尼日利亚和孟加拉国等其他发展中地区。
-
-**标签**: `#RISC-V`, `#Embedded Systems`, `#Hardware`, `#Economics`, `#Developer Experience`
+**标签**: `#Financial Analysis`, `#Energy Infrastructure`, `#Artificial Intelligence`, `#Industrial Equipment`, `#Market Trends`
 
 ---
 
 <a id="item-18"></a>
-## [Anthropic 发布 Claude 官方系统提示词文档，引发关于其长度和实用性的讨论。](https://platform.claude.com/docs/en/release-notes/system-prompts) ⭐️ 6.0/10
+## [2026 年二季度中国保险业资金运用：固收压仓，权益略升，科技长投](https://pdf.dfcfw.com/pdf/H3_AP202608171828040450_1.pdf?1786961759000.pdf) ⭐️ 7.0/10
 
-Anthropic 发布了详细说明其 Claude 大语言模型所用系统提示词的官方文档。这引发了社区对这些提示词的长度及其包含的具体指令的分析。 系统提示词对于塑造大语言模型的行为、个性和安全护栏至关重要，因此这种透明度对于基于 Claude 进行开发的开发者来说非常有价值。围绕提示词长度的讨论突显了行业内在详细指令与模型性能之间权衡的持续辩论。 社区成员已创建工具（例如一个 git 仓库）来追踪不同模型版本间的变更，揭示了具体的增补内容，例如处理缺失图像上传的指令。这些提示词明显很长，一些人认为这可能会分散模型的注意力，或者鉴于其固有能力而显得不必要。
+国家金融监督管理总局发布的数据显示，截至 2026 年二季度，保险业资金运用余额达 40.8 万亿元，权益类资产占比 15.7%，创近四年新高。行业配置策略正转向“哑铃型”框架，一方面夯实高股息资产底仓，另一方面加大对 AI、半导体等硬科技赛道的长期股权投资。 这份分析揭示了中国巨量保险资金的重要战略转向，其配置变化对市场稳定性和科技创新融资至关重要。险资增配权益并长投科技，是对长端利率下行和“资产荒”的主动应对，旨在提升长期收益、匹配负债成本，这将直接影响资本市场资金流向和相关行业的估值。 尽管二季度权益市场涨幅亮眼（沪深 300 指数上涨 11.9%），但险资的股票及基金配置余额环比仅增长 8.3%，增配节奏相对谨慎，部分原因是当期红利板块弹性偏弱及偿付能力指标考量。债券配置占比仍高达 48.8%，坚守“底仓”定位，其中长久期利率债和地方债是配置重点，以降低资产负债久期错配风险。
 
-hackernews · tosh · 8月16日 12:48 · [社区讨论](https://news.ycombinator.com/item?id=49319556)
+rss · 东方财富网-行业研报 · 8月16日 16:00
 
-**背景**: 系统提示词是在用户查询之前提供给大语言模型（LLM）的一组隐藏指令，用于定义其角色、行为约束和输出格式。对于 Claude 这样的模型，这些提示词充当了一个基础层，指导 AI 的回复，确保安全性并与开发者的预期用例保持一致。理解和优化系统提示词是开发者使用 LLM API 构建应用程序的关键技能。
+**背景**: 保险资金是负债驱动型的长期资金，需要在收益、风险和流动性之间进行精细平衡。偿付能力充足率是监管核心指标，用于衡量保险公司吸收损失的能力。750 日移动平均国债收益率曲线是用于计量保险合同负债的重要基准，其变动会影响财务报表利润。金融资产的会计分类，如以公允价值计量且其变动计入当期损益（FVTPL）和以公允价值计量且其变动计入其他综合收益（OCI），决定了投资收益如何在报表中体现，从而影响投资策略。“资产荒”是指在低利率环境下，缺乏收益可观的高质量可投资资产。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bigdatacentric.com/qanda/llm-system-prompt/">What Is an LLM System Prompt and How Does It Work?</a></li>
-<li><a href="https://github.com/asgeirtj/system_prompts_leaks">GitHub - asgeirtj/ system _ prompts _leaks: Extracted system prompts ...</a></li>
-<li><a href="https://wildandfreetools.com/blog/how-long-should-system-prompt-be-tokens-latency-cost-2026/">How Long Should a System Prompt Be? | WildandFree Tools</a></li>
+<li><a href="https://m.21jingji.com/article/20260811/0cc68e1e56f82fa90914bfa868549319.html">今年仅举牌上市公司6次 保 险 公司多渠道加码 权 益 市场 - 21财经</a></li>
+<li><a href="https://actuarygarden.cn/750MA/">不是因为季末才想你 - 精算后花园</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论显示出复杂的情绪：一些人对版本间的具体变更很感兴趣，并构建了工具来追踪它们；而另一些人则担心提示词过长，可能会妨碍模型性能。此外，还有一个离题的担忧被提出，涉及论坛对 AI 批判性报道的审核做法。
-
-**标签**: `#ai`, `#claude`, `#llm`, `#developer-tools`
+**标签**: `#Finance`, `#Insurance Industry`, `#Investment Strategy`, `#Asset Allocation`, `#China Markets`
 
 ---
 
 <a id="item-19"></a>
-## [漫威在 D23 公布新版《X 战警》演员阵容及 2028 年上映日期](https://www.3dmgame.com/news/202608/3950718.html) ⭐️ 6.0/10
+## [AI 制药驱动生命科学上游公司股价上涨](https://pdf.dfcfw.com/pdf/H3_AP202608171828036361_1.pdf?1786955990000.pdf) ⭐️ 7.0/10
 
-在 D23 全球粉丝大会上，漫威影业正式公布了即将重启的《X 战警》电影主要演员阵容，定于 2028 年 5 月上映，并展示了由 AI 生成的新角色概念图。 这标志着 X 战警正式融入漫威电影宇宙（MCU），为一个新的故事时代和角色联动奠定了基础，将塑造该系列未来多年的发展方向。 公布的演员阵容包括萨迪·辛克饰演琴·格蕾，基特·康纳饰演镭射眼，克里斯托弗·阿波特饰演 X 教授等。AI 生成的概念图虽非官方工作室物料，但为粉丝提供了对新演员饰演经典角色的早期视觉想象。
+东吴证券发布的研究报告指出，AI 驱动的药物发现正在为生命科学上游服务创造巨大需求，并带动了金斯瑞生物科技、义翘神州等公司的股价强劲表现。报告特别提到，Twist Bioscience 的 AI 相关订单预计将从 2500 万美元跃升至约 1 亿美元量级。 这一趋势标志着 AI 在生物制药领域不再仅仅是效率工具，而是成为核心创新引擎，直接推动了基础研究供应链的增长。从事基因合成、蛋白服务和体外验证等上游业务的公司和投资者，将系统性受益于 AI 候选分子数量的爆发。 报告强调，“干湿实验闭环”（即计算 AI 设计与物理实验室实验相结合）是 AI 药物发现的核心运作逻辑，湿实验环节不可替代。报告提供了一个广泛的投资框架，将创新药和科研服务列为最看好的子行业，同时也提示了药品耗材降价超预期等风险。
 
-rss · 3DM - news中心 · 8月16日 23:39
+rss · 东方财富网-行业研报 · 8月16日 16:00
 
-**背景**: X 战警是漫威漫画中的超级英雄团队，最早由 20 世纪福克斯公司于 2000 年改编成系列电影。在迪士尼收购福克斯后，X 战警的电影版权回归漫威影业，使其得以规划融入 MCU。D23 是迪士尼的官方粉丝俱乐部及两年一度的博览会，是发布重大消息的场合。
+**背景**: AI 药物发现利用计算模型（“干实验”）设计潜在的药物分子，然后必须在实验室中进行物理测试和验证（“湿实验”）。这种迭代的“干湿实验闭环”加速了研发进程。生命科学上游公司为此过程提供必要的服务和材料，例如 DNA 合成（如 Twist Bioscience 的平台）、蛋白表达和模式动物。报告中提到的 AKT 抑制剂 afuresertib 所靶向的 PI3K/AKT/mTOR 通路，是癌症等疾病中涉及的关键信号通路。
 
-**标签**: `#Marvel`, `#X-Men`, `#Movie Announcement`, `#Entertainment News`, `#Casting`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.rdworldonline.com/as-ai-floods-drug-discovery-with-designs-twist-uses-dna-chips-to-tackle-the-wet-lab-bottleneck/">As AI floods drug discovery with designs, Twist uses DNA ...</a></li>
+<li><a href="https://aimyprofession.com/case-studies/nvidia-and-lily-bet-1-billion-usd-on-automating-drug-discovery">NVIDIA and Eli Lilly Just Bet $1 Billion on Automating Drug Discovery</a></li>
+<li><a href="https://flcube.com/?p=72377">Laekna&#x27;s NDA for AKT Inhibitor Afuresertib Accepted by CDE in...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Drug Discovery`, `#Biotechnology`, `#Investment Research`, `#Life Sciences`, `#Stock Analysis`
 
 ---
 
 <a id="item-20"></a>
-## [失眠组表示《漫威金刚狼》的激烈网络批评正在损害开发者心理健康](https://www.3dmgame.com/news/202608/3950712.html) ⭐️ 6.0/10
+## [大厂校招狂卷 AI，应届生面临更激烈的竞争与专业门槛](https://www.36kr.com/p/3942888496102792) ⭐️ 7.0/10
 
-失眠组（Insomniac Games）公关总监 James Stevenson 在社交媒体上表示，由于即将推出的游戏《漫威金刚狼》遭受了激烈且持续的网络批评，工作室正考虑建议开发者避开 X 平台。他强调，这波包括将游戏与老作品对比、指责其缺乏创新在内的网络攻击，正在对开发团队的心理健康产生负面影响。 这一事件凸显了有毒的网络言论直接影响游戏开发者福祉这一日益严重的问题，可能导致职业倦怠并影响创作过程。这也引发了关于社交媒体算法在放大负面情绪中的作用，以及工作室应如何在备受瞩目的游戏发布期间保护其团队的讨论。 针对《漫威金刚狼》的具体批评包括，粉丝将其与哨兵机器人的战斗比作 PS2 时代《Ben 10》游戏中的 Boss 战，并认为其玩法相比失眠组的其他作品过于传统且缺乏创新。Stevenson 还指责算法放大了围绕该游戏的负面讨论。
+字节跳动、阿里巴巴、京东等科技大厂已启动 2027 届秋季校园招聘，并显著提高了 AI 岗位的占比，新增了“AI 全栈工程师”、“AI Agent 开发”等新兴职位。脉脉数据显示，2026 年 1 至 5 月，新发布的校招 AI 岗位数量同比增长 47.3%，AI 岗位渗透率从 26.41%升至 37.56%。 这一趋势标志着科技行业人才战略的根本性转变，AI 专业知识正成为核心招聘要求。它为应届毕业生创造了一个更专业化、竞争更激烈的就业市场，迫使他们尽早调整技能，并可能拉大已为 AI 岗位做好准备与未准备好的毕业生之间的差距。 文章指出，虽然 AI 岗位招聘数量庞大，但实际机会未必增多，招聘标准正变得更加严格和专业化。关键在于，一段垂直、对口的实习经历现在往往比名校背景更受重视，且在招聘过程中，“会用 AI”和“懂 AI/开发 AI”是两个完全不同的量级。
 
-rss · 3DM - news中心 · 8月16日 22:37
+rss · 36氪 - 最新资讯频道 · 8月17日 01:00
 
-**背景**: 失眠组（Insomniac Games）是索尼互动娱乐旗下著名的电子游戏开发商，以《瑞奇与叮当》、《漫威蜘蛛侠》系列以及即将推出的《漫威金刚狼》而闻名。《漫威金刚狼》是一款备受期待的 AAA 级动作冒险游戏，已宣布登陆 PlayStation 5。游戏开发行业越来越关注开发者面临的心理健康挑战，这些问题常因“加班文化”和网络骚扰而加剧。
+**背景**: AI 全栈工程师是一个高度综合的技术角色，要求掌握从数据处理、模型训练到部署落地的全流程开发。AI Agent 开发涉及创建具备感知、决策、执行等能力的智能体系统，已超越简单的聊天机器人。AI 面试是一种利用标准化问题和算法评分来评估候选人的自动化筛选流程，旨在提升招聘初期的效率和一致性。
 
-**标签**: `#Game Development`, `#Industry News`, `#Marvel&\#x27;s Wolverine`, `#Insomniac Games`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.zhipin.com/job_detail/dc904fdf3c29cd9503N53du1GFtU.html">AI全栈工程师工作内容_阿里巴巴集团2026年AI全栈工程师工作要求-BOSS...</a></li>
+<li><a href="https://developer.aliyun.com/article/1696502">AI 智能体（Agent）的技术栈-阿里云开发者社区</a></li>
+<li><a href="https://hr.nowcoder.com/article/2639">AI面试流程 全流程拆解与评估标准 2025年9月-牛客网-牛客企业版-牛客...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Tech Recruitment`, `#Career`, `#Industry Trends`, `#Education`
 
 ---
 
 <a id="item-21"></a>
-## [甄子丹亲手为《影之刃零》优化护婴打戏](https://www.3dmgame.com/news/202608/3950708.html) ⭐️ 6.0/10
+## [Anthropic 拟以 2 万亿美元估值创纪录上市，旺旺集团面临经营危机，Sorry 勒索病毒国内传播](https://www.36kr.com/p/3942852697652356) ⭐️ 7.0/10
 
-IGN 发布了一段幕后视频，展示了作为项目核心共创者的演员兼武术家甄子丹如何大幅修改了《影之刃零》中一段保护婴儿的关键战斗场景。甄子丹提议将原设计中婴儿安稳背在身后的平淡打斗，改为婴儿在混战中被击飞，主角需在空中接住并将其托在剑刃之上，从而提升了动作场面和情感张力。 这展示了电影武术专业经验与游戏开发之间超越了简单明星代言的、更深入和真实的合作。它突显了将电影化的动作编排和叙事逻辑融入动作游戏，以创造更具沉浸感和情感共鸣的战斗体验这一行业趋势。 甄子丹自 2023 年起深度参与，为主角“魔渊”完成了面部与全身动作捕捉，并带领“甄家班”全程打磨整套中式功夫战斗体系。游戏定于 10 月 29 日登陆 PS5/PC 平台，专属 State of Play 发布会将于 8 月 18 日举行，带来近 20 分钟的新实机演示。
+《财富》杂志报道称，人工智能公司 Anthropic 计划于 2026 年 10 月进行首次公开募股，估值可能达到 2 万亿美元，这将成为史上规模最大的 IPO。同时，旺旺集团创始人发布内部信，因第一季度业绩未达预期而警告公司面临“重大经营危机”；此外，国家计算机病毒应急处理中心发布预警，国内出现多起“Sorry”勒索病毒攻击案例，该病毒会加密文件并添加“.sorry”后缀。 Anthropic 可能创纪录的 IPO 凸显了市场对头部人工智能公司的巨大估值和投资者信心，可能重塑科技股的公开市场格局。旺旺作为标志性消费品牌面临危机，表明其在适应现代健康消费趋势等方面存在深层挑战。而“Sorry”勒索病毒的传播因其能利用系统漏洞进行无感入侵，构成了重大的网络安全威胁，使众多系统面临风险。 据报道，Anthropic 已于 6 月向美国证券交易委员会秘密提交 IPO 文件并进入静默期；该公司 5 月曾公布其年化营收已突破 470 亿美元。“Sorry”勒索病毒与普通恶意程序的不同之处在于，它利用系统漏洞（特别是 cPanel/WHM 的身份验证绕过漏洞 CVE-2026-41940）进行无感入侵，隐蔽性和攻击性更强，且目前被其加密的文件在没有攻击者密钥的情况下无法解密。
 
-rss · 3DM - news中心 · 8月16日 22:21
+rss · 36氪 - 最新资讯频道 · 8月17日 00:01
 
-**背景**: 《影之刃零》是一款即将推出的动作角色扮演游戏，以其深邃黑暗的艺术风格和根植于真实武术技巧的快节奏战斗而闻名。“甄家班”是由甄子丹领导的著名国际武术指导团队，以融合多种武术风格（尤其是香港动作电影风格）而著称。State of Play 是索尼互动娱乐主办的数字化展示活动，用于发布 PlayStation 游戏和硬件的最新消息。
+**背景**: Anthropic 是一家美国人工智能公司，以其 Claude 系列大语言模型闻名，其商业模式专注于企业客户和 AI 安全性。勒索病毒是一种恶意软件，它会封锁对计算机系统的访问或加密文件，直至支付赎金。“Sorry”勒索病毒是 2026 年 4 月下旬出现的一种特定变种，主要通过 cPanel/WHM 网站托管控制面板中的一个漏洞进行传播。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/">Pre-purchase Phantom Blade Zero on Steam</a></li>
-<li><a href="https://www.gamersky.com/news/202608/2187325.shtml">gamersky.com/news/202608/2187325.shtml</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
+<li><a href="https://github.com/habibkaratas/sorry-ransomware-analysis">GitHub - habibkaratas/sorry-ransomware-analysis: Sorry ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Game Development`, `#Action Game`, `#Phantom Blade Zero`, `#Celebrity Involvement`
+**标签**: `#Artificial Intelligence`, `#Finance`, `#Cybersecurity`, `#Business`, `#IPO`
 
 ---
 
 <a id="item-22"></a>
-## [《火焰纹章：万缕千丝》发布新实机视频，展示画面与玩法提升，定档 2026 年 9 月。](https://www.3dmgame.com/news/202608/3950707.html) ⭐️ 6.0/10
+## [IPO 在即，OpenAI 遭遇重大人事震荡](https://www.36kr.com/p/3941902971993225) ⭐️ 7.0/10
 
-即将推出的战棋角色扮演游戏《火焰纹章：万缕千丝》发布了新的实机视频，展示了相比前作《火焰纹章：风花雪月》显著的画面提升、扩展的开放世界探索以及经过优化的方格战棋战斗。视频还引入了“命运祝福”等新机制，并确认游戏将于 2026 年 9 月 17 日正式发售。 这次预览对于历史悠久的《火焰纹章》系列意义重大，它标志着一次重大的技术和设计演进，将更深度的探索与核心战棋玩法相结合，有望吸引系列老玩家和新用户。外媒的积极早期评价表明，本作旨在成为一款高质量的系列作品，可能为系列乃至整个战棋角色扮演游戏类型树立新的标杆。 游戏实机演示保持了稳定的 30 帧运行，并采用了四线并行的剧情结构，玩家可以从四名主角中任选其一开启独立故事线，单一路线的主线游玩时长超过 20 小时。本次演示仅收录了游戏开篇内容以避免剧透，官方承诺将在发售前陆续公开更多角色和关卡情报。
+OpenAI 联合创始人兼长期技术成员 Scott Gray 已离开公司，并且在八月中旬的三天内，首席运营官 Brad Lightcap 和首席营收官 Denise Dresser 也相继宣布离职。根据内部盘点，这使得 2026 年前八个月离开 OpenAI 的高级管理人员总数至少达到 12 位。 这波备受关注的高管离职潮，发生在 OpenAI 秘密提交 IPO S-1 草案仅两个月后，严重质疑了公司在这一关键转型期的内部稳定性和战略方向。这一时机表明可能存在内部重组或战略转向，可能影响投资者信心，以及公司从研究机构向商业实体转型过程中执行其商业计划的能力。 公司已任命来自云安全公司 Wiz 的 Dali Rajic 为新任首席营收官。有报道指出，联合创始人 Greg Brockman 正在人事变动中巩固权力，且离职人员包括产品、安全和研究团队的关键人物，这表明重组范围超出了单纯的商业角色，是一次更广泛的组织调整。
 
-rss · 3DM - news中心 · 8月16日 22:17
+rss · 36氪 - 最新资讯频道 · 8月16日 07:53
 
-**背景**: 《火焰纹章》是由 Intelligent Systems 开发、任天堂发行的历史悠久的战棋角色扮演游戏系列，以其方格战棋战斗、角色永久死亡（经典模式下）以及深刻的人物关系系统而闻名。上一部正统续作《火焰纹章：风花雪月》（2019 年）取得了巨大成功，扩展了系列的社会模拟和剧情分支元素。《火焰纹章：万缕千丝》正是在此基础上备受期待的下一部正统续作。
+**背景**: OpenAI 是一家领先的人工智能研究和部署公司，以创建 ChatGPT 而闻名。IPO（首次公开募股）是指一家私人公司首次向公众发售股票，这个过程通常需要向投资者展示稳定的领导层和清晰的增长轨迹。S-1 是向美国证券交易委员会（SEC）提交的注册表格，提供了计划上市公司的基本详情。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.vgover.com/topic/79945">vgover.com/topic/79945</a></li>
-<li><a href="https://www.wywyx.com/gonglue/352047.html">wywyx.com/gonglue/352047.html</a></li>
+<li><a href="https://claude.ai/">Claude</a></li>
+<li><a href="https://gemini.google.com/">Google Gemini</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Fire Emblem`, `#Game Announcement`, `#Tactical RPG`, `#Game Preview`
+**标签**: `#Artificial Intelligence`, `#Corporate News`, `#OpenAI`, `#IPO`, `#Tech Industry`
 
 ---
 
 <a id="item-23"></a>
-## [冒险新作《湖之仆从》Steam 好评率高达 98%](https://www.3dmgame.com/news/202608/3950700.html) ⭐️ 6.0/10
+## [甲骨文公布企业 AI 战略：智能体嵌入数据库、GPU 跑满、多云免流量费](https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg) ⭐️ 7.0/10
 
-冒险游戏《湖之仆从》于 8 月 13 日发售，在 Steam 平台迅速获得“好评如潮”评价，好评率高达 98%，累计评论超过 3230 条。粉丝们称赞这款新作是《锈湖》系列的又一佳作，并特别赞赏其更阴郁的氛围、熟悉的手绘风格、关于范德布姆家族的新细节以及设计巧妙的谜题。 极高的玩家好评率证明了小众的《锈湖》解谜冒险系列持久的吸引力和稳定的品质，巩固了其作为经典小众系列的地位。对于独立工作室而言，新作的成功发售有助于维持其独特的叙事宇宙，并展现了强大的粉丝忠诚度，这对于此类注重氛围和故事的游戏持续开发至关重要。 本作故事设定在《锈湖：根源》剧情的数十年前，聚焦于奥尔德斯和威廉·范德布姆的时代，玩家将扮演庄园的一名新侍者。游戏已登陆 PC、iOS 和安卓平台，扩展了该系列的可及性。
+甲骨文公布了其企业级 AI 战略，核心是将 AI 智能体直接嵌入其 Oracle AI Database 26ai 数据库，最大化 GPU 利用率，并免除 OCI 与谷歌云和 AWS 之间多云互联的出向流量费。公司还推出了 AI Business Success \(AIBS\) 方法论，强调以可度量的业务成效而非技术概念为先。 这一战略将甲骨文定位为企业级全栈 AI 集成商，旨在解决阻碍 AI 落地的关键障碍，如数据孤岛、高昂的云间数据迁移成本以及难以证明投资回报率。通过聚焦于可度量的业务成效并提供统一的数据与智能体平台，甲骨文旨在帮助企业从试点项目转向可扩展的生产级 AI 部署。 AIBS 方法论要求项目必须进入生产环境、产生可度量的增收或降本成效，并具备可复制性。将 OCI 定位为连接中心的多云互联服务，主要面向海外市场和中国出海企业，目前在中国大陆本地尚无相应服务。
 
-rss · 3DM - news中心 · 8月16日 13:35
+rss · InfoQ 推荐 · 8月17日 02:57
 
-**背景**: Rust Lake（或称 Rusty Lake）是一家成立于 2015 年的荷兰独立游戏工作室，以其创造的一个超现实且诡异的解谜冒险宇宙而闻名。该系列始于免费的网页游戏《方块逃脱》，后来扩展到付费作品，如深入讲述范德布姆家族多代传奇的《锈湖：根源》。这些游戏的特点是点击式操作、密室逃脱风格的谜题，以及独特的手绘美术风格，共同编织了一个复杂且相互关联的故事背景。
+**背景**: 多模数据库是指在一个数据库引擎内，能够使用多种数据模型（如关系型、文档型、图或向量数据）来存储、索引和查询数据的数据库。这为处理多样化的数据类型和关系提供了更大的灵活性，对于构建供 AI 智能体理解的完整业务语义层至关重要。甲骨文的方法是利用其多模数据库中的图数据类型来表达企业业务对象及其关系，从而使 AI 智能体能够跨系统进行推理。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ru.wikipedia.org/wiki/Rusty_Lake">Rusty Lake — Википедия</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cube_Escape">Cube Escape - Wikipedia</a></li>
-<li><a href="https://rusty-lake.fandom.com/wiki/Vanderboom_Family">Vanderboom Family | Rusty Lake Wiki | Fandom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Multi-model_database">Multi-model database - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/azure-sql/multi-model-features?view=azuresql">Multi-model capabilities - Azure SQL | Microsoft Learn MillenniumDB: A Multi-modal, Multi-model Graph Database The Definitive Guide to Multimodal Databases - tiledb.com ArcadeDB: The Open-Source Multi-Model Graph Database Learning on Multimodal Graphs: A Survey - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gaming`, `#Adventure Game`, `#Steam`, `#Indie Game`, `#Rust Lake`
+**标签**: `#Enterprise AI`, `#Oracle`, `#Database`, `#Cloud Computing`, `#AI Strategy`
 
 ---
 
 <a id="item-24"></a>
-## [张雪机车获红杉中国 15 亿元投资，估值飙升至 600 亿元](https://www.36kr.com/p/3941788399713410) ⭐️ 6.0/10
+## [Dropbox 集成 MCP 与 Dash，将安全设计与代码审查连接起来](https://www.infoq.cn/article/JEaC9PfmAENVHbijfm05) ⭐️ 7.0/10
 
-8 月 13 日，中国摩托车制造商张雪机车宣布获得红杉中国 15 亿元人民币投资，投后估值达到 600 亿元。这一估值较今年初 A 轮融资后的 109 亿元估值实现了爆炸式增长，紧随该公司在世界超级摩托车锦标赛（WSBK）中取得的赛场成功。 此次巨额融资和估值飙升，标志着投资者对一家打破国际技术垄断的国产高性能摩托车品牌抱有强烈信心，可能加速中国汽车产业的升级。这也凸显了赛车运动上的成功，能如何戏剧性地重塑一家小众公司的财务前景并吸引顶级风险资本。 尽管估值很高，但公司 2025 年全年亏损约 2278 万元，研发投入高达 6958 万元。创始人张雪此前曾自曝负债近 1 亿元，虽近期已还清，但这凸显了即便在成功之下公司仍面临的财务压力。
+Dropbox 推出了一套新的工程实践，通过 Model Context Protocol \(MCP\) 和其内部知识系统 Dash，将威胁模型等安全设计产物直接连接到代码审查工作流中。当创建 Pull Request 后，系统会通过 MCP 从 Dash 检索相关的安全上下文，并将其呈现在代码审查界面。 这一集成解决了大规模软件开发中的一个常见问题：在设计阶段确定的安全要求，在代码审查阶段往往因缺乏上下文而脱节，增加了安全疏漏的风险。通过在实现阶段让安全意图始终可见，它将被动的文档转变为工作流中的主动输入，有望提升安全状况，并为在其他以治理为重点的工作流中使用 AI 弥合知识鸿沟树立了先例。 该系统的定位是辅助而非取代人工审查，通过提供可追溯的证据来减少人工交叉核对。虽然目前主要应用于安全评审，但同样的 MCP+Dash 模式可扩展至合规、隐私和设计评审等领域。一个关键挑战是确保检索到的上下文与代码变更高度相关且具体，以避免因噪声或误报损害开发者对系统的信任。
 
-rss · 36氪 - 最新资讯频道 · 8月16日 06:49
+rss · InfoQ 推荐 · 8月17日 02:48
 
-**背景**: WSBK（世界超级摩托车锦标赛）是始于 1988 年的顶级全球摩托车赛事，其参赛车型比专注于原型车的 MotoGP 更接近量产车。红杉中国（现使用品牌名“红杉 HongShan”）是领先的风险投资机构，以其从早期阶段投资高成长性公司而闻名。在中国摩托车市场，春风动力和钱江等公司主导着中大排量（250cc 以上）细分市场，而张雪机车正进入这一领域竞争。
+**背景**: Model Context Protocol \(MCP\) 是一个用于连接 AI 应用与外部数据源和工具的开源标准，为 AI 系统获取所需上下文提供了一种通用方式。Dropbox Dash 是一个由 AI 驱动的知识层，它在保留现有访问控制的同时，集中组织内部内容并使其可被搜索。在安全软件开发中，威胁模型和设计文档是概述潜在风险和对策的关键安全产物，但它们通常与代码库分开存储，容易导致文档过时或在实施阶段被遗漏。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wetron.cc/source/article.html?id=1934524509">看不懂 WSBK ？ 一文帮你读懂 世 界 超 级 摩 托 车 锦 标 赛</a></li>
-<li><a href="https://36kr.com/p/1721857081345">独家｜对话周逵： 红 杉 的秘密， 红 杉 的焦虑-36氪</a></li>
-<li><a href="https://m.21jingji.com/article/20260814/herald/198a18e908d4e7fe3a43a33e3aeb8971.html">刚刚，红杉中国投了张雪 - 21财经</a></li>
+<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
+<li><a href="https://dash.dropbox.com/resources/enterprise-knowledge-management">A Guide to Enterprise Knowledge Management | Dropbox Dash</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Secure_Code_Review_Cheat_Sheet.html">Secure Code Review - OWASP Cheat Sheet Series</a></li>
 
 </ul>
 </details>
 
-**标签**: `#venture-capital`, `#motorsports`, `#startups`, `#investment`, `#automotive`
+**标签**: `#Software Engineering`, `#Security`, `#DevOps`, `#AI Tooling`, `#Code Review`
 
 ---
 
 <a id="item-25"></a>
-## [研究揭示 1860 年奴隶制盛行程度与美国当前县级的黑人-白人死亡率差异相关](https://www.solidot.org/story?sid=85105) ⭐️ 6.0/10
+## [Netflix 详述其集成 Triton 与 vLLM 的内部 LLM 服务平台](https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY) ⭐️ 7.0/10
 
-发表在《美国国家科学院院刊》\(PNAS\)上的一项研究发现，美国各县在 1860 年的奴隶制盛行程度与当代黑人和白人之间的死亡率差异存在显著相关性。研究人员估计，1860 年奴隶人口每增加 10%，黑人相对于白人的死亡率（每 10 万人）会增加约 22 人。 这项研究为系统性种族主义理论提供了量化的长期证据，证明了像奴隶制这样的历史制度如何能够造成持续数代人的、根深蒂固的地方性不平等模式。这些发现强调了需要采取强有力的、有针对性的补救性和平等主义政策，以解决根植于数百年歧视性实践的健康差距。 该研究基于 1860 年的县级数据和当代死亡率统计数据，将历史条件与现代结果联系起来。它特别将奴隶制视为一系列种族歧视性政策的一部分，这些政策共同构建了一个系统性有利于白人、不利于黑人的社会。
+Netflix 发布了一篇技术深度文章，详细介绍了其生产级内部 LLM 服务平台的架构，该平台集成了 NVIDIA 的 Triton Inference Server 进行模型管理，并利用 vLLM 引擎进行可扩展的 GPU 推理。文章涵盖了运营挑战，例如集成自定义模型、管理约束解码以及处理 Triton 与 vLLM 之间的版本兼容性。 这具有重要意义，因为它为构建一个兼顾灵活性、可扩展性和运营稳定性的混合型、生产就绪的 LLM 服务基础设施提供了一个来自大型科技公司的真实世界蓝图。它展示了如何将应用集成与不断演进的后端运行时解耦，这种模式在企业采用多种 LLM 和推理引擎时越来越具有参考价值。 Netflix 选择保留 Triton 进行模型管理和调度，同时将 GPU 推理任务委托给更具运营适应性的 vLLM。一个关键挑战在于，当 vLLM 为管理 GPU 资源而暂停并恢复请求时，如何管理约束解码（例如强制生成 JSON 输出）所需的状态，这迫使 Netflix 增加了检测变化并重建状态的逻辑。
 
-rss · 奇客Solidot–传递最新科技情报 · 8月16日 13:23
+rss · InfoQ 推荐 · 8月17日 01:56
 
-**背景**: 系统性种族主义理论认为，种族不平等不仅由个人偏见维持，也由那些跨代分配资源、机会和生活结果的社会制度所维持。这些制度通常根植于特定的地理区域，即使在原始政策（如奴隶制）结束后很久，仍能造成持久的地方性不平等模式。超额死亡是指在正常条件下预期死亡人数之上的额外死亡人数，是公共卫生领域用于量化危机或系统性差异影响的关键指标。《美国国家科学院院刊》\(PNAS\)是一本享有盛誉、高影响力的多学科科学期刊。
+**背景**: NVIDIA Triton Inference Server 是一个多功能的服务平台，可以管理和服务来自多个框架的模型，处理模型加载、批处理和调度等任务。vLLM 是一个高吞吐量的 LLM 推理和服务库，以其通过 PagedAttention 实现的高效内存管理和连续批处理而闻名。在 Triton 中，“后端”是一个为特定框架或运行时执行推理的组件，例如其 Python 后端或专用的 vLLM 后端。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://quizlet.com/622402255/systemic-racism-theory-lecture-3-flash-cards/">Systemic Racism Theory (Lecture #3) Flashcards | Quizlet</a></li>
-<li><a href="https://www.mortality.watch/methods">Methodology - Mortality Watch</a></li>
-<li><a href="https://impactfactorforjournal.com/pnas-impact-factor/">PNAS Impact Factor 2025 (JCR 2026): 9.5, Q1 &amp; Journal Metrics...</a></li>
+<li><a href="https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/user_guide/model_management.html">Model Management — NVIDIA Triton Inference Server</a></li>
+<li><a href="https://docs.vllm.ai/en/latest/design/arch_overview/">Architecture Overview - vLLM</a></li>
+<li><a href="https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/vllm_backend/README.html">vLLM Backend — NVIDIA Triton Inference Server</a></li>
 
 </ul>
 </details>
 
-**标签**: `#sociology`, `#public health`, `#historical research`, `#social policy`, `#inequality`
+**标签**: `#LLM Serving`, `#AI Infrastructure`, `#Netflix`, `#vLLM`, `#Triton Inference Server`
 
 ---
 
 <a id="item-26"></a>
-## [作者用 161 个新闻源训练 AI 主编识别重大新闻，并附上教程](https://www.ifanr.com/1675326?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=) ⭐️ 6.0/10
+## [AI 周报：英伟达披露 SpaceX 持仓，中国推出 Token 贷，AI 大厂 90 小时工作制成常态](https://www.infoq.cn/article/GzEYHpjhJafhihcYc58x) ⭐️ 7.0/10
 
-一位作者利用 161 个不同的新闻源，开发并训练了一个 AI 主编，使其能够自主识别和筛选重大新闻。该项目已通过一份详细的公开教程进行了记录和分享。 这展示了 AI 在自动化新闻筛选方面一个实用且易于上手的具体应用，可以帮助个人和小型媒体机构应对信息过载。它反映了利用 AI 智能体和 API 来聚合、筛选内容的增长趋势，有望将这种原本仅限于大型组织的能力普及化。 该系统经过专门训练，旨在辨别何为“重大新闻”，这意味着其重点在于超越简单聚合的编辑判断力。教程的包含表明该方法可能使用了相对容易获取的工具或框架，降低了其他人的入门门槛。
+英伟达首次披露了通过投资 xAI 间接持有的约 210 亿美元 SpaceX 股份。同时，国内首个&\#x27;Token 贷&\#x27;金融产品在广州发布，中国银行表示已向 3 户企业投放 800 万元。此外，头部 AI 大厂员工自述，每周 90 小时的工作强度已成为行业常态。 英伟达的巨额持仓加深了其与马斯克旗下公司的战略绑定，可能锁定一个关键的 AI 芯片客户。&\#x27;Token 贷&\#x27;代表了一种面向轻资产 AI 初创企业的、基于数据的新型融资模式。而关于极端工时的报告则凸显了当前 AI 开发竞赛中高昂的人力成本和不可持续的压力。 英伟达已成为 SpaceX 第六大股东，但其持仓市值已因股价下跌降至约 172 亿美元。&\#x27;Token 贷&\#x27;将企业的日均 Token 消耗量作为核心风控指标，另有 2000 万元贷款正在落实用款合同。每周 90 小时的工作制在 OpenAI 和 Anthropic 等公司的关键&\#x27;冲刺期&\#x27;尤为常见。
 
-rss · 爱范儿 · 8月16日 14:47
+rss · InfoQ 推荐 · 8月17日 01:46
 
-**背景**: 新闻聚合涉及从多个来源收集新闻，这可以通过传统的网络爬虫或提供结构化数据源的现代新闻聚合器 API 来实现。自动化新闻筛选利用算法，根据时效性、相关性和多样性等因素来过滤海量信息，为应对信息过载，这项任务正越来越多地由 AI 处理。如今，可以构建 AI 智能体，使其不仅能从跨来源的提供商处聚合新闻，还能进行处理和存储，供编辑或研究人员立即使用。
+**背景**: 在大语言模型的语境中，&\#x27;Token&\#x27;（词元）是模型处理文本的基本单位，可以是一个词或词的一部分。Token 消耗量直接反映了一家公司的 AI 模型被客户调用的频率和强度。由快速模型迭代和基础设施建设驱动的 AI 行业激烈竞争，正给公司带来快速交付成果的巨大压力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://alltopstartups.com/2024/09/04/news-aggregator-api-vs-traditional-aggregation-methods-pros-and-cons/">News Aggregator API vs. Traditional Aggregation Methods : Pros...</a></li>
-<li><a href="https://agentplace.io/templates/news-aggregation-ai-agent">AI Agent for Cross- Source News Aggregation and DB Ingestion</a></li>
-<li><a href="https://www.aiboxtools.com/automated-news-curation-tools/">Automated News Curation : How to Filter Information Overload (2025)</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/7879849562/1d5acf65a06801upvq">Token贷是什么？广东推出的这款贷款产品如何申请？</a></li>
+<li><a href="https://udn.com/news/story/7333/9690940?from=udn-catelistnews_ch2">「短命」上線？ DeepSeek V 4 Pro 正式版 不到24小時 撤 下 | 聯合新聞網</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Application`, `#News Curation`, `#Tutorial`, `#Automation`, `#Media`
+**标签**: `#AI Industry`, `#Tech Investment`, `#Corporate News`, `#Work Culture`, `#China Tech`
 
 ---
 
 <a id="item-27"></a>
-## [中国战队全部缺席《Dota2》TI15 八强，创下历史最差成绩](https://www.gcores.com/articles/218411) ⭐️ 5.0/10
+## [《昭和米国物语》将在科隆游戏展揭晓新预告并提供试玩](https://www.gcores.com/articles/218429) ⭐️ 6.0/10
 
-随着 Team Resilience 在 TI15 突围赛中以 1:2 不敌 Team Spirit，三支中国战队 XG、VG 和 TR 全部被淘汰，无一晋级正赛八强。这是中国战队自 TI1 以来首次全部缺席八强，创下了历史最差战绩。 这一结果对中国《Dota2》电竞生态是一次重大打击，该赛区历史上一直是统治力量，曾多次夺得 TI 冠军。此次惨淡的成绩引发了关于该赛区竞争力、训练体系以及对当前版本适应能力的质疑，尤其本届 TI15 正赛阶段将于 8 月 20 日在中国上海举办。 淘汰发生在最后的突围赛（Last Chance Qualifier）阶段，Team Resilience 以 1:2 输给了卫冕冠军 TI10 冠军 Team Spirit。TI15 正赛阶段将于 8 月 20 日在上海开始，这是继 TI9 之后，国际邀请赛第二次在中国举办。
+国产 RPG《昭和米国物语》将在科隆游戏展 2026 的开幕直播中首次公开全新预告片，并首次在现场提供实机试玩。本次试玩将包含四个不同类型的游戏片段，本作计划于年内发售。 对于这款开发已五年且曾经历延期的游戏而言，此次参展是一个重要的公开里程碑，给关心其进展的玩家吃了一颗定心丸。在科隆游戏展这样的国际大型展会上亮相，也标志着开发商和发行商正积极推动该游戏在全球市场的认知度。 游戏的上一个预告片发布于 2024 年 11 月，原定 2025 年发售，后为进行最终打磨而延期至 2026 年。其海外发行商 4Divinity 将携本作及其他五款新 IP 首次参加科隆游戏展。游戏预计登陆 PlayStation 5 和 PC 平台。
 
-rss · 机核 · 8月16日 08:14
+rss · 机核 · 8月17日 02:15
 
-**背景**: 国际邀请赛（The International，简称 TI）是《Dota2》一年一度的最高级别全球锦标赛，汇聚了顶尖战队争夺数百万美元奖金。中国战队在 TI 历史上战绩辉煌，PSG.LGD、Wings Gaming、Invictus Gaming 等队伍都曾夺冠或是顶级竞争者。赛事赛制包括直邀、地区预选赛以及让队伍争夺正赛名额的最终突围赛。
+**背景**: 《昭和米国物语》是由中国独立游戏开发商铃空游戏开发的一款动作角色扮演游戏。该游戏以其荒诞的架空历史设定而闻名：昭和时代的日本文化殖民了经历灾变后的美国，并以浓烈的 B 级片风格呈现。游戏于 2021 年首次公开，因其独特的文化讽刺、RPG 玩法以及对 80 年代流行文化的致敬而备受关注。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://liquipedia.net/dota2/Team_Spirit">Team Spirit - Liquipedia Dota 2 Wiki</a></li>
-<li><a href="https://winio.ai/blog/articles/all-dota-2-the-international-2026-participants">All Dota 2 The International 2026 Teams and Rosters | Winio</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%B1%B3%E5%9B%BD%E7%89%A9%E8%AF%AD">昭和米国物语 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://baike.baidu.com/item/%E6%98%AD%E5%92%8C%E7%B1%B3%E5%9B%BD%E7%89%A9%E8%AF%AD/59836023">昭和米国物语_百度百科 荒诞世界观拉满！《昭和米国物语》到底能不能玩？_游戏杂谈 海外前瞻｜《昭和米国物语》的世界观设计启示 - 知乎 昭和米国物语 - 萌娘百科 万物皆可萌的百科全书 《昭和米国物语》制作人坦言：不是故意“装死”，是把精力都放在了开发...</a></li>
+<li><a href="https://zh.moegirl.org.cn/%E9%93%83%E7%A9%BA%E6%B8%B8%E6%88%8F">铃 空 游 戏 - 萌娘百科 万物皆可萌的百科全书</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Dota 2`, `#Esports`, `#Gaming News`, `#The International`
+**标签**: `#Game Announcement`, `#RPG`, `#Gamescom`, `#Indie Game`
 
 ---
 
 <a id="item-28"></a>
-## [播客专访科技频道「热男 HotGuys」：拆解创作过程与长期愿景](https://www.gcores.com/radios/218405) ⭐️ 5.0/10
+## [IGN 公布《湮灭之潮》最新实机演示](https://www.gcores.com/articles/218426) ⭐️ 6.0/10
 
-播客节目「皮蛋漫游记」发布了对科技数码频道「热男 HotGuys」联合创始人的专访，详细拆解了其热门视频系列《国行顶配 3》从创意到成片的完整制作流程，并回顾了他们仅凭半年房租启动创业、逐步建立稳定团队的历程。 这次访谈罕见地深入剖析了中国垂直领域数字内容团队的运营与创作挑战，为科技媒体领域的其他创作者和创业者提供了宝贵经验，尤其是在应对商业化、团队协作以及短视频、AI 生成视频等新形式冲击方面。 两位创始人透露，尽管尝试过手机壳、辣椒酱等产品线，但均未能成为业务的可持续「第二曲线」。他们的核心理念是只要内容能覆盖成本就坚持做下去，更看重内容带来的「活人感」与快乐价值，而非追逐短期流量趋势。
+IGN 公布了由中国工作室 Eclipse Glow Games 开发的即将推出的动作冒险游戏《湮灭之潮》的最新实机演示。演示展示了游戏背景设定在被异世界入侵的破碎伦敦，并重点介绍了其核心的“骑士”收集与战斗系统。 此次演示为玩家提供了了解这款来自中国开发者的雄心勃勃的独立游戏在玩法与艺术方向上的关键窗口，有望吸引动作冒险和亚瑟王传说题材游戏爱好者的兴趣。它的成功有助于提升中国工作室开发的、注重叙事的高质量游戏在全球市场的知名度。 游戏的核心特色是“骑士”系统，玩家可以收集十多种来自亚瑟王传说的独特灵体骑士，每个骑士都有明确的战斗定位，如冲击、防御或释放连击。玩家可以根据战斗需求或个人喜好搭配骑士团，构建丰富的战斗流派和策略。
 
-rss · 机核 · 8月16日 04:00
+rss · 机核 · 8月17日 01:25
 
-**背景**: 「热男 HotGuys」是一个中国科技数码视频频道，以其幽默、剧情化的产品评测视频闻名，主要发布在 B 站。其《国行顶配》系列是一种流行的 parody 视频形式，以搞笑方式调侃旗舰手机。「皮蛋漫游记」是一档中文播客节目，常采访创作者，探讨数字文化与内容创作相关话题。
+**背景**: 《湮灭之潮》是一款由中国游戏工作室 Eclipse Glow Games 开发的奇幻动作冒险游戏。游戏灵感来源于亚瑟王传说，背景设定在一个因异世界入侵而破碎的现代伦敦末世。玩家将扮演主角格雯德琳，与灵体骑士并肩作战，揭开入侵的谜团并拯救她的家人。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gcores.com/radios/218405">Vol.95对话 热 男 HotGuys：想把快乐做到八十岁 | 机核 GCORES</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MUPWzkE8u/">热 男 燃尽了！ 《 国 行 顶 配 3 》幕后花絮_哔哩哔哩_bilibili</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tides_of_Annihilation">Tides of Annihilation - Wikipedia</a></li>
+<li><a href="https://store.steampowered.com/app/3292470/Tides_of_Annihilation/">Tides of Annihilation on Steam</a></li>
 
 </ul>
 </details>
 
-**标签**: `#content-creation`, `#digital-media`, `#entrepreneurship`, `#podcast`
+**标签**: `#Game Announcement`, `#Action-Adventure`, `#Gameplay Trailer`, `#Indie Game`
 
 ---
 
 <a id="item-29"></a>
-## [SP.11 2026 暑期档中场点兵：爆款与撤档并存](https://www.gcores.com/radios/218406) ⭐️ 5.0/10
+## [中世纪奇幻大战略游戏《大征服》正式公布](https://www.gcores.com/articles/218422) ⭐️ 6.0/10
 
-本期《SP.11》播客节目与《青年度日指南》串台，主播拉帝对 2026 年暑期档前半段上映的多部电影和游戏进行了快速短评，涵盖了《玩具总动员 5》、《奥德赛》、《超级少女》等作品。节目为提到的 11 部作品提供了详细的时间轴，并预告将在暑期档结束后推出更完整的盘点。 这份中场点评为观众和行业观察者提供了及时、浓缩的反馈，有助于大家在密集的档期排片中做出选择，并感知重点作品的初期口碑。这反映了在数字媒体时代，播客和创作者评论正日益成为娱乐批评和作品发现的重要渠道。 被点评的作品类型多样，包括动画续集（《玩具总动员 5》）、超级英雄电影（《蜘蛛侠 崭新之日》）、恐怖题材（《后室》）以及动作惊悚片（《火遮眼》）等。本期节目定位为前瞻性短评，并预告在暑期档结束后，摇摆指南栏目将推出更深入完整的盘点。
+游戏工作室 CH4WORKS 正式公布了中世纪奇幻大战略游戏《大征服》。该游戏承诺提供一个无缝的战役到战斗系统，王国治理与战斗在同一时间线上实时同步进行，战斗最多可支持 10 万个单位。 此次公布之所以重要，是因为它试图在一个持续运行的世界中，将实时大战略与大规模战术战斗相结合，这种组合极具野心，可能同时吸引深度策略游戏爱好者和史诗战争游戏爱好者。对于一家旨在策略游戏类型内进行创新的小型工作室而言，这是一个值得关注的项目。 游戏将包含一个完整的多人大战役模式，每位玩家在同一个持续运行的实时世界中控制一个独立的王国，涉及外交、贸易和战争。然而，开发商 CH4WORKS 并非知名工作室，且游戏宏大的规模给其执行带来了显著的技术和设计挑战。
 
-rss · 机核 · 8月16日 03:00
+rss · 机核 · 8月17日 01:05
 
-**背景**: 暑期档是电影及娱乐行业的关键档期，通常集中上映高预算的商业大片，以争取最大的观众流量。&\#x27;后室&\#x27;（The Backrooms）是一个源自网络怪谈/都市传说的恐怖概念，描述了一种无尽、单调的办公室空间，这一设定已衍生出多款游戏和媒体作品。&\#x27;火遮眼&\#x27;是一部 2026 年上映的动作惊悚片，由谢苗主演，讲述一位失语维修工为营救被绑架的女儿而踏上复仇之路的故事。
+**背景**: 大战略游戏通常侧重于对国家或帝国进行长期的高层管理，其机制往往是回合制或可暂停的实时制。相比之下，实时战略游戏则强调在单场战斗中进行持续、快节奏的基地建设和单位控制。《大征服》旨在融合这两个概念，让战略战役层和战术战斗层都在实时状态下运行，无需单独的加载或切换阶段，这是一个对技术要求很高的设计。来源：https://en.wikipedia.org/wiki/Real-time\_strategy\_game, https://strategygame.org/real-time-strategy-games-a-genre-guide/
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://m.tvmao.com/dy/biFhamBj">火 遮 眼 剧 情 介绍_ 电 影 _ 电 视猫</a></li>
-<li><a href="https://www.douyin.com/shipin/7637669518122469403">后 室 风格是什么意思-抖音</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Real-time_strategy_game">Real-time strategy game - Wikipedia How Real-Time Strategy Games Work: Systems, Mechanics, and ... Grand Strategy Games: A Beginner&#x27;s Guide for 2026 Real-Time Strategy Game Mechanics Guide - datacalculus.com RTS Game Design (Fundamentals, Mechanics, Template) Best Real-Time Strategy (RTS) Games to Play in 2026: Classic ...</a></li>
+<li><a href="https://strategygame.org/real-time-strategy-games-a-genre-guide/">Real-Time Strategy Games: A Complete Genre Guide</a></li>
 
 </ul>
 </details>
 
-**标签**: `#movie-reviews`, `#summer-season`, `#entertainment`, `#podcast`
+**标签**: `#Grand Strategy`, `#Game Announcement`, `#Medieval Fantasy`, `#Real-Time Strategy`
 
 ---
 
 <a id="item-30"></a>
-## [心理恐怖游戏《别眨眼》追加主机版本，计划 2026 年第三季度发售](https://www.3dmgame.com/news/202608/3950717.html) ⭐️ 5.0/10
+## [《战地风云 6》x《捍卫战士》联动视频曝光，展示&\#x27;公鸡&\#x27;和&\#x27;鲍勃&\#x27;真人演员配音画面](https://gnn.gamer.com.tw/detail.php?sn=309969) ⭐️ 6.0/10
 
-发行商 Serafini Productions 和开发商 Eye Blink Twice 宣布，心理恐怖游戏《别眨眼》将追加 PS5 和 Xbox Series X\|S 主机版本，与之前公布的 PC Steam 版本同步于 2026 年第三季度发售。 此次多平台扩展拓宽了游戏的潜在受众，让更多 PC 和主流次世代主机平台的恐怖游戏爱好者能够接触到本作。这反映了游戏行业同步跨平台发行的趋势，有助于在游戏发售时最大化其商业覆盖范围和社区参与度。 游戏的核心机制涉及通过“眨眼”来重组环境、解开谜题，场景设定在一个梦境与现实交织的世界中。故事背景聚焦于探索一个超现实的校园场景，玩家需要拼凑记忆碎片并直面内心的恐惧。
+Electronic Arts（EA）与《战地风云》工作室公开了一段新视频，介绍了即将于 8 月 18 日上线的《捍卫战士》联动内容。视频中还展示了来自《捍卫战士》系列的&\#x27;公鸡&\#x27;和&\#x27;鲍勃&\#x27;角色真人演员的部分配音过程。 此次联动意义重大，它将一个主要的军事射击游戏系列与全球知名的电影 IP 相结合，有望吸引双方的粉丝群体进入游戏。这代表了一种战略性的内容更新，旨在通过高知名度的流行文化合作来维持玩家参与度，并为《战地风云 6》重新注入活力。 新内容已确认将于 8 月 18 日上线。视频特别强调了&\#x27;公鸡&\#x27;和&\#x27;鲍勃&\#x27;角色的演员参与，这表明了与电影《捍卫战士：独行侠》进行了真实的合作。
 
-rss · 3DM - news中心 · 8月16日 23:25
+rss · 巴哈姆特 GNN 新聞網 · 8月17日 03:36
 
-**背景**: 心理恐怖是恐怖游戏的一个子类型，它更侧重于氛围营造、叙事和心理压迫感，而非传统的惊吓或动作元素。这类游戏常探讨记忆、创伤和扭曲的现实感知等主题，玩家需要在超现实的环境中探索以揭开故事真相。同步的多平台（PC 和主机）发行是一种常见策略，旨在游戏发售首日就能触达尽可能广泛的玩家群体。
+**背景**: 《战地风云 6》是 EA 旗下长期运营的《战地风云》第一人称射击游戏系列的最新主线作品，以其大规模多人对战和载具战斗而闻名。《捍卫战士：独行侠》是 1986 年标志性电影《捍卫战士》的 2022 年续集，其人气已大幅回升。电子游戏与电影之间的联动是一种常见的营销和内容策略，旨在扩大游戏的吸引力并利用现有的粉丝基础。
 
-**标签**: `#gaming-news`, `#psychological-horror`, `#game-release`, `#multi-platform`
+**标签**: `#gaming-news`, `#battlefield`, `#top-gun`, `#game-update`
 
 ---
 
 <a id="item-31"></a>
-## [《湮灭之潮》发布 40 分钟最高画质实机演示，展示剧情与战斗](https://www.3dmgame.com/news/202608/3950715.html) ⭐️ 5.0/10
+## [Bethesda 揭秘如何将虚幻引擎 5 驱动的《上古卷轴 4：湮灭重制版》装入单张 Switch 2 卡带](https://www.3dmgame.com/news/202608/3950745.html) ⭐️ 6.0/10
 
-即将发售的单机动作游戏《湮灭之潮》发布了一段 40 分钟的高画质实机演示，展示了游戏初期的剧情、城镇探索、多场 BOSS 战以及英灵召唤机制。官方确认游戏为纯单人剧情，无多人联机模式，并计划在科隆游戏展上公布更多实机片段。 此次演示至关重要，因为它首次为这款备受期待的游戏提供了实质性的玩法展示，该作代表了一家中国大厂进军 3A 单机领域的尝试。其表现和玩家反馈可能会影响未来中国开发商在高预算、剧情驱动型项目上的发展方向。 该演示来自成都的线下试玩版本，由 TapTap 发现好游戏官方分享。游戏已确认将登陆 PC、PS5 和 Xbox Series X\|S 平台，但具体的发售日期尚未公布。
+Bethesda 的开发人员详细介绍了将采用虚幻引擎 5 的开放世界游戏《上古卷轴 4：湮灭重制版》移植到 Nintendo Switch 2 的技术挑战与解决方案，包括将完整游戏内容装入单张实体卡带。此次移植由 Virtuos 工作室负责，游戏已于 2026 年 8 月 11 日发售，是该平台上首款虚幻引擎 5 开放世界游戏。 这证明了将现代、图形密集型 3A 游戏带到混合型掌机平台的可行性，推动了 Switch 2 在优化和存储方面的边界。它为未来该平台上的虚幻引擎 5 游戏树立了先例，并验证了为大型发行作品保留实体媒介的重要性。 开发团队优化了世界流式加载和美术资产，利用了 Switch 2 的陀螺仪瞄准和高精度振动等特性，并借助 DLSS 技术来保持画面保真度。媒体评测指出，得益于深度优化，该移植版本在某些方面的观感甚至优于 Xbox Series S 版。
 
-rss · 3DM - news中心 · 8月16日 22:54
+rss · 3DM - news中心 · 8月17日 03:51
 
-**背景**: 《湮灭之潮》是一款由腾讯投资的蛇夫座·日蚀边缘工作室开发的动作冒险游戏，被定位为腾讯旗下的首款 3A 单机作品。游戏故事背景设定在遭受异世界入侵的破碎伦敦，并融入了亚瑟王传奇元素。游戏中的“英灵召唤”机制是其核心玩法之一，允许玩家召唤传奇人物协助战斗，这一概念在《Fate》等作品中广为人知。
+**背景**: Nintendo Switch 2 使用实体游戏卡带（Nintendo Game Card）进行存储，据报道其最大容量包括 64GB 等选项。虚幻引擎 5 是一款以高保真图形著称的尖端游戏引擎，通常需要大量的存储空间和处理能力。Virtuos 是一家总部位于新加坡的游戏开发公司，专门为各种平台移植和重制 3A 游戏，此前已有成功的 Switch 移植案例。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://36kr.com/p/3827658881323649">腾讯 游 戏 的One More Thing，是AI-36氪</a></li>
-<li><a href="https://chii.in/subject/536926">湮 灭 之 潮 | Bangumi 番组计划</a></li>
-<li><a href="https://ubook.reader.qq.com/baike/3dyr9wrwxrsux">型月：作为 玩 家的我被 召 唤 为 英 灵 - 百科 - QQ阅读</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nintendo_Game_Card">Nintendo Game Card - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal Engine - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtuos">Virtuos - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Game News`, `#Gameplay Demo`, `#Action Game`, `#Upcoming Games`
+**标签**: `#Game Development`, `#Nintendo Switch 2`, `#Porting`, `#The Elder Scrolls`, `#Unreal Engine 5`
 
 ---
 
 <a id="item-32"></a>
-## [国产大作《湮灭之潮》女主角新形象曝光，引发粉丝争议](https://www.3dmgame.com/news/202608/3950713.html) ⭐️ 5.0/10
+## [IGN 预览《火焰纹章：万缕千丝》，聚焦全新叙事结构与战斗系统](https://www.3dmgame.com/news/202608/3950740.html) ⭐️ 6.0/10
 
-在国产奇幻动作游戏《湮灭之潮》近日举办的首场大型线下试玩活动中，官方公布了女主角格雯德琳的新角色模型。新模型展示了两套风格迥异的服装，但女主角面部轮廓的调整引发了玩家社群的热议，评价褒贬不一。 对于一款剧情驱动的国产 3A 游戏而言，主角的形象设计对玩家沉浸感和市场宣发至关重要。这次强烈的社区反应凸显了开发团队在平衡艺术创作与粉丝期望时所面临的挑战，也为工作室提供了宝贵的实时反馈。 新公布的两套服装包括一套适配伦敦废墟主线的暗黑金纹铠甲正装，以及一套对应古文明遗迹探索章节的沙漠主题浅金露肤异域装束。不满新形象的玩家认为，相比早期宣传中轮廓锐利、辨识度极高的面部，新版调整了五官和下颌线条，气质更柔和，但缺乏特色，偏向“网红脸”。
+IGN 对《火焰纹章：万缕千丝》的预览揭示了全新的多主角叙事结构，玩家可以在四条截然不同的主角路线间自由切换，并介绍了高风险高回报的新战斗技能系统“Blaze Arts”。游戏定于 2026 年 9 月 17 日在 Nintendo Switch 2 平台发售。 此次预览意义重大，因为它展示了《火焰纹章》系列在叙事上的重大演变，摒弃了重复的开篇，提供了更强的玩家自主性和更深的叙事层次。新的战斗系统增加了风险管理的战略维度，可能重新定义该系列的战棋玩法。 IGN 指出，在故事线间自由切换的设计借鉴了近年《塞尔达传说》游戏的思路，但游戏似乎仅提供单个存档位，这可能给希望体验全部剧情的玩家带来不便。“Blaze Arts”系统消耗生命值来发动强力技能，并会积累计量槽，计量槽过半可获得属性增益，但若过满则会触发“爆发”效果，永久降低角色的最大 HP。
 
-rss · 3DM - news中心 · 8月16日 22:40
+rss · 3DM - news中心 · 8月17日 02:27
 
-**背景**: 《湮灭之潮》是一款国产 3A 动作冒险游戏，故事设定在被异界侵蚀、时空扭曲的现代伦敦，并融合了亚瑟王圆桌骑士传说。游戏的核心特色是“骑士召唤系统”，玩家可收集十余名圆桌骑士英灵，在战斗中无缝切换召唤协同作战。游戏计划登陆 PC、PS5 和 XSX\|S 平台，具体发售日期尚未公布。
+**背景**: 《火焰纹章》是由 Intelligent Systems 开发、任天堂发行的长寿战棋角色扮演游戏系列。上一部正统续作《火焰纹章：风花雪月》于 2019 年发售，故事发生在芙朵拉大陆，并采用了多学级分支叙事。新作《火焰纹章：万缕千丝》（亦被称作“Fortune&\#x27;s Weave”）在七年后回归了这一世界观设定。根据资料，“Blaze Arts”是本作中确认引入的新战斗机制，为主角专属。
 
-**社区讨论**: 玩家社群意见出现分歧。一部分玩家称赞新模型是当前国产游戏主角形象的顶尖水准；另一部分玩家则对新形象表示不满，认为其与早期宣传中面部轮廓锐利的版本差异明显，缺乏特色，偏向“网红脸”，并呼吁开发组回调至原版建模。也有玩家提出，观感差异可能源于光照或渲染版本的不同。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://fireemblem.fandom.com/wiki/Blaze_Art">Blaze Art | Fire Emblem Wiki | Fandom</a></li>
+<li><a href="https://fireemblemwiki.org/wiki/Blaze_art">Blaze art - Fire Emblem Wiki</a></li>
 
-**标签**: `#Chinese Games`, `#Game Development`, `#Character Design`, `#Community Feedback`
+</ul>
+</details>
+
+**标签**: `#Fire Emblem`, `#Game Preview`, `#Game Mechanics`, `#IGN`, `#Nintendo Switch`
 
 ---
 
 <a id="item-33"></a>
-## [武侠 RPG《大侠立志传：侠道相逢》延期至 12 月，官方致歉并优化内容](https://www.3dmgame.com/news/202608/3950709.html) ⭐️ 5.0/10
+## [皮克斯在 D23 正式公布《寻梦环游记 2》，首曝剧照并定档 2029 年 11 月。](https://www.3dmgame.com/news/202608/3950736.html) ⭐️ 6.0/10
 
-半瓶醋工作室近日发布公告，宣布原定于 8 月 19 日上线的武侠外传《大侠立志传：侠道相逢》将延期至今年 12 月下旬。官方表示，此次延期预留了近四个月的工期，专项打磨游戏中的伙伴情缘内容，因为现有版本的相关剧情和氛围感未达玩家预期。 此次延期反映了游戏开发中一个日益明显的趋势：工作室开始优先考虑游戏质量和玩家反馈，而非固守发布日期，这对于叙事驱动的 RPG 尤为重要。对于系列粉丝而言，集中优化伙伴情缘内容直接回应了本传取消“结缘后宫”系统所引发的争议，有助于修复与核心玩家社群的关系。 游戏包含序章加四章主线，通关后还有后日谈剧情，拥有 13 名独立伙伴支线、四种普通结局加一个完美结局，单结局通关时长约 20 至 30 小时，全收集完整游玩约 60 小时。延期期间，开发组将新增大量角色情感桥段、专属剧情插画以及如篝火围炉闲谈等日常互动。
+皮克斯动画工作室在 D23 全球粉丝大会上正式公布了《寻梦环游记》的续集，并首次公开了首张概念剧照，展示了已成长为 18 岁少年音乐家的主角米格尔。影片定于 2029 年 11 月 21 日在北美上映，原作导演李·昂克里奇与阿德里安·莫利纳将回归执导。 这一消息之所以重要，是因为《寻梦环游记》是一部在商业和口碑上均取得巨大成功的电影，曾获得两项奥斯卡奖，并因其文化主题而深受观众喜爱。续集的确认以及原班创作团队的回归，标志着皮克斯对拓展这一深受喜爱的 IP 的承诺，并为该工作室的长期动画规划设定了一个重要里程碑。 续集故事设定在第一部结束的数年之后，主角米格尔已长大成人，并与他的爱犬丹丹一同现身。值得注意的是，前作中的反派歌神德拉库斯将在续集中回归复仇，配音演员本杰明·布拉特已确认回归为其献声。
 
-rss · 3DM - news中心 · 8月16日 22:28
+rss · 3DM - news中心 · 8月17日 02:06
 
-**背景**: 《大侠立志传：碧血丹心》（常简称为《大侠立志传》）是由半瓶醋工作室开发、心动公司发行的一款半即时制武侠单机 RPG，于 2023 年 3 月 8 日在 Steam 发售。即将推出的《侠道相逢》是其外传作品。本传中的“结缘”系统（即角色恋爱/后宫系统）曾引发玩家社区的大量讨论和部分不满。新闻中提到的“爬塔”是一种源自 Roguelike 类型、经久不衰的经典游戏玩法模式。
+**背景**: 《寻梦环游记》是皮克斯动画工作室制作、华特迪士尼影片公司于 2017 年发行的一部电脑动画奇幻电影。影片讲述了一个名叫米格尔的小男孩意外进入亡灵世界，在那里寻求他已故的音乐家曾曾祖父的帮助，以返回活人世界并解除家族对音乐的禁令。该片因其动画、音乐以及围绕墨西哥节日亡灵节展开的感人故事而广受赞誉。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E4%BE%A0%E7%AB%8B%E5%BF%97%E4%BC%A0">大俠立志傳 - 維基百科，自由的百科全書</a></li>
-<li><a href="https://www.163.com/dy/article/L49M0CGD0526D8LR.html?clickfrom=w_game">扩圈背刺老玩家！《 大 侠 立 志 传 外 传 》删 后 宫 引众怒</a></li>
-<li><a href="https://m.163.com/dy/article/IEJHOCGI0526K1KN.html">为什么“ 爬 塔 ” 玩 法 一直经久不衰？_手机网易网</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Game News`, `#Release Delay`, `#RPG`, `#Indie Game`
+**标签**: `#Animation`, `#Movie News`, `#Pixar`, `#Sequel`
 
 ---
 
 <a id="item-34"></a>
-## [国产 ARPG《古剑》公布新概念图，展示高自由度战斗系统](https://www.3dmgame.com/news/202608/3950710.html) ⭐️ 5.0/10
+## [卡普空发布《鬼武者：剑之道》沉浸式 ASMR 预告片](https://www.3dmgame.com/news/202608/3950735.html) ⭐️ 6.0/10
 
-即将推出的虚幻引擎 5 国风动作 RPG《古剑》官方近日公布了关键区域“湮灭之境（遗忘之境）”的全新场景美术图。同时，官方转发了外媒 RPGSite 的试玩评测，该评测称赞游戏拥有原创且自由度极高的战斗系统，玩家可搭配武器、法器和召唤亡魂来调整专属打法。 这则消息之所以重要，是因为它展示了中国游戏开发者利用虚幻引擎 5 等现代工具，在开发高保真、文化底蕴深厚的游戏方面持续进步。游戏强调原创的高自由度战斗系统，使其有望在拥挤的动作 RPG 品类中实现创新，吸引那些追求深度玩法与独特中式神话背景的玩家。 游戏被定位为“宽线性”志怪 ARPG，并非纯开放世界或硬核类魂作品。已确认将登陆 PC、PlayStation 5 和 Xbox Series X\|S 平台，但具体发售日期尚未公布。外媒评测也指出，单个试玩章节的体验可能无法完全代表游戏的最终品质。
+卡普空为即将推出的游戏《鬼武者：剑之道》发布了一支新颖的 ASMR 风格预告片，完全聚焦于环境音效设计和氛围沉浸，而非战斗演示。这支在 2026 年 9 月 4 日游戏发售前发布的预告片，引导观众体验了安井金比罗宫、鬼之避难所和六道珍皇寺三个关键场景。 这种营销方式凸显了音频和氛围沉浸感在 3A 游戏宣传中日益增长的重要性，可能为游戏工作室展示环境叙事和声音设计设定新趋势。这标志着卡普空对游戏世界构建的信心，并吸引那些寻求与虚拟世界建立更深层次感官联系的玩家。 游戏已确认将登陆 PC、PlayStation 5、Nintendo Switch 2 和 Xbox Series X\|S 平台，并支持完整的中文界面与字幕。免费试玩版现已开放下载，预购也已开启。
 
-rss · 3DM - news中心 · 8月16日 22:26
+rss · 3DM - news中心 · 8月17日 01:59
 
-**背景**: 虚幻引擎 5 是由 Epic Games 开发的前沿 3D 创作平台，以其能够实现高度逼真的图形和复杂的游戏世界而闻名。动作角色扮演游戏（ARPG）是角色扮演游戏的一个子类型，强调实时战斗和角色成长。游戏设计中的“宽线性”一词，通常指一种在主线叙事框架内为玩家提供多条路径和探索机会的结构，与完全开放的沙盒世界不同。
+**背景**: 《鬼武者》是卡普空旗下历史悠久的动作冒险游戏系列，将日本历史人物与超自然元素相结合。ASMR（自发性知觉经络反应）指的是一种由特定听觉或视觉刺激引发的、令人放松的刺痛感，其在游戏预告片中的应用是一种相对新颖的营销策略。目标平台之一的 Nintendo Switch 2 于 2025 年初正式公布，计划于 2026 年秋季发售。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Unreal_Engine">Unreal Engine - Wikipedia</a></li>
-<li><a href="https://www.unrealengine.com/unreal-engine-5">Unreal Engine 5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Onimusha">Onimusha - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nintendo_Switch_2">Nintendo Switch 2 - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Game Announcement`, `#Action RPG`, `#Chinese Game`, `#Unreal Engine 5`, `#Game Development`
+**标签**: `#Video Games`, `#Game Marketing`, `#ASMR`, `#Capcom`, `#Game Trailer`
 
 ---
 
 <a id="item-35"></a>
-## [Anthropic 发布六大实用技巧，帮助开发者降低 Claude 的 token 使用量和成本](https://www.36kr.com/p/3940734364302722) ⭐️ 5.0/10
+## [张雪机车获红杉中国 15 亿元投资，估值飙升至 600 亿元](https://www.36kr.com/p/3941788399713410) ⭐️ 6.0/10
 
-2024 年 8 月 15 日，Anthropic 发布了一篇博客文章，详细列举了六条帮助开发者在使用 Claude Code 时优化 token 使用、降低成本的实用技巧。这些建议包括任务完成后清空对话、开局就设定好模型和推理强度、使用@引用文件、给命令添加静默参数、在休息前使用/compact 压缩对话，以及将大输出任务交给子 Agent 处理。 这份指南意义重大，因为它直接解决了开发者的一个主要痛点：使用大语言模型时高昂且往往难以预测的成本。遵循这些建议，开发者可以显著降低其月均 150 至 250 美元的 API 账单，并使他们 AI 辅助的开发工作流程更加高效和可持续。 这些技巧利用了 Claude 定价的关键技术细节，例如输出 token 的成本是输入 token 的 5 倍，以及提示缓存带来的巨大节省——从缓存读取的成本仅为正常输入价格的 10%。一个关键的注意事项是，如果模型、推理强度或对话前缀发生改变，缓存就会失效，导致需要按全价重新计算。
+8 月 13 日，中国摩托车品牌张雪机车宣布获得红杉中国 15 亿元人民币投资，投后估值达到 600 亿元。这一估值相比今年初 A 轮融资后的 109 亿元估值实现了爆炸式增长，其近期在世界超级摩托车锦标赛（WSBK）的赛场成功是主要推动力。 此次巨额融资标志着顶级风投对一家本土高性能摩托车品牌的高度认可，可能加速中国品牌进军全球高端摩托车市场的步伐。它凸显了赛车场上的成功如何能迅速转化为财务估值和投资者关注，为中国汽车及消费硬件创业公司树立了新的标杆。 尽管估值高企，该公司 2025 年总产值 75 亿元，研发投入高达 6958 万元，全年亏损约 2278 万元。创始人张雪此前曾自曝负债近 10 亿元，并于上月刚刚还清，这凸显了公司历来烧钱的运营模式，以及当前需要通过规模和盈利来证明其新估值的压力。
 
-rss · 36氪 - 最新资讯频道 · 8月16日 00:00
+rss · 36氪 - 最新资讯频道 · 8月16日 06:49
 
-**背景**: Claude 是 Anthropic 开发的一系列 AI 模型，通过 API 和一个名为 Claude Code 的编程助手提供。使用费用基于&\#x27;token&\#x27;（词元）计费，成本因模型（如 Opus、Sonnet、Haiku）和&\#x27;推理强度&\#x27;（控制模型&\#x27;思考&\#x27;量）而异。CLAUDE.md 文件是一个项目特定的配置文件，Claude Code 会读取它以理解项目上下文和指令。提示缓存是一项节省成本的功能，当对话前缀完全相同时，系统不会重新计算。
+**背景**: 世界超级摩托车锦标赛（WSBK）是基于量产运动摩托车的顶级国际公路摩托车赛事，在此取得成功是工程与性能实力的重要标志。红杉中国是一家领先的风险投资机构，在中国科技和消费市场的各个阶段进行投资。在摩托车行业，研发高性能大排量发动机（如张雪坚持自研的三缸发动机）是资本密集型事业，对于打破国际技术垄断、参与顶级竞争至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://claudecode.jp/en/docs/claude/build-with-claude/effort">Effort | Claude Guide | Unofficial Claude Code Portal ClaudeCode JP</a></li>
-<li><a href="https://claudelog.com/faqs/what-is-claude-md/">What is CLAUDE . md in Claude Code | ClaudeLog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Superbike_World_Championship">Superbike World Championship - Wikipedia</a></li>
+<li><a href="https://startupintros.com/orgs/sequoia-capital-china">Sequoia Capital China: Funding, Team &amp; Investors | Startup Intros</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Cost Optimization`, `#Developer Tools`, `#Anthropic`
+**标签**: `#Venture Capital`, `#Motorcycle Industry`, `#Startup Financing`, `#Sports Marketing`
 
 ---
 
 <a id="item-36"></a>
-## [纵向研究发现贫困人群比富裕人群更早出现身体老化迹象。](https://www.solidot.org/story?sid=85106) ⭐️ 5.0/10
+## [华为将在 AICon 详解盘古模型在昇腾 950 上的通信优化实践](https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL) ⭐️ 6.0/10
 
-发表在《PLOS Medicine》期刊上的一项研究发现，家庭财富处于最低 25%的人群比最高 25%的人群更早出现身体机能下降的迹象。具体而言，英国最贫困的 60 岁人群的步速与最富裕的 75 岁人群相同，显示出功能年龄差距高达 15 年。 这项研究量化了社会经济不平等对健康寿命的显著影响，提供了贫困加速身体机能衰退的具体证据。它强调了公共卫生政策和干预措施需要解决健康的社会决定因素，以减少健康老龄化方面的不平等。 该研究分析了 2012 年至 2023 年间收集的 8500 多名英国参与者和 22600 多名加拿大参与者（年龄在 50-85 岁之间）的数据。在英国，75 岁人群中最贫困与最富裕者的功能年龄差距为 12 岁，而在加拿大这一差距为 6 岁，这可能反映了不同国家社会保障或医疗体系的差异。
+华为 2012 实验室专家李柏潮将于 8 月 21-22 日在 AICon 深圳大会上发表演讲，详细介绍盘古模型在昇腾平台上的通信优化实践。该分享将展示针对 MoE 模型中 AllToAll 通信实现 10%以上性能提升，以及通过 KV Cache 卸载在超长上下文推理中实现 TTFT（首字延迟）提升 10%以上的具体案例。 这很重要，因为通信开销是大规模模型训练和推理中的关键性能瓶颈，直接影响成本和效率。华为针对其昇腾 950 平台的硬件亲和优化，凸显了行业将软件与专用 AI 加速器协同设计以榨取最大性能的趋势，这对于构建有竞争力的 AI 基础设施至关重要。 这些优化高度依赖于昇腾 950 硬件的特定特性，利用了其 CCU（集合通信单元）加速器和专用的 Host-to-Device 通路，这意味着同样的策略在其他平台（如昇腾 910A 或 NVIDIA H20）上可能失效甚至导致性能下降。本次分享是大会演讲的预告，因此完整的技术细节和独立验证尚未公布。
 
-rss · 奇客Solidot–传递最新科技情报 · 8月16日 14:36
+rss · InfoQ 推荐 · 8月17日 02:00
 
-**背景**: 《PLOS Medicine》是一本经过同行评审的开放获取医学期刊，发表关于影响健康的生物医学、环境、社会和政治因素的研究。纵向研究是指对同一群体进行长期跟踪以观察其变化，这对于理解衰老过程至关重要。功能年龄是一个评估个体身体能力相对于其实际年龄的概念。
+**背景**: 昇腾 950 是华为第三代达芬奇架构 AI 处理器，其特色是包含了专用的集合通信单元（CCU）来加速 AllToAll 等多卡通信操作。在大语言模型推理中，KV Cache 用于存储注意力层计算过的键值对以避免重复计算；当设备内存不足时，将其卸载（Offload）到主机内存是处理长上下文的常用技术。MoE（混合专家）模型采用条件路由，针对不同输入激活模型的不同部分（专家），这需要在分布于不同设备上的专家之间进行密集的 AllToAll 通信来交换数据。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/PLOS_Medicine">PLOS Medicine</a></li>
-<li><a href="https://journals.plos.org/plosmedicine/">PLOS Medicine</a></li>
-<li><a href="https://jandan.net/p/118957">研 究 发现，中英两国的这代 老 年人能力有显著提升 - 煎蛋</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2024872433077765922">集合通信处理器（CCU）技术解读文档 - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2042900240278320460">KVCache笔记09：KV Cache 卸载与跨节点复用 - 知乎</a></li>
+<li><a href="https://pillumina.github.io/posts/aiinfra/ascend-950-npu/">昇腾 950 NPU 架构深度解析 | CctoctoFX</a></li>
 
 </ul>
 </details>
 
-**标签**: `#health`, `#socioeconomic`, `#aging`, `#research`
+**标签**: `#AI Infrastructure`, `#Model Optimization`, `#High-Performance Computing`, `#Hardware Acceleration`, `#Large Language Models`
+
+---
+
+<a id="item-37"></a>
+## [欧洲创纪录热浪导致 2.5 万人死亡并引发严重河流干涸。](https://www.solidot.org/story?sid=85107) ⭐️ 6.0/10
+
+欧盟哥白尼气候变化服务局证实，6 月和 7 月是西欧有记录以来最热的月份，期间估计有 2.5 万人死于高温相关疾病。热浪导致欧洲河流大面积干涸，迫使商船减载高达 80%以避免搁浅，并使数十艘二战时期沉没的纳粹军舰重见天日。 这一事件凸显了气候变化造成的严重且直接的人员伤亡和经济损失，极端高温已成为欧洲主要的公共卫生危机。作为欧洲关键供应链动脉的河流运输中断，也表明气候影响如何演变为经济和物流挑战。 河流水位极低的情况甚至可以从太空观测到，这迫使货船大幅减载，严重扰乱了供应链并推高了运输成本。浮出水面的二战军舰属于希特勒的黑海舰队，于 1944 年自沉，它们的重现因可能携带未爆弹药而构成安全隐患。
+
+rss · 奇客Solidot–传递最新科技情报 · 8月16日 15:52
+
+**背景**: 哥白尼气候变化服务局是欧盟的地球观测计划，负责提供权威的气候数据。多瑙河、莱茵河等欧洲主要河流是货物运输的生命线，其历史性的低水位曾多次造成严重的经济中断。这些沉没的军舰是二战的遗留物，当时纳粹德国在多瑙河凿沉了数百艘船只以阻挡盟军推进。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.dutenews.com/n/article/8629237">欧盟 气 候 监 测 机 构 ：2024年为有记录以来最热年份</a></li>
+<li><a href="https://news.qq.com/rain/a/20260808A0CXVK00">欧洲一场大旱，让希特勒的绝密舰队浮出水面：多瑙河现纳粹沉船，700公...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#climate-change`, `#environment`, `#public-health`, `#logistics`, `#europe`
+
+---
+
+<a id="item-38"></a>
+## [动作 RPG《黎明行者之血》在 Steam 开启预购，国区售价 298 元起](https://www.gcores.com/articles/218424) ⭐️ 5.0/10
+
+由 Rebel Wolves 工作室开发、万代发行的动作角色扮演游戏《黎明行者之血》现已在 Steam 国区开启预购，售价 298 元起。该游戏定于 9 月 3 日正式发售。 这是由《巫师 3》总监 Konrad Tomaszkiewicz 领衔、多位 CDPR 资深开发者创立的新工作室 Rebel Wolves 的首个作品，承载了玩家对高质量叙事驱动开放世界 RPG 的期待。其市场表现将影响业界对资深开发者创立新工作室模式的看法，以及中型叙事向 3A 游戏的未来。 本作是一款融合了奇幻与历史元素的开放世界动作 RPG，玩家的选择将塑造主角的命运和世界走向。玩家将扮演被转化为“黎明行者”的科恩，在守护人性与拥抱诅咒拯救家人之间做出关键抉择。
+
+rss · 机核 · 8月17日 01:15
+
+**背景**: Rebel Wolves 是一家新成立的游戏开发工作室，其团队核心成员多为 CD Projekt Red 的资深开发者，曾参与制作《巫师 3：狂猎》和《赛博朋克 2077》等广受好评的作品。工作室负责人兼本作游戏总监 Konrad Tomaszkiewicz 曾担任《巫师 3：狂猎》的总监。该工作室的目标是在一个共享的宇宙背景下，创作拥有独立、完整故事的剧情丰富的角色扮演游戏。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/The_Blood_of_Dawnwalker">The Blood of Dawnwalker - Wikipedia</a></li>
+<li><a href="https://rebel-wolves.com/">Rebel Wolves — a studio born out of love for RPGs</a></li>
+<li><a href="https://archania.org/p/individuals/game-developers/konrad-tomaszkiewicz">Konrad Tomaszkiewicz - archania.org</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Action RPG`, `#Game Announcement`, `#Steam`, `#Open World`, `#Rebel Wolves`
+
+---
+
+<a id="item-39"></a>
+## [中国战队全部缺席《Dota 2》TI15 八强，创下历史最差战绩](https://www.gcores.com/articles/218411) ⭐️ 5.0/10
+
+在《Dota 2》TI15 的突围赛中，随着 Team Resilience 以 1:2 不敌 Team Spirit，中国战队 XG、VG 和 TR 全部被淘汰，无一晋级正赛八强。这是自 TI1 以来，中国战队首次缺席正赛八强，创下了历史最差战绩。 这一结果对中国《Dota 2》电竞圈是一次重大打击，该赛区历史上是统治级力量，曾多次赢得国际邀请赛冠军。这引发了关于该赛区当前竞争实力和人才培养体系的疑问，尤其本届 TI15 正赛阶段将在上海举办，更给本土粉丝群体带来了额外的压力和失望。 本届国际邀请赛（TI15）是自 TI9 以来第二次在中国举办，正赛阶段将于 8 月 20 日在上海开赛。中国战队是在“突围赛”（Last Chance Qualifier）阶段被淘汰的，这是为非直邀战队争夺正赛最后席位而设的赛事。
+
+rss · 机核 · 8月16日 08:14
+
+**背景**: 国际邀请赛（The International，简称 TI）是由 Valve 公司主办的《Dota 2》年度顶级锦标赛，以其通过玩家众筹产生的巨额奖金池而闻名，是电竞赛事中奖金最高的比赛。中国赛区（CN）一直是《Dota 2》的传统强区，PSG.LGD、Invictus Gaming 等战队曾赢得过 TI 冠军。“突围赛”（Last Chance Qualifier）是为那些未通过 Dota 职业巡回赛（DPC）获得直邀资格的战队提供的、争夺正赛最后名额的机会。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://liquipedia.net/dota2/The_International/2024">The International 2024 - Liquipedia Dota 2 Wiki</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Esports`, `#Dota 2`, `#Gaming`, `#Competitive Gaming`
+
+---
+
+<a id="item-40"></a>
+## [动画《末世孤雄》改编 RTS 新作《末世孤雄 通往乐園的道路》Steam 页面公开。](https://gnn.gamer.com.tw/detail.php?sn=309967) ⭐️ 5.0/10
+
+由 Frontier Works 运营的游戏品牌 FWGames 宣布，改编自动画《末世孤雄》的策略新作《末世孤雄 通往乐園的道路》的 Steam 页面已正式公开，并预定于 2027 年发售。 这一消息之所以重要，是因为它代表了一次小众的跨媒体改编，将特定动画的末日僵尸生存主题带入了即时战略游戏类型。它可能会吸引原作粉丝，并测试动画改编为 RTS 游戏这一在市场上相对少见的组合的可行性。 游戏被描述为融合了 RTS 与其他元素，但具体玩法机制在提供的内容中未详细说明。2027 年的发售日期意味着漫长的开发周期，这是潜在玩家需要注意的一个重要信息。
+
+rss · 巴哈姆特 GNN 新聞網 · 8月17日 03:23
+
+**背景**: 动画《末世孤雄》是一部以僵尸末日为背景的日本系列作品，主角对僵尸攻击免疫。即时战略游戏是策略视频游戏的一个子类型，玩家需要实时管理资源和指挥单位，而非回合制进行。Frontier Works 是一家参与动画企划、制作和商品化的日本公司，FWGames 是其旗下的游戏发行品牌。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Real-time_strategy_game">Real-time strategy game - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/channel/UCIhWb-jQlc3BGTTECo5kNxA/about">FWgames - YouTube</a></li>
+
+</ul>
+</details>
+
+**标签**: `#game-announcement`, `#anime-adaptation`, `#rts`, `#steam`
+
+---
+
+<a id="item-41"></a>
+## [英特尔锐炫 Pro B70 专业显卡价格在全球市场暴涨 26%至 48%](https://www.3dmgame.com/news/202608/3950744.html) ⭐️ 5.0/10
+
+英特尔锐炫 Pro B70 专业显卡近期在美国、德国和韩国等全球多个市场的零售渠道出现大幅涨价，涨幅在 26%到 48%之间，其中韩国市场涨幅最为夸张。此次涨价的核心原因是 AI 需求爆发导致其搭载的 32GB 大显存成为抢手货。 此次价格暴涨凸显了高显存 GPU，尤其是对运行大型 AI 模型至关重要的 32GB 显存型号，正面临巨大的市场压力和供需失衡。这表明 AI 硬件短缺的浪潮已显著波及专业工作站显卡领域，可能会增加开发者、研究人员和创意专业人士的硬件成本。 具体案例包括：新蛋网上的华擎锐炫 Pro B70 Creator 显卡价格从 999.99 美元涨至 1299.99 美元（涨幅 30%）；欧洲市场价格从约 1200 欧元跳升至 1509 欧元以上。该显卡基于英特尔的 Battlemage 架构，配备 32 个 Xe2-HPG 核心、256 个 XMX AI 引擎和 32 个光线追踪单元。
+
+rss · 3DM - news中心 · 8月17日 03:34
+
+**背景**: 英特尔的 Battlemage（Xe2）架构是其第二代显卡架构，接替了之前的 Alchemist 架构。XMX（Xe Matrix eXtensions）是集成在英特尔 Xe 核心中的专用 AI 加速引擎，旨在显著提升 AI 推理工作负载的性能。Geizhals 是一个知名的价格比较网站，在德语区尤其流行，用于追踪电子产品和硬件价格。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://chipsandcheese.com/p/intels-battlemage-architecture">Intel ’s Battlemage Architecture - by Chester Lam</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/support/articles/000091112/graphics.html">What is Xe Matrix eXtensions (XMX)? - Intel</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Geizhals">Geizhals - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#hardware`, `#gpu`, `#market-trends`, `#ai-hardware`, `#intel`
+
+---
+
+<a id="item-42"></a>
+## [知名导演因与 J.K.罗琳理念不合，公开拒绝 HBO《哈利·波特》剧集邀约](https://www.3dmgame.com/news/202608/3950741.html) ⭐️ 5.0/10
+
+两位知名导演阿莉·潘基乌和凯特·赫伦公开表示，她们拒绝了 HBO 即将推出的《哈利·波特》电视剧集的合作邀约。潘基乌在社交媒体上分享了其经纪人询问的截图并坚决拒绝，赫伦则在评论中透露自己也已两次拒绝了该项目。 知名导演的公开拒绝，凸显了娱乐行业内持续存在的文化与伦理争议对重大制作项目的影响。鉴于围绕 J.K.罗琳公开言论的持久争议，这预示着 HBO 在为该系列剧集吸引顶尖创意人才方面可能面临挑战。 阿莉·潘基乌以执导 Netflix 剧集《黑镜》而闻名，凯特·赫伦则执导了漫威剧集《洛基》第一季以及《性爱自修室》和《神秘博士》的部分剧集。HBO 和华纳兄弟探索公司尚未对此事发表官方评论，该剧第一季改编自《哈利·波特与魔法石》，定于 2026 年 12 月 25 日在 HBO 首播。
+
+rss · 3DM - news中心 · 8月17日 02:36
+
+**背景**: HBO 正在制作一部全新的《哈利·波特》原著系列电视剧，预计每季改编一部原著的七本小说。该项目备受期待，但也一直笼罩在作者 J.K.罗琳关于性别认同观点的持续争议阴影之下，这些观点已成为多年来的公众辩论和批评焦点。这导致了粉丝群体和创意界内部对于参与“魔法世界”系列作品的态度出现分歧。
+
+**标签**: `#Harry Potter`, `#Television Production`, `#Entertainment Industry`, `#HBO`
+
+---
+
+<a id="item-43"></a>
+## [索尼重金打造焦虑主题小熊吉祥物&\#x27;Nemu&\#x27;，意图对标 Hello Kitty](https://www.3dmgame.com/news/202608/3950739.html) ⭐️ 5.0/10
+
+索尼集团旗下负责 IP 管理的部门——索尼创意产品公司（SCP）正在全力打造一个名为 Nemu（意为“睡眠”）的全新原创角色，这是一只因生活焦虑而失眠的夜猫子熊。该公司计划到 2030 年通过这些新角色创造 100 亿日元（约合 6400 万美元）的商业价值。 此举标志着索尼战略性地进军全球性自有吉祥物 IP 领域，旨在弥补其在该领域长期落后于任天堂的马力欧或三丽鸥的 Hello Kitty 等竞争对手的短板。如果成功，将为索尼横跨游戏、动漫、音乐和电影的庞大娱乐版图开辟重要的新收入来源。 Nemu 的设计紧扣全球普遍的“高压社会”痛点，有调查数据显示美国和日本等市场的成年人焦虑比例很高。索尼虽然拥有如劳拉·克劳馥等知名角色，但多数 IP 版权并不完全属于索尼；其历史上的原创吉祥物如索尼猫 Toro 或音乐狗 PaRappa 均未能成为全球偶像。
+
+rss · 3DM - news中心 · 8月17日 02:20
+
+**背景**: 索尼创意产品公司（SCP）是索尼集团内部负责角色 IP 管理和商业化的部门。在游戏和娱乐行业，像任天堂的马力欧这样的吉祥物角色价值巨大，能驱动周边商品、游戏销售和媒体系列产品的收入。由三丽鸥创造的 Hello Kitty 就是一个典型例子，它通过全球授权和产品创造了数十亿美元的收入。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.3dmgame.com/news/202608/3950739.html">对标Hello Kitty！ 索 尼 花重金打造新吉祥物 IP _3DM单机</a></li>
+<li><a href="https://news.17173.com/content/08142026/231603633.shtml">索 尼 欲打造原 创 角色 IP 叫板 Hello Kitty...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Sony`, `#IP Management`, `#Gaming Industry`, `#Brand Strategy`, `#Mascot`
+
+---
+
+<a id="item-44"></a>
+## [PC Partner 警告：2026 年下半年入门级显卡供应将更加恶化。](https://www.3dmgame.com/news/202608/3950730.html) ⭐️ 5.0/10
+
+索泰（ZOTAC）、映众（Inno3D）和万丽（Manli）等品牌的母公司 PC Partner 发出警告，2026 年下半年入门级显卡的供应形势将进一步恶化。该公司自身显卡销量在上半年下降了 18.4%，尽管平均售价有所上涨。 这一预测意味着预算有限的 PC 游戏玩家和装机者将持续面临挑战，可能导致平价显卡价格进一步上涨，降低 PC 游戏的可及性。这反映了更广泛的供应链压力和成本上涨，对入门级市场细分领域的影响尤为严重。 供应问题在预算级市场尤为突出，因为组件成本的上涨对廉价型号的终端价格影响最为显著。相比之下，高端显卡受缺货影响较小，因为其购买者对价格上涨的敏感度较低。
+
+rss · 3DM - news中心 · 8月17日 01:29
+
+**背景**: PC Partner 是一家主要的显卡制造商和分销商，为索泰（ZOTAC）、映众（Inno3D）和万丽（Manli）等品牌生产显卡，这些品牌是 NVIDIA 和 AMD 的合作伙伴。近年来，由于加密货币挖矿需求、疫情相关的供应链中断以及组件成本上涨等因素，显卡市场经历了显著的波动。入门级或预算级显卡旨在以可承受的价格提供基本的游戏和多媒体性能，对于首次装机者和价格敏感的消费者至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.straitstimes.com/business/graphic-card-shortage-set-to-drive-pc-prices-higher-as-ai-demand-strains-supplies-manufacturer-warns">graphics card shortage to raise pc prices in 2026 | The Straits Times</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Hardware`, `#Graphics Cards`, `#PC Gaming`, `#Supply Chain`, `#Market News`
+
+---
+
+<a id="item-45"></a>
+## [独立开发者回忆 Steam 早期邀请制、项目被拒与严格的美术管控。](https://www.3dmgame.com/news/202608/3950729.html) ⭐️ 5.0/10
+
+独立游戏设计师杰森·罗勒近期分享了他与 2010 年代初 Steam 邀请制打交道的经历，透露他的游戏《Sleep Is Death》因 Valve 对接人离职而被取消上架，而他后来的游戏《Inside a Star-filled Sky》的商店页面美术被 Valve 强制重绘，发售日期也被手动调整。 这段历史记录凸显了像 Steam 这样的主要数字平台曾经对独立开发者拥有的巨大权力和不透明的审核机制，与当今更开放但竞争激烈、游戏发现成为主要挑战的市场环境形成了鲜明对比。 尽管受到严格管控，罗勒的《Inside a Star-filled Sky》因其发售日是平台上唯一的首发游戏而受益，获得了整整一周的首页推广，这帮助它在 Steam 上获得了约 8 万美元的收入，外加个人网站直销的 4 万美元。
+
+rss · 3DM - news中心 · 8月17日 01:24
+
+**背景**: 在 2010 年代初期，Steam 实行邀请制，开发者需要获得 Valve 管理层的个人邀请才能将游戏上架商店，这创造了一个高度精选但竞争度低的环境。杰森·罗勒是一位知名的独立游戏设计师，以其实验性作品闻名，例如《Sleep Is Death》——一款双人回合制叙事游戏，一名玩家扮演角色，另一名玩家则扮演控制世界的“导演”。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://sleepisdeath.net/">Sleep Is Death (Geisterfahrer)</a></li>
+<li><a href="https://libregamewiki.org/Sleep_is_Death">Sleep Is Death - Libregamewiki Sleep Is Death - Codex Gamicus - Humanity&#x27;s collective gaming ... Sleep Is Death (Geisterfahrer) (2010) - MobyGames Sleep Is Death (Geisterfahrer) - Retro Replay</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Steam`, `#Game Development`, `#Digital Distribution`, `#Industry History`
+
+---
+
+<a id="item-46"></a>
+## [刘思慕公布《热血无赖》电影新进展：导演与制片公司已定，版权谈判进行中](https://www.3dmgame.com/news/202608/3950728.html) ⭐️ 5.0/10
+
+演员刘思慕确认，改编自游戏《热血无赖》的电影项目已确定由蒂莫·塔哈亚托（Timo Tjahjanto）执导，并由专注于游戏改编的工作室 Story Kitchen 参与制作，剧本初稿已于 2025 年 10 月完成。目前的主要障碍是与游戏版权方 Square Enix（SE）的谈判，达成协议后项目才能进入下一阶段。 此次更新为这个拖延多年的粉丝期待项目提供了实质性进展，表明它离成为现实更近了一步。如果电影成功，有望重新唤起人们对这部经典小众游戏的兴趣，并顺应好莱坞持续的游戏改编电影趋势。 目前尚未公布具体的制作时间表或上映窗口，项目的推进仍取决于与 Square Enix 的谈判结果。导演蒂莫·塔哈亚托以《嗜人之夜》、《小人物 2》等动作片闻名，其风格可能与游戏粗粝且注重武术的动作设定相契合。
+
+rss · 3DM - news中心 · 8月17日 01:22
+
+**背景**: 《热血无赖》是一款于 2012 年发行的开放世界动作冒险游戏，以其独特的叙事和以虚构香港为背景的设定而闻名。该游戏因其卧底警察故事和徒手格斗系统而拥有一批忠实粉丝，但其开发商 United Front Games 已于 2016 年关闭，IP 目前归属发行商 Square Enix。游戏改编电影已成为娱乐行业的一个重要趋势，其口碑和商业成绩各有不同。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://baike.baidu.com/item/%E6%8F%90%E8%8E%AB%C2%B7%E5%A1%94%E5%93%88%E4%BA%9A%E6%89%98/20356164">提莫·塔哈亚托_百度百科</a></li>
+<li><a href="https://www.3dmgame.com/games/sldo/">热 血 无 赖 _ 热 血 无 赖 中文版下载, MOD,修改器,攻略,汉化补丁_3DM 游 戏 网</a></li>
+<li><a href="https://17199.net/article/8922.html">17199.net/article/8922.html</a></li>
+
+</ul>
+</details>
+
+**标签**: `#video-game-adaptation`, `#film-production`, `#sleeping-dogs`, `#entertainment-news`, `#square-enix`
 
 ---
