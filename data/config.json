@@ -237,22 +237,20 @@
       "finance-news"
     ],
     "category_groups": {
-      "category_groups": {
-        "finance": {
-          "name": "财经",
-          "limit": 10,
-          "categories": ["finance","news"]
-        },
-        "tech": {
-          "name": "科技",
-          "limit": 10,
-          "categories": ["tech"]
-        },
-        "acg": {
-          "name": "ACG",
-          "limit": 25,
-          "categories": ["game","ani"]
-        }
+      "finance": {
+        "name": "财经",
+        "limit": 10,
+        "categories": ["finance","news"]
+      },
+      "tech": {
+        "name": "科技",
+        "limit": 10,
+        "categories": ["tech"]
+      },
+      "acg": {
+        "name": "ACG",
+        "limit": 25,
+        "categories": ["game","ani"]
       }
     },
     "default_group": "other",
