@@ -283,7 +283,9 @@
       "date": "#{timestamp}",
       "summaary": "#{summary?limit=2000&split=---}",
       "url": "#{item_url}",
-      "total": "#{item_count}"
+      "total": "#{item_count}",
+      "index": "#{item_index}",
+      "profile": "#{item_profile}"
     },
     "headers": ""
   }
