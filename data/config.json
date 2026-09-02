@@ -230,14 +230,33 @@
     "time_window_hours": 24
   },
   "digest": {
-    "max_items": 5,
+    "max_items": 50,
     "profile_order": [
+      "acg",
       "tech-news",
       "finance-news"
     ],
-    "category_groups": {},
+    "category_groups": {
+      "category_groups": {
+        "finance": {
+          "name": "财经",
+          "limit": 10,
+          "categories": ["finance","news"]
+        },
+        "tech": {
+          "name": "科技",
+          "limit": 10,
+          "categories": ["tech"]
+        },
+        "acg": {
+          "name": "ACG",
+          "limit": 25,
+          "categories": ["game","ani"]
+        }
+      }
+    },
     "default_group": "other",
-    "default_group_limit": null
+    "default_group_limit": 3
   },
   "email": {
     "enabled": false,
