@@ -1,0 +1,20 @@
+{
+  "id": "acg",
+  "name": "acg Creator Radar",
+  "display_names": {"zh": "acg创作者雷达"},
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "content": {
+    "analysis_max_chars": 1000,
+    "enrichment_max_chars": 5000,
+    "sampling": "prefix"
+  },
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {"id": "summary", "type": "section", "tools": [], "primary": true},
+      {"id": "why_now", "type": "section", "tools": ["web_search"], "optional": true},
+      {"id": "community_discussion", "type": "section", "tools": [], "optional": true}
+    ]
+  }
+}
